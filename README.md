@@ -1,6 +1,6 @@
 # Biblioteca de subtítulos
 
-[img](http://i.imgur.com/Nje9c9L.jpg)
+![img](http://i.imgur.com/Nje9c9L.jpg)
 
 Subtítulos de series que se trabajan en GX.
 
