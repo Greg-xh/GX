@@ -16,8 +16,7 @@ Video File: F:/[Beatrice-Raws] Koyomimonogatari [BDRip 1920x1080 x264 FLAC]/[Bea
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 204
-Active Line: 214
+Active Line: 15
 Video Position: 15373
 
 [V4+ Styles]
@@ -46,7 +45,6 @@ Dialogue: 0,0:01:38.14,0:01:39.99,Default,,0,0,0,,Bueno, sí son donas.
 Dialogue: 0,0:01:40.26,0:01:42.61,Default,,0,0,0,,¡Así que son donas! ¡Maravilloso!
 Dialogue: 0,0:01:42.61,0:01:46.72,Default,,0,0,0,,¡Y bien, amo, preséntamelas ahora mismo!
 Dialogue: 0,0:02:00.28,0:02:01.21,Default,,0,0,0,,Amo.
-Comment: 0,0:02:01.59,0:02:02.14,Blogemonogatari,,0,0,0,,{\an4\fscx115\fscy115\c&H232323&\blur0.7\b1\pos(561.334,304.333)}¿Lo hizo?
 Dialogue: 0,0:02:01.67,0:02:02.38,Default,,0,0,0,,¿Qué?
 Dialogue: 0,0:02:02.38,0:02:05.59,Default,,0,0,0,,¿Qué son? ¿Un nuevo producto de Mister Donut?
 Dialogue: 0,0:02:06.05,0:02:07.13,Default,,0,0,0,,No, no.
@@ -162,7 +160,7 @@ Dialogue: 0,0:06:56.63,0:07:02.64,Default,,0,0,0,,Si tuviera cinco minutos, har�
 Dialogue: 0,0:07:02.64,0:07:04.56,Default,,0,0,0,,Nunca podrías encontrarlas.
 Dialogue: 0,0:07:04.95,0:07:06.03,Default,,0,0,0,,Un momento,
 Dialogue: 0,0:07:06.55,0:07:10.89,Default,,0,0,0,,si te doy cinco minutos, te las comerías.
-Dialogue: 0,0:07:10.89,0:07:15.75,Default,,0,0,0,,Si te las comes y dices "¡Mirá, no están!", sería hacer trampa.
+Dialogue: 0,0:07:10.89,0:07:15.75,Default,,0,0,0,,Si te las comes y dices "¡Mira, no están!", sería hacer trampa.
 Dialogue: 0,0:07:16.87,0:07:19.34,Default,,0,0,0,,¿En serio crees que usaría un truco tan barato?
 Dialogue: 0,0:07:19.34,0:07:21.27,Default,,0,0,0,,Definitivamente.
 Dialogue: 0,0:07:21.27,0:07:26.24,Default,,0,0,0,,Bueno, no creo que las cuatro, pero podría esconder una o dos.
