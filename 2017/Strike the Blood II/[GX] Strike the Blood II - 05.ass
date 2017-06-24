@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Strike the Blood
-Audio File: [Hatsuyuki-Kaitou]_Strike_the_Blood_II_-_05_[BD_720p][10bit][A2EC02A5].mkv
-Video File: [Hatsuyuki-Kaitou]_Strike_the_Blood_II_-_05_[BD_720p][10bit][A2EC02A5].mkv
+Audio File: F:/[Beatrice-Raws] Strike the Blood OVA - 05 [BDRip 1920x1080 x264 FLAC].mkv
+Video File: F:/[Beatrice-Raws] Strike the Blood OVA - 05 [BDRip 1920x1080 x264 FLAC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.420000
-Scroll Position: 87
-Active Line: 89
-Video Position: 9039
+Video Zoom Percent: 0.375000
+Scroll Position: 106
+Active Line: 110
+Video Position: 11037
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -137,11 +137,11 @@ Dialogue: 0,0:07:01.33,0:07:05.90,Default,Yukina,0,0,0,,No. Sin importar lo que 
 Dialogue: 0,0:07:06.70,0:07:10.58,Default,Yukina,0,0,0,,Esa es la misión que me dieron después de todo.
 Dialogue: 0,0:07:11.79,0:07:14.51,Default,Kisaki,0,0,0,,Ya veo. Entonces supongo que no tengo elección.
 Dialogue: 0,0:07:16.19,0:07:18.15,Default,Yukina,0,0,0,,¡Deténgase! ¡Detenga el auto!
-Dialogue: 0,0:07:18.15,0:07:18.84,Default,Yukina,0,0,0,,¡De prisa!
+Dialogue: 0,0:07:18.15,0:07:18.84,Default,Yukina,0,0,0,,¡Deprisa!
 Dialogue: 0,0:07:18.84,0:07:20.21,Default,Kojou,0,0,0,,¡Oigan, esperen...!
 Dialogue: 0,0:07:29.26,0:07:33.18,Default,Natsuki,0,0,0,,Creí haberte dicho que no te dejaría ir, Kojou Akatsuki. {como se esfuerzan en decir los nombres completos}
 Dialogue: 0,0:07:34.87,0:07:38.46,Default,Kisaki,0,0,0,,Ya veo. No permitiste que Kojou Akatsuki escapara.
-Dialogue: 0,0:07:38.46,0:07:42.77,Default,Kisaki,0,0,0,,Más bien, esperabas que fuera a algún lugar aislado, Bruja del Vacío.
+Dialogue: 0,0:07:38.46,0:07:42.77,Default,Kisaki,0,0,0,,Más bien esperabas que fuera a algún lugar aislado, Bruja del Vacío.
 Dialogue: 0,0:07:43.22,0:07:45.23,Default,Natsuki,0,0,0,,Así es, pequeña.
 Dialogue: 0,0:07:45.39,0:07:50.70,Default,Natsuki,0,0,0,,Si ese idiota enloquecía en medio de la ciudad, iba a ser una molestia limpiar.
 Dialogue: 0,0:07:50.88,0:07:55.31,Default,Natsuki,0,0,0,,Y no es que quiera luchar con ustedes.
@@ -189,6 +189,8 @@ Dialogue: 0,0:11:02.01,0:11:03.35,Default,Yukina,0,0,0,,¡No te dejaré continua
 Dialogue: 0,0:11:03.38,0:11:04.97,Default,Natsuki,0,0,0,,¡No interfieras!
 Dialogue: 0,0:11:09.86,0:11:10.81,Default,Yukina,0,0,0,,¡Akatsuki!
 Dialogue: 0,0:11:15.02,0:11:16.07,Default,Kanon,0,0,0,,¡Hermano!
+Dialogue: 1,0:11:30.46,0:11:33.00,Arcend,,0,0,0,add,{\fad(740,0)\blur0.6\bord0\c&HE6E5E6&\fscx126\fscy128\pos(635.023,293.645)}El Cuarto Progenitor a la Fuga II
+Dialogue: 0,0:11:30.46,0:11:33.00,Arcend,,0,0,0,add,{\fad(740,0)\bord2.5\blur2\3c&H000000&\fscx126\fscy128\pos(635.023,293.645)}El Cuarto Progenitor a la Fuga II
 Dialogue: 0,0:11:41.39,0:11:42.97,Default,Asagi,0,0,0,,¡¿Qué diablos está pasando?!
 Dialogue: 0,0:11:43.34,0:11:45.95,Default,Mogwai,0,0,0,,Los gremlins están interrumpiendo los aparatos eléctricos.
 Dialogue: 0,0:11:45.95,0:11:48.89,Default,Mogwai,0,0,0,,Un mago de ataque de la Isla Guardia debe estar detrás de esto. {habíamos puesto isla guardia?}{creo que sale deletear eso}
