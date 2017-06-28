@@ -16,8 +16,8 @@ Video File: F:/[Beatrice-Raws] Strike the Blood OVA - 04 [BDRip 1920x1080 x264 F
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 535
-Active Line: 541
+Scroll Position: 727
+Active Line: 746
 Video Position: 18809
 
 [V4+ Styles]
@@ -743,7 +743,7 @@ Dialogue: 0,0:20:58.64,0:21:01.73,Default,Natsuki,0,0,0,,Entonces ve a la oficin
 Dialogue: 0,0:21:01.73,0:21:04.86,Default,Natsuki,0,0,0,,Pero aplicar por una requerirá que te registres como un demonio,
 Dialogue: 0,0:21:04.86,0:21:07.63,Default,Natsuki,0,0,0,,así que tu identidad saldrá a la luz.
 Dialogue: 0,0:21:07.63,0:21:09.46,Default,Kojou,0,0,0,,Por eso vine a pedírtelo.
-Dialogue: 0,0:21:09.46,0:21:14.54,Default,Kojou,0,0,0,,Debe ser fácil para ti arreglar algún pasaje para que \Npodamos salir de la isla Itogami sin una aplicación, ¿no? 
+Dialogue: 0,0:21:09.46,0:21:14.54,Default,Kojou,0,0,0,,Debe ser fácil para ti arreglar algún pasaje para que \Npodamos salir de la isla Itogami sin una aplicación, ¿no?
 Dialogue: 0,0:21:16.59,0:21:21.70,Default,Natsuki,0,0,0,,Supongamos que puedo, sin embargo no tengo \Nninguna razón para llegar a tales extremos por ti.
 Dialogue: 0,0:21:21.70,0:21:24.01,Default,Kojou,0,0,0,,¿Aunque te diga que la vida de alguien está en juego?
 Dialogue: 0,0:21:25.55,0:21:29.09,Default,Natsuki,0,0,0,,No interfieras con el caso de Kannawa, Kojou Akatsuki.
@@ -777,4 +777,3 @@ Dialogue: 0,0:23:39.04,0:23:43.20,ED,,0,0,0,,{\fad(200,200)\blur2}ni en lo más 
 Dialogue: 0,0:23:43.19,0:23:49.25,ED,,0,0,0,,{\fad(200,200)\blur2}Para asegurarme de nunca abandonar este cálido sentimiento,
 Dialogue: 0,0:23:49.25,0:23:57.03,ED,,0,0,0,,{\fad(200,200)\blur2}siempre quiero estar cerca de tu corazón
 Dialogue: 0,0:23:58.04,0:24:02.16,ED,,0,0,0,,{\fad(200,200)\blur2}Cerca de tu corazón
-Dialogue: 0,0:22:37.32,0:22:39.32,Default,,0,0,0,,
