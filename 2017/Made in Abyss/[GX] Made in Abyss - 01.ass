@@ -10,13 +10,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Roberto.Zero
-Video File: @TL @TLC @Edit/[Scum] Made in Abyss - 01 [WEB][EAE6517C].mkv
+Audio File: ../../../../../Desktop/@TL @TLC @Edit/[Scum] Made in Abyss - 01 [WEB][EAE6517C].mkv
+Video File: ../../../../../Desktop/@TL @TLC @Edit/[Scum] Made in Abyss - 01 [WEB][EAE6517C].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 114
-Active Line: 147
-Video Position: 33972
+Video Zoom Percent: 0.500000
+Scroll Position: 322
+Active Line: 329
+Video Position: 22552
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -173,7 +174,7 @@ Dialogue: 0,0:11:35.71,0:11:37.67,Default,,0,0,0,,¡Así es!
 Dialogue: 0,0:11:37.67,0:11:41.63,Default,,0,0,0,,¡Si no lo salvaba, sería comida de serpiente ahora mismo! ¡Ese Nat!
 Dialogue: 0,0:11:41.63,0:11:42.68,Default,,0,0,0,,¿Lo salvaste?
 Dialogue: 0,0:11:42.68,0:11:47.47,Default,,0,0,0,,¡Sí! ¡Hice sonar mi silbato y actué como carnada!
-Dialogue: 0,0:11:47.47,0:11:50.23,Default,,0,0,0,,¿Y bien? ¿Cómo te salvaste tú entonces?
+Dialogue: 0,0:11:47.47,0:11:50.23,Default,,0,0,0,,¿Y bien? ¿Cómo te salvaste tú, entonces?
 Dialogue: 0,0:11:50.56,0:11:52.80,Default,,0,0,0,,¡Esa es la mejor parte!
 Dialogue: 0,0:11:52.80,0:11:55.41,Default,,0,0,0,,Una luz como la que nunca había visto...
 Dialogue: 0,0:11:57.05,0:11:58.75,Default,,0,0,0,,¡Oh, estuvo cerca!
@@ -252,7 +253,7 @@ Dialogue: 0,0:15:29.97,0:15:31.41,Default,,0,0,0,,¡Sí que lo eres!
 Dialogue: 0,0:15:31.41,0:15:32.91,Default,,0,0,0,,¡La electricidad hizo que te movieras!
 Dialogue: 0,0:15:32.91,0:15:34.62,Default,,0,0,0,,¡Eres resistente al fuego!
 Dialogue: 0,0:15:34.62,0:15:37.02,Default,,0,0,0,,¡Y no se te puede hacer un rasguño!
-Dialogue: 0,0:15:37.90,0:15:41.28,Default,,0,0,0,,¿Entonces no recuerdas ni siquiera que eres un robot?
+Dialogue: 0,0:15:37.90,0:15:41.28,Default,,0,0,0,,Entonces, ¿no recuerdas ni siquiera que eres un robot?
 Dialogue: 0,0:15:41.28,0:15:44.02,Default,,0,0,0,,A lo mejor esa descarga le afectó el cerebro.
 Dialogue: 0,0:15:44.52,0:15:45.88,Default,,0,0,0,,¡Tenemos problemas!
 Dialogue: 0,0:15:45.88,0:15:48.74,Default,,0,0,0,,¡Se fue la luz en todo el orfanato!
@@ -336,17 +337,17 @@ Dialogue: 0,0:20:13.33,0:20:15.77,Default,,0,0,0,,La ciudad del gran pozo. ¡Ort
 Dialogue: 0,0:20:16.45,0:20:18.94,Default,,0,0,0,,¡Bienvenido a Orth, Reg!
 Dialogue: 0,0:20:29.81,0:20:31.26,Default,,0,0,0,,¿Y este pozo...?
 Dialogue: 0,0:20:31.26,0:20:32.10,Default,,0,0,0,,¿Eh?
-Dialogue: 0,0:20:32.47,0:20:35.29,Default,,0,0,0,,¡¿Te olvidaste del abismo también?!
+Dialogue: 0,0:20:32.47,0:20:35.29,Default,,0,0,0,,¡¿Te olvidaste del Abismo también?!
 Dialogue: 0,0:20:35.63,0:20:36.78,Default,,0,0,0,,¿Abismo?
 Dialogue: 0,0:20:36.78,0:20:38.55,Default,,0,0,0,,Este enorme pozo se llama Abismo.
 Dialogue: 0,0:20:38.55,0:20:41.62,Default,,0,0,0,,¡Y te encontré dentro de él!
 Dialogue: 0,0:20:42.46,0:20:43.30,Default,,0,0,0,,Yo...
 Dialogue: 0,0:20:44.36,0:20:46.38,Default,,0,0,0,,Pensé que...
-Dialogue: 0,0:20:46.38,0:20:49.31,Default,,0,0,0,,¡A lo mejor vienes del fondo del abismo, Reg!
+Dialogue: 0,0:20:46.38,0:20:49.31,Default,,0,0,0,,¡A lo mejor vienes del fondo del Abismo, Reg!
 Dialogue: 0,0:20:49.31,0:20:50.47,Default,,0,0,0,,¿Eh?
 Dialogue: 0,0:20:50.47,0:20:54.02,Default,,0,0,0,,¡Nunca vi un robot como tú!
 Dialogue: 0,0:20:54.26,0:20:55.66,Default,,0,0,0,,¡Tiene que ser así!
-Dialogue: 0,0:20:56.08,0:20:59.20,Default,,0,0,0,,Debes ser del fondo del abismo, donde nadie ha llegado...
+Dialogue: 0,0:20:56.08,0:20:59.20,Default,,0,0,0,,Debes ser del fondo del Abismo, donde nadie ha llegado...
 Dialogue: 0,0:21:00.92,0:21:02.03,Default,,0,0,0,,El Abismo...
 Dialogue: 0,0:21:05.14,0:21:08.01,Default,,0,0,0,,Hace 1,900 años,
 Dialogue: 0,0:21:08.01,0:21:13.15,Default,,0,0,0,,descubrieron un gran pozo en una isla remota al sureste de Beoluska.
@@ -355,7 +356,7 @@ Dialogue: 0,0:21:19.94,0:21:23.67,Default,,0,0,0,,cautivó a las personas.
 Dialogue: 0,0:21:24.36,0:21:30.18,Default,,0,0,0,,Increíbles y peligrosas criaturas y misteriosas Reliquias más allá de la comprensión
 Dialogue: 0,0:21:30.18,0:21:37.94,Default,,0,0,0,,llamaban a los aventureros, lo que dio lugar a la ciudad.
 Dialogue: 0,0:21:39.45,0:21:41.44,Default,,0,0,0,,A lo largo de mucho tiempo,
-Dialogue: 0,0:21:41.44,0:21:45.11,Default,,0,0,0,,con un espíritu por lo desconocido e incontables leyendas en su interior,
+Dialogue: 0,0:21:41.44,0:21:45.11,Default,,0,0,0,,con un espíritu aventurero e incontables leyendas en su interior,
 Dialogue: 0,0:21:45.11,0:21:51.31,Default,,0,0,0,,el único rincón del mundo sin explorar ha absorbido a mucha gente.
 Dialogue: 0,0:21:51.31,0:21:54.47,Default,,0,0,0,,Se lo conoce como el Abismo.
 Dialogue: 0,0:22:14.50,0:22:20.50,OP,,0,0,0,,{\fad(10,110)\bord0\blur0.5}Nadie puede resistirse a ir más profundo
