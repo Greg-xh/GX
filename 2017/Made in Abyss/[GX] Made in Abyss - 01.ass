@@ -15,8 +15,8 @@ Video File: ../../../../../Desktop/@TL @TLC @Edit/[Scum] Made in Abyss - 01 [WEB
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 322
-Active Line: 329
+Scroll Position: 18
+Active Line: 24
 Video Position: 22552
 
 [V4+ Styles]
@@ -51,17 +51,16 @@ Dialogue: 0,0:01:00.16,0:01:02.83,Default,,0,0,0,,¡Es un trauma para una peque�
 Dialogue: 0,0:01:02.83,0:01:04.55,Default,,0,0,0,,Bueno, ten cuidado.
 Dialogue: 0,0:01:06.23,0:01:07.96,Default,,0,0,0,,Oh, la gran góndola.
 Dialogue: 0,0:01:07.96,0:01:09.02,Default,,0,0,0,,¡¿Eh?!
-Dialogue: 0,0:01:09.02,0:01:10.16,Default,,0,0,0,,
 Dialogue: 0,0:01:10.16,0:01:13.58,Default,,0,0,0,,¡Mira eso, Nat! ¡Es el grupo de los 600 metros!
 Dialogue: 0,0:01:13.58,0:01:14.84,Default,,0,0,0,,Ya lo sé.
 Dialogue: 0,0:01:17.19,0:01:19.85,Default,,0,0,0,,Oh, desaparecieron...
 Dialogue: 0,0:01:19.85,0:01:22.64,Default,,0,0,0,,Qué suertudos. Me gustaría ir.
 Dialogue: 0,0:01:22.88,0:01:25.84,Default,,0,0,0,,Oye... ¿no crees que está todo muy tranquilo?
-Dialogue: 0,0:01:26.34,0:01:28.79,Default,,0,0,0,,Probablemente porque no hay martilleros...
-Dialogue: 0,0:01:28.79,0:01:30.81,Default,,0,0,0,,No los escucho en lo absoluto.
+Dialogue: 0,0:01:26.34,0:01:28.79,Default,,0,0,0,,Probablemente porque no hay aves martillo...
+Dialogue: 0,0:01:28.79,0:01:30.81,Default,,0,0,0,,No las escucho en lo absoluto.
 Dialogue: 0,0:01:31.10,0:01:32.50,Default,,0,0,0,,Tienes razón.
 Dialogue: 0,0:01:32.50,0:01:34.36,Default,,0,0,0,,Bueno, será más fácil trabajar así.
-Dialogue: 0,0:01:34.36,0:01:37.22,Default,,0,0,0,,Al fin y al cabo, se llevan todo lo que brille a sus cuevas.{no se si es a sus cuevas o de sus cuevas, qc plis}{a sus cuevas es}
+Dialogue: 0,0:01:34.36,0:01:37.22,Default,,0,0,0,,Al fin y al cabo, se llevan todo lo que brille a sus nidos.{no se si es a sus cuevas o de sus cuevas, qc plis}{a sus cuevas es}{cambiado a nido porque :aves:}
 Dialogue: 0,0:01:38.74,0:01:41.40,Default,,0,0,0,,¡Oye! ¡¿Por qué te me adelantas?!
 Dialogue: 0,0:01:41.40,0:01:43.25,Default,,0,0,0,,¡Yo soy la que va a la cabeza!
 Dialogue: 0,0:01:43.25,0:01:44.73,Default,,0,0,0,,¡¿Eh?!
@@ -83,7 +82,7 @@ Dialogue: 0,0:02:51.85,0:02:53.30,Default,,0,0,0,,Qué pesado...
 Dialogue: 0,0:02:53.30,0:02:57.11,Default,,0,0,0,,¡Oye, Nat! ¡Dame una mano!
 Dialogue: 0,0:02:58.66,0:03:01.78,Default,,0,0,0,,Sí que pesa. ¿Dónde diablos se metió...?
 Dialogue: 0,0:03:02.37,0:03:04.52,Default,,0,0,0,,Desgraciado...
-Dialogue: 0,0:03:12.02,0:03:13.38,Default,,0,0,0,,¿Un Leviatán morado?
+Dialogue: 0,0:03:12.02,0:03:13.38,Default,,0,0,0,,¿Un Devorador morado?
 Dialogue: 0,0:03:14.21,0:03:16.20,Default,,0,0,0,,¡¿Qué hace aquí arriba?!
 Dialogue: 0,0:03:20.49,0:03:21.63,Default,,0,0,0,,¡¿Nat...?!
 Dialogue: 0,0:03:21.63,0:03:23.96,Default,,0,0,0,,¡Ay no! ¿Es sangre?
@@ -169,7 +168,7 @@ Dialogue: 0,0:11:20.20,0:11:21.27,Default,,0,0,0,,Pueden irse.
 Dialogue: 0,0:11:22.95,0:11:25.74,Default,,0,0,0,,No lo sabe... Me salvé.
 Dialogue: 0,0:11:26.66,0:11:27.55,Default,,0,0,0,,Riko.
 Dialogue: 0,0:11:28.18,0:11:29.46,Default,,0,0,0,,¿Puedo hablarte un momento?
-Dialogue: 0,0:11:29.99,0:11:35.71,Default,,0,0,0,,Nat me dijo que perdió su mochila cuando lo atacó un Leviatán morado...
+Dialogue: 0,0:11:29.99,0:11:35.71,Default,,0,0,0,,Nat me dijo que perdió su mochila cuando lo atacó un Devorador morado...
 Dialogue: 0,0:11:35.71,0:11:37.67,Default,,0,0,0,,¡Así es!
 Dialogue: 0,0:11:37.67,0:11:41.63,Default,,0,0,0,,¡Si no lo salvaba, sería comida de serpiente ahora mismo! ¡Ese Nat!
 Dialogue: 0,0:11:41.63,0:11:42.68,Default,,0,0,0,,¿Lo salvaste?
