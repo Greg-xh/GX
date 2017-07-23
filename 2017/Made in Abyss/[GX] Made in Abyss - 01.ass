@@ -15,8 +15,8 @@ Video File: ../../../../../Desktop/@TL @TLC @Edit/[Scum] Made in Abyss - 01 [WEB
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 18
-Active Line: 24
+Scroll Position: 37
+Active Line: 38
 Video Position: 22552
 
 [V4+ Styles]
@@ -65,7 +65,7 @@ Dialogue: 0,0:01:38.74,0:01:41.40,Default,,0,0,0,,¡Oye! ¡¿Por qué te me adel
 Dialogue: 0,0:01:41.40,0:01:43.25,Default,,0,0,0,,¡Yo soy la que va a la cabeza!
 Dialogue: 0,0:01:43.25,0:01:44.73,Default,,0,0,0,,¡¿Eh?!
 Dialogue: 0,0:01:49.99,0:01:53.49,Default,,0,0,0,,¡Hoy voy a excavar todo el día!
-Dialogue: 0,0:01:54.75,0:01:59.65,Default,,0,0,0,,¡Sacaré tantas cosas que el jefe se quedará sin palabras!
+Dialogue: 0,0:01:54.75,0:01:59.65,Default,,0,0,0,,¡Sacaré tantas cosas que el Líder se quedará sin palabras!
 Dialogue: 0,0:02:03.23,0:02:06.31,Default,,0,0,0,,¡Muy bien, adelante! ¡Seré la número uno! {creo que esto zafa más}
 Dialogue: 0,0:02:10.94,0:02:12.71,Default,,0,0,0,,Con cuidado...
 Dialogue: 0,0:02:12.71,0:02:13.98,Default,,0,0,0,,¡Tengo uno!
@@ -181,7 +181,7 @@ Dialogue: 0,0:11:58.75,0:12:02.12,Default,,0,0,0,,Casi le hablo acerca de Roboti
 Dialogue: 0,0:12:02.12,0:12:03.34,Default,,0,0,0,,Bueno, como sea.
 Dialogue: 0,0:12:03.75,0:12:08.69,Default,,0,0,0,,Incluso en la seguridad de los 100 metros, nunca sabes qué puede pasar...
 Dialogue: 0,0:12:08.69,0:12:11.18,Default,,0,0,0,,De ahora en más ten cuidado.
-Dialogue: 0,0:12:14.80,0:12:15.98,Default,,0,0,0,,¡Jefe!
+Dialogue: 0,0:12:14.80,0:12:15.98,Default,,0,0,0,,¡Líder!
 Dialogue: 0,0:12:17.16,0:12:18.85,Default,,0,0,0,,D-Disculpe...
 Dialogue: 0,0:12:21.16,0:12:22.73,Default,,0,0,0,,¡Tengo que pedirle un favor!
 Dialogue: 0,0:12:22.73,0:12:26.06,Default,,0,0,0,,¡Por favor asígneme más profundo!
@@ -258,7 +258,7 @@ Dialogue: 0,0:15:44.52,0:15:45.88,Default,,0,0,0,,¡Tenemos problemas!
 Dialogue: 0,0:15:45.88,0:15:48.74,Default,,0,0,0,,¡Se fue la luz en todo el orfanato!
 Dialogue: 0,0:15:48.74,0:15:49.67,Default,,0,0,0,,¡¿Qué?!
 Dialogue: 0,0:15:49.67,0:15:52.13,Default,,0,0,0,,Creo que se nos fue la mano.
-Dialogue: 0,0:15:52.65,0:15:56.16,Default,,0,0,0,,¡Escóndanlo rápido! ¡El jefe viene hacia aquí!
+Dialogue: 0,0:15:52.65,0:15:56.16,Default,,0,0,0,,¡Escóndanlo rápido! ¡El Líder viene hacia aquí!
 Dialogue: 0,0:15:56.16,0:15:57.97,Default,,0,0,0,,¡¿Eh?! ¡¿Cómo sabe que fuimos nosotros?!
 Dialogue: 0,0:15:57.97,0:15:59.83,Default,,0,0,0,,Probablemente porque siempre causas problemas.
 Dialogue: 0,0:15:59.83,0:16:01.17,Default,,0,0,0,,¿Puedes pararte?
