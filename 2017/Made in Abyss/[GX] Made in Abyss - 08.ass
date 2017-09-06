@@ -15,8 +15,8 @@ Video File: @TL @TLC @Edit/[Scum] Made in Abyss - 08 [WEB][077FE552].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 66
-Active Line: 73
+Scroll Position: 283
+Active Line: 298
 Video Position: 32931
 
 [V4+ Styles]
@@ -328,7 +328,7 @@ Dialogue: 0,0:21:35.85,0:21:37.15,Default,,0,0,0,,Reg...
 Dialogue: 0,0:21:42.65,0:21:44.57,Default,,0,0,0,,¿Estás listo?
 Dialogue: 0,0:21:44.57,0:21:45.95,Default,,0,0,0,,Por supuesto.
 Dialogue: 0,0:21:54.00,0:21:59.96,Typeset2,,0,0,0,,{\fs34\be0.1\alpha&HFF&\t(0,400,1,\alpha&H00&)\pos(1418,732)}Tercera Capa
-Dialogue: 0,0:21:54.00,0:21:59.96,Typeset2,,0,0,0,,{\fs34\be0.1\alpha&HFF&\t(0,400,1,\alpha&H00&)\b1\pos(1322.217,834.575)}La Gran Capa{\b0}
+Dialogue: 0,0:21:54.00,0:21:59.96,Typeset2,,0,0,0,,{\fs34\be0.1\alpha&HFF&\t(0,400,1,\alpha&H00&)\b1\pos(1322.217,834.575)}La Gran Falla{\b0}
 Dialogue: 0,0:22:10.22,0:22:15.60,ED,,0,0,0,,{\be8\fad(300,300)}Tomamos las ondas de luz que flotan en el cielo
 Dialogue: 0,0:22:15.60,0:22:20.94,ED,,30,0,0,,{\an7\be8\fad(300,300)}Y las convertimos en puentes que unen nuestros caminos
 Dialogue: 0,0:22:20.94,0:22:26.07,ED,,0,0,0,,{\be8\fad(300,300)}Ya sean pendientes o precipicios peligrosos
