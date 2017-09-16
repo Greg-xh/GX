@@ -18,8 +18,8 @@ Video File: [Some-Stuffs]_Pocket_Monsters_Sun_&_Moon_28_[45D06D8E].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 188
-Active Line: 202
+Scroll Position: 408
+Active Line: 418
 Video Position: 35183
 
 [V4+ Styles]
@@ -451,9 +451,9 @@ Dialogue: 0,0:24:16.27,0:24:17.31,Default,,0,0,0,,¡No dormiré, lo juro!
 Dialogue: 0,0:24:17.31,0:24:19.99,Default,,0,0,0,,¿En serio, de verdad, de verdad no dormirás?
 Dialogue: 0,0:24:22.29,0:24:25.28,Default,,0,0,0,,En el próximo episodio de Pokémon: Sol y Luna:
 Dialogue: 0,0:24:25.28,0:24:27.41,Default,,0,0,0,,Morellul y el bosque de los sueños.
-Dialogue: 2,0:24:27.41,0:24:30.41,Title,,0,0,0,,{\1a&HFF&\fad(0,0)\fsp2\be0.5\fscx79\fscy83\c&H00D200&\b1\3c&H270CF4&\pos(638.134,525.6)}Morellul y el bosque de los sueños
-Dialogue: 1,0:24:27.41,0:24:30.41,Title,,0,0,0,,{\bord3.3\fad(0,0)\fsp2\be0.5\fscx79\fscy83\3c&H270CF4&\c&HFFFFFF&\b1\pos(638.134,525.6)}Morellul y el bosque de los sueños
-Dialogue: 0,0:24:27.41,0:24:30.41,Title,,0,0,0,,{\shad7\fad(0,0)\fsp2\fscx79\fscy83\3c&H270CF4&\c&H06B90C&\b1\pos(638.134,525.6)}Morellul y el bosque de los sueños
+Dialogue: 2,0:24:27.41,0:24:30.41,Title,,0,0,0,,{\1a&HFF&\fad(0,0)\fsp2\be0.5\fscx79\fscy83\c&H00D200&\b1\3c&H270CF4&\pos(638.134,525.6)}Morelull y el bosque de los sueños
+Dialogue: 1,0:24:27.41,0:24:30.41,Title,,0,0,0,,{\bord3.3\fad(0,0)\fsp2\be0.5\fscx79\fscy83\3c&H270CF4&\c&HFFFFFF&\b1\pos(638.134,525.6)}Morelull y el bosque de los sueños
+Dialogue: 0,0:24:27.41,0:24:30.41,Title,,0,0,0,,{\shad7\fad(0,0)\fsp2\fscx79\fscy83\3c&H270CF4&\c&H06B90C&\b1\pos(638.134,525.6)}Morelull y el bosque de los sueños
 Dialogue: 2,0:24:27.41,0:24:30.41,Title,,0,0,0,,{\1a&HFF&\fad(0,0)\fsp1\be0.5\c&HFFFFFF&\fscx71\fscy71\b1\3c&H270CF4&\pos(647.734,188.934)}Siguiente
 Dialogue: 1,0:24:27.41,0:24:30.41,Title,,0,0,0,,{\bord3.3\fad(0,0)\fsp1\be0.5\3c&H270CF4&\c&HFFFFFF&\fscx71\fscy71\b1\pos(647.734,188.934)}Siguiente
 Dialogue: 0,0:24:27.41,0:24:30.41,Title,,0,0,0,,{\shad7\fad(0,0)\fsp1\3c&H270CF4&\c&HFFFFFF&\fscx71\fscy71\b1\pos(647.734,188.934)}Siguiente
