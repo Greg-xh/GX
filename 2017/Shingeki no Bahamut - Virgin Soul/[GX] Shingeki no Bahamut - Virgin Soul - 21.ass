@@ -7,16 +7,17 @@ WrapStyle: 0
 PlayResX: 1280
 PlayResY: 720
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Bahamut
-Audio File: @TL @TLC @Edit/[Leopard-Raws] Shingeki no Bahamut - Virgin Soul - 21 RAW (TBS 1280x720 x264 AAC).mp4
-Video File: @TL @TLC @Edit/[Leopard-Raws] Shingeki no Bahamut - Virgin Soul - 21 RAW (TBS 1280x720 x264 AAC).mp4
+Video File: C:/Users/Greg/Desktop/@TL @TLC @Edit/[Leopard-Raws] Shingeki no Bahamut - Virgin Soul - 21 RAW (TBS 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Video Position: 34702
+Scroll Position: 170
+Active Line: 172
+Video Position: 29353
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
