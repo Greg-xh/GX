@@ -13,14 +13,13 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Pokemon
-Audio File: [Some-Stuffs]_Pocket_Monsters_Sun_&_Moon_33_[BC6DCEA7].mkv
-Video File: [Some-Stuffs]_Pocket_Monsters_Sun_&_Moon_33_[BC6DCEA7].mkv
+Video File: C:/Users/Greg/Desktop/[Some-Stuffs]_Pocket_Monsters_Sun_&_Moon_33_[BC6DCEA7].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 78
-Active Line: 81
-Video Position: 5203
+Video Zoom Percent: 0.500000
+Scroll Position: 336
+Active Line: 346
+Video Position: 35254
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -379,9 +378,9 @@ Dialogue: 0,0:24:16.93,0:24:18.10,Default,,0,0,0,,¡Sí!
 Dialogue: 0,0:24:18.10,0:24:21.80,Default,,0,0,0,,¡Este es un festival sagrado!
 Dialogue: 0,0:24:21.80,0:24:24.80,Default,,0,0,0,,En el próximo episodio de Pokémon: Sol y Luna:
 Dialogue: 0,0:24:24.80,0:24:28.03,Default,,0,0,0,,¡Batalla de fuego en la coronación!
-Dialogue: 2,0:24:25.99,0:24:30.37,Title,,0,0,0,,{\1a&HFF&\fad(0,0)\fsp2\be0.5\fscx79\fscy83\c&H05C50E&\b1\3c&HFFFFFF&\pos(634.134,593.6)}¡Batalla de fuego en la coronación!
-Dialogue: 1,0:24:25.99,0:24:30.37,Title,,0,0,0,,{\bord3.3\fad(0,0)\fsp2\be0.5\fscx79\fscy83\3c&HFFFFFF&\c&H05C50E&\b1\pos(634.134,593.6)}¡Batalla de fuego en la coronación!
-Dialogue: 0,0:24:25.99,0:24:30.37,Title,,0,0,0,,{\shad7\fad(0,0)\fsp2\fscx79\fscy83\3c&HFFFFFF&\c&H05C50E&\b1\pos(634.134,593.6)}¡Batalla de fuego en la coronación!
-Dialogue: 2,0:24:25.99,0:24:30.37,Title,,0,0,0,,{\1a&HFF&\fad(0,0)\fsp2\be0.5\fscx79\fscy83\c&H05C50E&\b1\3c&HFFFFFF&\pos(648.801,88.267)}Siguiente
-Dialogue: 1,0:24:25.99,0:24:30.37,Title,,0,0,0,,{\bord3.3\fad(0,0)\fsp2\be0.5\fscx79\fscy83\3c&HFFFFFF&\c&H05C50E&\b1\pos(648.801,88.267)}Siguiente
-Dialogue: 0,0:24:25.99,0:24:30.37,Title,,0,0,0,,{\shad7\fad(0,0)\fsp2\fscx79\fscy83\3c&HFFFFFF&\c&H05C50E&\b1\pos(648.801,88.267)}Siguiente
+Dialogue: 2,0:24:25.90,0:24:30.41,Title,,0,0,0,,{\1a&HFF&\fad(0,0)\fsp2\be0.5\fscx79\fscy83\c&H05C50E&\b1\3c&HFFFFFF&\pos(634.134,593.6)}¡Batalla de fuego en la coronación!
+Dialogue: 1,0:24:25.90,0:24:30.41,Title,,0,0,0,,{\bord3.3\fad(0,0)\fsp2\be0.5\fscx79\fscy83\3c&HFFFFFF&\c&H05C50E&\b1\pos(634.134,593.6)}¡Batalla de fuego en la coronación!
+Dialogue: 0,0:24:25.90,0:24:30.41,Title,,0,0,0,,{\shad7\fad(0,0)\fsp2\fscx79\fscy83\3c&HFFFFFF&\c&H05C50E&\b1\pos(634.134,593.6)}¡Batalla de fuego en la coronación!
+Dialogue: 2,0:24:25.90,0:24:30.41,Title,,0,0,0,,{\1a&HFF&\fad(0,0)\fsp2\be0.5\fscx79\fscy83\c&H05C50E&\b1\3c&HFFFFFF&\pos(648.801,88.267)}Siguiente
+Dialogue: 1,0:24:25.90,0:24:30.41,Title,,0,0,0,,{\bord3.3\fad(0,0)\fsp2\be0.5\fscx79\fscy83\3c&HFFFFFF&\c&H05C50E&\b1\pos(648.801,88.267)}Siguiente
+Dialogue: 0,0:24:25.90,0:24:30.41,Title,,0,0,0,,{\shad7\fad(0,0)\fsp2\fscx79\fscy83\3c&HFFFFFF&\c&H05C50E&\b1\pos(648.801,88.267)}Siguiente
