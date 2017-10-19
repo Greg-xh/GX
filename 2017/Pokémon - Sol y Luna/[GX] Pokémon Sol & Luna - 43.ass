@@ -18,8 +18,8 @@ Video File: @TL @TLC @Edit/[Some-Stuffs]_Pocket_Monsters_Sun_&_Moon_43_[v2][B3D4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 405
-Active Line: 411
+Scroll Position: 120
+Active Line: 138
 Video Position: 35187
 
 [V4+ Styles]
@@ -171,7 +171,7 @@ Dialogue: 0,0:06:48.06,0:06:51.33,Default,,0,0,0,,¡Bien, Togedemaru! ¡Electrop
 Dialogue: 0,0:07:01.51,0:07:04.15,Default,,0,0,0,,¿Eh? ¡No funcionó!
 Dialogue: 0,0:07:04.15,0:07:05.15,Default,,0,0,0,,Así es.
 Dialogue: 0,0:07:05.15,0:07:08.11,Default,,0,0,0,,¿Por qué? ¡Geodude es Roca y Eléctrico!
-Dialogue: 0,0:07:08.11,0:07:09.72,Default,,0,0,0,,¡Los ataques tipo Eléctrico deberían servir!{Work, yes... But it's still a dumb move being that it RESISTS THEM and all.}
+Dialogue: 0,0:07:08.11,0:07:09.72,Default,,0,0,0,,¡Los ataques tipo Eléctrico deberían servir!
 Dialogue: 0,0:07:09.72,0:07:13.22,Default,,0,0,0,,Oh, creo que te confundiste con el Geodude de Alola.
 Dialogue: 0,0:07:13.90,0:07:16.52,Default,,0,0,0,,Los Geodude de Kanto son tipo Roca y Tierra.
 Dialogue: 0,0:07:16.90,0:07:18.70,Default,,0,0,0,,¡Los ataques tipo Eléctrico no sirven!
