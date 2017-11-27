@@ -19,8 +19,7 @@ Video File: [Some-Stuffs]_Pocket_Monsters_Sun_&_Moon_49_[6BE2894D].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 72
-Active Line: 77
+Active Line: 10
 Video Position: 5630
 
 [V4+ Styles]
@@ -44,11 +43,6 @@ Comment: 0,0:21:59.32,0:22:00.76,ED,chapter,0,0,0,,ED
 Comment: 0,0:23:20.34,0:23:21.96,Default,chapter,0,0,0,,PokéProblema - Respuesta
 Comment: 0,0:23:42.28,0:23:43.92,Default,chapter,0,0,0,,Epílogo
 Comment: 0,0:24:00.02,0:24:26.14,Typesetting,chapter,0,0,0,,Avance
-Comment: 0,0:02:32.02,0:02:36.97,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(470,250)}Lilie and Silvuddy,
-Comment: 0,0:02:32.02,0:02:36.97,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(757,540)}Awakening Memories
-Comment: 0,0:09:43.97,0:09:46.93,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(134.667,478)}Name: Sleeper\N{\fs40}Type:   Psychic
-Comment: 0,0:24:25.06,0:24:29.72,Episode titles,,0,0,0,,{\c&HFFFFFF&\pos(640,100)\3c&H2215F2&\fs50}Next time
-Comment: 0,0:24:25.06,0:24:29.72,Episode titles,,0,0,0,,{\c&HFFFFFF&\pos(640,620)\3c&H2215F2&\fs80}Sauboh's Counterattack! Nebby Kidnapped!!
 Dialogue: 0,0:00:05.72,0:00:14.97,Typesetting,,0,0,0,,{\fscy100.01\frz0\fscx100.01\bord2.5\shad0\fnCorbel\fs30\be0.55\c&H000000&\b0\3c&HFFFFFF&\blur2.5\pos(270.239,157.667)}Azul
 Dialogue: 0,0:00:05.72,0:00:14.97,Typesetting,,0,0,0,,{\fscy100.01\frz0\fscx100.01\bord2\shad0\fnCorbel\fs30\c&H000000&\b0\3c&HFFFFFF&\blur2.5\pos(718.908,162.717)}Rojo
 Dialogue: 0,0:00:05.72,0:00:14.97,Typesetting,,0,0,0,,{\fscy100.01\frz0\fscx100.01\bord3\shad0\fnCorbel\fs30\c&H000000&\i0\b0\3c&HFFFFFF&\blur1.5\pos(274.514,433.972)}Verde
@@ -242,7 +236,7 @@ Dialogue: 0,0:12:12.14,0:12:13.55,Default,,0,0,0,,¡¿Cómo llegó aquí?!
 Dialogue: 0,0:12:14.01,0:12:17.10,Default,,0,0,0,,¡¿Será que recordó?!
 Dialogue: 0,0:12:17.51,0:12:20.60,Default,,0,0,0,,He estado aquí antes.
 Dialogue: 0,0:12:21.14,0:12:22.45,Default,,0,0,0,,¿Cómo puede ser?
-Dialogue: 0,0:12:22.45,0:12:25.49,Default,,0,0,0,,Entrar al sótano está estrictamente prohibido, 
+Dialogue: 0,0:12:22.45,0:12:25.49,Default,,0,0,0,,Entrar al sótano está estrictamente prohibido,
 Dialogue: 0,0:12:25.49,0:12:27.60,Default,,0,0,0,,así que jamás debería haber bajado aquí...
 Dialogue: 0,0:12:28.71,0:12:31.39,Default,,0,0,0,,¡Es el bobo y la boba blanca!
 Dialogue: 0,0:12:31.71,0:12:33.86,Default,,0,0,0,,¡MiniKoffing está con ellos!
