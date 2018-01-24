@@ -5,7 +5,7 @@ Title: Kizumonogatari Nekketsu-hen
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
 PlayResX: 1280
 PlayResY: 544
 Original Script: thebitstick
@@ -18,16 +18,16 @@ Video File: C:/Users/Greg/Desktop/@TL @TLC @Edit/[Beatrice-Raws] Kizumonogatari 
 Video AR Mode: 4
 Video AR Value: 2.352941
 Video Zoom Percent: 0.750000
-Scroll Position: 794
-Active Line: 856
-Video Position: 90946
+Scroll Position: 266
+Active Line: 273
+Video Position: 43974
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Black and White,Century Gothic,23,&H00F3F3F3,&H000019FF,&H00020814,&H00000000,0,0,0,0,90,100,0,0,1,0,0,2,0,0,16,1
 Style: Blogemonogatari,Iwata Mincho Pro M-Kami,30,&H00FFFFFF,&H000019FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,8,1
 Style: Black and Red,Iwata Mincho Old Pro-Fate B,30,&H00FFFFFF,&H000019FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,8,1
-Style: Default,Montara Gothic,37,&H00FFFFFF,&H000000FF,&H000F1115,&HBE000000,0,0,0,0,100,100,0,0,1,1.8,0,2,80,80,19,1
+Style: Default,Montara Gothic,37,&H00FFFFFF,&H000000FF,&H000F1115,&HBE000000,0,0,0,0,100,100,0,0,1,1.8,0,2,80,80,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -60,8 +60,8 @@ Dialogue: 1,0:06:58.52,0:07:01.02,Blogemonogatari,,0,0,0,,{\blur0.3\bord0\fs40.2
 Dialogue: 0,0:06:58.52,0:07:01.02,Blogemonogatari,,0,0,0,,{\blur3.526\fs40.296\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\1a&H00&\fsp8.311\pos(640,210.951)}25 de marzo
 Dialogue: 0,0:07:35.64,0:07:37.18,Black and White,,0,0,0,,{\blur0.453\fs55.156\bord0\c&HDCFDFE&\fnCapriola\b0\frz270\3c&HDCFDFE&\clip(m 547 30.25 l 668 28 666 361.125 559 364.875)\fscx86\fscy81\pos(533.156,266.627)}Naoetsu {Road}
 Dialogue: 1,0:07:35.64,0:07:37.18,Black and White,,0,0,0,,{\blur0.453\fs55.156\bord0\c&H979F40&\fnCapriola\b0\frz270\fscx86\fscy81\pos(533.156,266.627)}Naoetsu {Road}
-Dialogue: 1,0:07:40.44,0:07:40.64,Black and White,,0,0,0,,{\blur0.3\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFEFE&\pos(640,234.725)\fsp8.311}ROJA
-Dialogue: 0,0:07:40.44,0:07:40.64,Black and White,,0,0,0,,{\blur3.778\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\pos(640,234.725)\fsp8.311}ROJA
+Dialogue: 1,0:07:40.44,0:07:40.64,Black and White,,0,0,0,,{\blur0.3\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFEFE&\pos(640,234.725)\fsp8.311}ROJO
+Dialogue: 0,0:07:40.44,0:07:40.64,Black and White,,0,0,0,,{\blur3.778\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\pos(640,234.725)\fsp8.311}ROJO
 Dialogue: 0,0:08:15.50,0:08:16.28,Default,Hanekawa,0,0,0,,Disculpa...
 Dialogue: 0,0:08:17.16,0:08:19.32,Default,Koyomi,0,0,0,,N-No vi nada...
 Dialogue: 0,0:08:22.27,0:08:24.27,Black and White,,0,0,0,,{\blur0.453\fs55.156\bord0\c&HDCFDFE&\fnCapriola\b0\frz270\3c&HDCFDFE&\clip(m 547 30.25 l 668 28 666 361.125 559 364.875)\pos(527.823,266.627)\fscx86\fscy81}Naoetsu {Road}
@@ -178,12 +178,12 @@ Dialogue: 0,0:14:32.45,0:14:34.30,Default,Koyomi,0,0,0,,es como que...
 Dialogue: 0,0:14:35.45,0:14:39.20,Default,Koyomi,0,0,0,,Mira, si tengo amigos, tendría que preocuparme por ellos, ¿no?
 Dialogue: 0,0:14:40.05,0:14:42.62,Default,Koyomi,0,0,0,,Si mis amigos salieran heridos, entonces yo también,
 Dialogue: 0,0:14:43.12,0:14:45.54,Default,Koyomi,0,0,0,,si estuvieran tristes, entonces yo estaría triste.
-Dialogue: 0,0:14:46.25,0:14:49.80,Default,Koyomi,0,0,0,,Poniéndolo de ese modo, esos puntos débiles surgen.
+Dialogue: 0,0:14:46.25,0:14:49.80,Default,Koyomi,0,0,0,,Poniéndolo de ese modo, son puntos débiles.
 Dialogue: 0,0:14:50.50,0:14:52.60,Default,Koyomi,0,0,0,,Entonces eso me haría débil como persona.
 Dialogue: 0,0:14:54.75,0:15:01.93,Default,Hanekawa,0,0,0,,Pero si tus amigos se divierten, entonces tú \Ntambién, y si fueran felices, también serías feliz.
 Dialogue: 0,0:15:02.15,0:15:05.31,Default,Hanekawa,0,0,0,,¿No surgen puntos fuertes también?
 Dialogue: 0,0:15:05.65,0:15:11.82,Default,Koyomi,0,0,0,,No, si mis amigos se divirtieran, me sentiría \Nceloso, y si fueran felices, sentiría envidia.
-Dialogue: 0,0:15:14.53,0:15:16.20,Default,Hanekawa,0,0,0,,Qué pequeños son los humanos...
+Dialogue: 0,0:15:14.53,0:15:16.20,Default,Hanekawa,0,0,0,,Qué ruin eres...
 Dialogue: 0,0:15:18.00,0:15:18.70,Default,Koyomi,0,0,0,,Déjame en paz.
 Dialogue: 0,0:15:19.27,0:15:21.27,Black and White,,0,0,0,,{\blur0.453\fs55.156\bord0\c&HDCFDFE&\fnCapriola\b0\frz270\3c&HDCFDFE&\clip(m 547 30.25 l 668 28 666 361.125 559 364.875)\fscx86\fscy81\pos(534.49,266.627)}Naoetsu {Road}
 Dialogue: 1,0:15:19.27,0:15:21.27,Black and White,,0,0,0,,{\blur0.453\fs55.156\bord0\c&H81A254&\fnCapriola\b0\frz270\fscx86\fscy81\pos(534.49,266.627)}Naoetsu {Road}
@@ -247,8 +247,8 @@ Dialogue: 0,0:24:41.30,0:24:42.64,Default,Kisshot,0,0,0,,¿Una ambulancia?
 Dialogue: 0,0:24:43.12,0:24:45.16,Default,Kisshot,0,0,0,,No necesito tal cosa.
 Dialogue: 0,0:24:49.80,0:24:51.06,Default,Kisshot,0,0,0,,En vez de eso...
 Dialogue: 0,0:24:51.77,0:24:53.48,Default,Kisshot,0,0,0,,dame tu sangre.
-Dialogue: 1,0:24:58.72,0:25:01.47,Black and White,,0,0,0,,{\fsp7.556\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJA
-Dialogue: 0,0:24:58.72,0:25:01.47,Black and White,,0,0,0,,{\fsp7.556\blur5\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJA
+Dialogue: 1,0:24:58.72,0:25:01.47,Black and White,,0,0,0,,{\fsp7.556\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJO
+Dialogue: 0,0:24:58.72,0:25:01.47,Black and White,,0,0,0,,{\fsp7.556\blur5\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJO
 Dialogue: 0,0:25:01.74,0:25:04.62,Default,Hanekawa,0,0,0,,{\i1}¿Crees en vampiros, Araragi?
 Dialogue: 0,0:25:05.70,0:25:13.63,Default,Hanekawa,0,0,0,,{\i1}Dicen que es una hermosa mujer rubia,\N una vampira con unos ojos que te congelarían.
 Dialogue: 0,0:25:14.70,0:25:19.55,Default,Kisshot,0,0,0,,Mi nombre es Kiss-shot Acerola-Orion Heart-Under-Blade. {Beso-disparo acerola orion corazón bajo espada (?)}
@@ -304,8 +304,8 @@ Dialogue: 0,0:29:57.65,0:30:00.40,Default,Koyomi,0,0,0,,¡Eso ya lo sé!
 Dialogue: 0,0:30:00.50,0:30:03.75,Default,Koyomi,0,0,0,,{\i1}Ya lo sé... Lo sé...{\i0}
 Dialogue: 1,0:30:14.29,0:30:20.79,Black and White,,0,0,0,,{\fsp7.556\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}NEGRO
 Dialogue: 0,0:30:14.29,0:30:20.79,Black and White,,0,0,0,,{\fsp7.556\blur3.022\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}NEGRO
-Dialogue: 1,0:30:34.06,0:30:35.81,Black and White,,0,0,0,,{\fsp7.556\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJA
-Dialogue: 0,0:30:34.06,0:30:35.81,Black and White,,0,0,0,,{\fsp7.556\blur5\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJA
+Dialogue: 1,0:30:34.06,0:30:35.81,Black and White,,0,0,0,,{\fsp7.556\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJO
+Dialogue: 0,0:30:34.06,0:30:35.81,Black and White,,0,0,0,,{\fsp7.556\blur5\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJO
 Dialogue: 0,0:30:34.30,0:30:35.83,Default,Koyomi,0,0,0,,¡No te rindas, idiota!
 Dialogue: 0,0:30:47.48,0:30:49.50,Default,Kisshot,0,0,0,,¿N-No te importa...?
 Dialogue: 0,0:30:50.08,0:30:53.39,Default,Koyomi,0,0,0,,Claro que me importa, estúpida.
@@ -423,8 +423,8 @@ Dialogue: 0,0:37:46.99,0:37:49.80,Default,Kisshot,0,0,0,,Bienvenido al mundo de 
 Dialogue: 1,0:37:49.78,0:37:51.79,Black and White,,0,0,0,,{\fsp7.556\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}NEGRO
 Dialogue: 0,0:37:49.78,0:37:51.79,Black and White,,0,0,0,,{\fsp7.556\blur3.022\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}NEGRO
 Dialogue: 0,0:38:16.70,0:38:18.58,Default,Koyomi,0,0,0,,¿Dónde... estamos?
-Dialogue: 1,0:38:20.73,0:38:21.23,Black and White,,0,0,0,,{\fsp7.556\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJA
-Dialogue: 0,0:38:20.73,0:38:21.23,Black and White,,0,0,0,,{\fsp7.556\blur5\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJA
+Dialogue: 1,0:38:20.73,0:38:21.23,Black and White,,0,0,0,,{\fsp7.556\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJO
+Dialogue: 0,0:38:20.73,0:38:21.23,Black and White,,0,0,0,,{\fsp7.556\blur5\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJO
 Dialogue: 0,0:38:24.20,0:38:27.30,Default,Kisshot,0,0,0,,Creo que es una escuela abandonada.
 Dialogue: 0,0:38:28.00,0:38:32.22,Default,Kisshot,0,0,0,,Parece haber cerrado hace años y ahora son solo ruinas. {hmm}
 Dialogue: 0,0:38:32.70,0:38:35.72,Default,Kisshot,0,0,0,,Y como ves, es un escondite muy conveniente, ¿no crees?
@@ -468,8 +468,8 @@ Dialogue: 0,0:40:19.10,0:40:19.22,Blogemonogatari,,0,0,0,,{\blur0.504\bord0\fs50
 Dialogue: 0,0:40:19.10,0:40:19.22,Blogemonogatari,,0,0,0,,{\blur3.526\bord0\fs50.371\pos(648,233.273)\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\1a&H00&}Recordando
 Dialogue: 0,0:40:19.85,0:40:19.98,Blogemonogatari,,0,0,0,,{\blur0.504\bord0\fs50.371\pos(648,233.273)\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\1a&H00&}Recordando
 Dialogue: 0,0:40:19.85,0:40:19.98,Blogemonogatari,,0,0,0,,{\blur3.526\bord0\fs50.371\pos(648,233.273)\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\1a&H00&}Recordando
-Dialogue: 1,0:40:20.73,0:40:21.48,Black and White,,0,0,0,,{\fsp7.556\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJA
-Dialogue: 0,0:40:20.73,0:40:21.48,Black and White,,0,0,0,,{\fsp7.556\blur5\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJA
+Dialogue: 1,0:40:20.73,0:40:21.48,Black and White,,0,0,0,,{\fsp7.556\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJO
+Dialogue: 0,0:40:20.73,0:40:21.48,Black and White,,0,0,0,,{\fsp7.556\blur5\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJO
 Dialogue: 0,0:40:22.04,0:40:26.37,Default,Kisshot,0,0,0,,Como puedes ver, mis miembros se regeneraron también, aunque solo en apariencia.
 Dialogue: 0,0:40:27.40,0:40:30.17,Default,Kisshot,0,0,0,,No hay nada en el interior.
 Dialogue: 0,0:40:30.67,0:40:33.55,Default,Kisshot,0,0,0,,Pero esto servirá por ahora.
@@ -530,7 +530,7 @@ Dialogue: 0,0:44:36.33,0:44:44.70,Default,Kisshot,0,0,0,,Con mi fuerza actual ha
 Dialogue: 0,0:44:45.33,0:44:49.80,Default,Koyomi,0,0,0,,Entonces, básicamente, aunque eres una vampira, ¿estás muy débil?
 Dialogue: 0,0:44:50.12,0:44:51.26,Default,Kisshot,0,0,0,,¡Claro que no!
 Dialogue: 0,0:45:05.40,0:45:10.66,Default,Koyomi,0,0,0,,Bueno, incluso si la tú debilitada actual no es tan fuerte como yo...
-Dialogue: 0,0:45:11.00,0:45:16.62,Default,Koyomi,0,0,0,,eres más fuerte que yo estando al máximo ¿y aun así esos tres pudieron arrebatarte las extremidades en tu forma completa? {alto corte tuve que hacer}
+Dialogue: 0,0:45:11.00,0:45:16.62,Default,Koyomi,0,0,0,,eres más fuerte que yo estando al máximo, ¿y aun así esos tres pudieron arrebatarte las extremidades en tu forma completa? {alto corte tuve que hacer}
 Dialogue: 0,0:45:16.98,0:45:18.14,Default,Koyomi,0,0,0,,Entonces...
 Dialogue: 0,0:45:18.26,0:45:21.64,Default,Kisshot,0,0,0,,Solo me atraparon con la guardia baja porque me atacaron juntos.
 Dialogue: 0,0:45:21.82,0:45:23.38,Default,Kisshot,0,0,0,,Los subestimé.
@@ -539,8 +539,8 @@ Dialogue: 0,0:45:27.35,0:45:32.66,Default,Kisshot,0,0,0,,no son rivales para ti 
 Dialogue: 0,0:45:33.10,0:45:36.14,Default,Kisshot,0,0,0,,Dicho de otra forma, es una tarea muy sencilla.
 Dialogue: 1,0:46:08.20,0:46:08.41,Black and White,,0,0,0,,{\fsp7.556\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}NEGRO
 Dialogue: 0,0:46:08.20,0:46:08.41,Black and White,,0,0,0,,{\fsp7.556\blur3.022\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}NEGRO
-Dialogue: 1,0:46:25.72,0:46:26.97,Black and White,,0,0,0,,{\fsp7.556\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJA
-Dialogue: 0,0:46:25.72,0:46:26.97,Black and White,,0,0,0,,{\fsp7.556\blur5\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJA
+Dialogue: 1,0:46:25.72,0:46:26.97,Black and White,,0,0,0,,{\fsp7.556\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJO
+Dialogue: 0,0:46:25.72,0:46:26.97,Black and White,,0,0,0,,{\fsp7.556\blur5\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}ROJO
 Dialogue: 0,0:47:04.20,0:47:06.27,Default,Koyomi,0,0,0,,¿Y-Y ahora qué hago...?
 Dialogue: 0,0:48:06.11,0:48:06.36,Black and Red,,0,0,0,,{\blur0.504\bord0\fs50.371\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\1a&H00&\pos(648,194.228)}Tiempo agotado
 Dialogue: 0,0:48:06.11,0:48:06.36,Black and Red,,0,0,0,,{\blur3.526\bord0\fs50.371\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\1a&H00&\pos(648,194.228)}Tiempo agotado
@@ -555,7 +555,7 @@ Dialogue: 0,0:48:19.04,0:48:19.16,Black and Red,,0,0,0,,{\blur0.504\bord0\fs50.3
 Dialogue: 0,0:48:19.04,0:48:19.16,Black and Red,,0,0,0,,{\blur3.526\bord0\fs50.371\pos(640,184.557)\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\1a&H00&}un humano
 Dialogue: 0,0:49:02.88,0:49:03.50,Black and Red,,0,0,0,,{\blur0.504\bord0\fs50.371\pos(640,184.557)\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\1a&H00&}Un resultado distinto
 Dialogue: 0,0:49:02.88,0:49:03.50,Black and Red,,0,0,0,,{\blur3.526\bord0\fs50.371\pos(640,184.557)\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\1a&H00&}Un resultado distinto
-Dialogue: 0,0:49:18.42,0:49:21.41,Default,Meme,0,0,0,,Qué enérgicos son, chicos.
+Dialogue: 0,0:49:18.42,0:49:21.41,Default,Meme,0,0,0,,Tienen mucha energía, chicos.
 Dialogue: 0,0:49:22.36,0:49:25.04,Default,Meme,0,0,0,,¿Sucedió algo bueno?
 Dialogue: 1,0:49:25.02,0:49:26.73,Black and White,,0,0,0,,{\fsp7.556\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}NEGRO
 Dialogue: 0,0:49:25.02,0:49:26.73,Black and White,,0,0,0,,{\fsp7.556\blur3.022\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}NEGRO
@@ -641,8 +641,8 @@ Dialogue: 0,0:53:57.00,0:54:02.15,Default,Koyomi,0,0,0,,{\i1}¿Negociador? Puent
 Dialogue: 1,0:54:03.09,0:54:03.59,Black and White,,0,0,0,,{\fsp11\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\1a&H00&\pos(643.429,233.316)\fscx80\fscy86}SILENCIO
 Dialogue: 0,0:54:03.09,0:54:03.59,Black and White,,0,0,0,,{\fsp11\blur3.022\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\1a&H00&\pos(643.429,233.316)\fscx80\fscy86}SILENCIO
 Dialogue: 0,0:54:03.70,0:54:07.07,Default,Koyomi,0,0,0,,{\i1}¿Dónde está "aquí" y dónde está "allá"?
-Dialogue: 1,0:54:07.73,0:54:08.97,Blogemonogatari,,0,0,0,,{\blur0.453\bord0\fs49.867\3c&H000000&\3a&H7F&\c&H000000&\pos(633.067,333.038)}Sonido                Voz 
-Dialogue: 0,0:54:07.73,0:54:08.97,Blogemonogatari,,0,0,0,,{\blur3.324\bord0\fs49.867\3c&H000000&\3a&H7F&\c&H000000&\1a&H00&\pos(633.067,333.038)}Sonido                Voz 
+Dialogue: 1,0:54:07.73,0:54:08.97,Blogemonogatari,,0,0,0,,{\blur0.453\bord0\fs49.867\3c&H000000&\3a&H7F&\c&H000000&\pos(633.067,333.038)}Sonido                Voz
+Dialogue: 0,0:54:07.73,0:54:08.97,Blogemonogatari,,0,0,0,,{\blur3.324\bord0\fs49.867\3c&H000000&\3a&H7F&\c&H000000&\1a&H00&\pos(633.067,333.038)}Sonido                Voz
 Dialogue: 0,0:54:08.00,0:54:11.11,Default,Koyomi,0,0,0,,{\i1}"Aquí" probablemente sea para los humanos, y "allá" para los monstruos.
 Dialogue: 1,0:54:11.24,0:54:13.10,Blogemonogatari,Koyomi,0,0,0,,{\blur0.453\bord0\fs49.867\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\1a&H00&\pos(640,200.273)}En ese caso, en este preciso momento
 Dialogue: 0,0:54:11.24,0:54:13.10,Blogemonogatari,Koyomi,0,0,0,,{\blur3.551\bord0\fs49.867\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\1a&H00&\pos(640,200.273)}En ese caso, en este preciso momento
@@ -670,7 +670,7 @@ Dialogue: 1,0:55:04.94,0:55:05.44,Black and White,,0,0,0,,{\fsp7.556\blur0.453\b
 Dialogue: 0,0:55:04.94,0:55:05.44,Black and White,,0,0,0,,{\fsp7.556\blur3.022\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}NEGRO
 Dialogue: 0,0:55:10.04,0:55:14.01,Default,Meme,0,0,0,,Por otra parte, estoy interesado en ti, Heart-Under-Blade.
 Dialogue: 0,0:55:14.76,0:55:20.08,Default,Meme,0,0,0,,Estás dispuesta a ayudar a tu subordinado, Araragi, a regresar a ser humano.
-Dialogue: 0,0:55:20.08,0:55:21.80,Default,Meme,0,0,0,rev,Qué lindo gesto. 
+Dialogue: 0,0:55:20.08,0:55:21.80,Default,Meme,0,0,0,rev,Qué lindo gesto.
 Dialogue: 1,0:55:32.60,0:55:36.35,Black and White,,0,0,0,,{\fsp7.556\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}NEGRO
 Dialogue: 0,0:55:32.60,0:55:36.35,Black and White,,0,0,0,,{\fsp7.556\blur3.022\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}NEGRO
 Dialogue: 0,0:55:33.00,0:55:36.24,Default,Meme,0,0,0,,Desde esta perspectiva, puedo estar en el medio.
@@ -678,7 +678,7 @@ Dialogue: 0,0:55:38.80,0:55:39.95,Default,Koyomi,0,0,0,,¿En el medio?
 Dialogue: 0,0:55:41.20,0:55:42.83,Default,Koyomi,0,0,0,,¿Entre nosotros y esos tres?
 Dialogue: 0,0:55:43.32,0:55:44.70,Default,Meme,0,0,0,,No veo a nadie más.
 Dialogue: 0,0:55:45.50,0:55:48.75,Default,Koyomi,0,0,0,,¿V-Vas a ayudarnos?
-Dialogue: 0,0:55:49.75,0:55:52.01,Default,Meme,0,0,0,,No los estoy ayudando. Solo les estoy prestando mi fuerza.
+Dialogue: 0,0:55:49.75,0:55:52.01,Default,Meme,0,0,0,,No los ayudaré. Solo les prestaré mi fuerza.
 Dialogue: 0,0:55:52.88,0:55:58.31,Default,Meme,0,0,0,,No puedo evitar sentir que las cosas están demasiado desequilibradas en este momento.
 Dialogue: 0,0:55:58.76,0:56:01.10,Default,Meme,0,0,0,rev,Es como ver bravucones saliéndose con la suya.
 Dialogue: 0,0:56:02.34,0:56:08.15,Default,Meme,0,0,0,,Pero claro, esto es un trabajo, así que no será gratis.
@@ -691,11 +691,12 @@ Dialogue: 0,0:56:24.62,0:56:27.00,Default,Koyomi,0,0,0,,P-Pero...
 Dialogue: 0,0:56:29.82,0:56:32.55,Default,Kisshot,0,0,0,,¿Me permitirías{dejarías} escuchar tu plan?
 Dialogue: 1,0:56:32.66,0:56:33.91,Black and White,,0,0,0,,{\fsp7.556\blur0.453\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}NEGRO
 Dialogue: 0,0:56:32.66,0:56:33.91,Black and White,,0,0,0,,{\fsp7.556\blur3.022\bord0\fs100\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx86\fscy97\pos(643.429,233.316)}NEGRO
-Dialogue: 0,0:56:35.80,0:56:38.51,Default,,0,0,0,,Dices que eres un negociador pero no es tan fácil.
+Dialogue: 0,0:56:35.80,0:56:38.51,Default,,0,0,0,,Negociar suena bien, pero no es tan fácil.
 Dialogue: 0,0:56:39.18,0:56:41.89,Default,,0,0,0,,No hay forma de persuadir a esos tres.
-Dialogue: 0,0:56:42.34,0:56:46.27,Default,,0,0,0,rev,Todo lo que puedo hacer es agachar la cabeza y {pedirlos}hablarles amablemente. {creo que habla de las partes}{>onegai no es preguntarles, así que creo que voy en buen camino}
+Dialogue: 0,0:56:42.34,0:56:46.27,Default,,0,0,0,rev,Todo lo que puedo hacer es agachar la cabeza y {pedirlos}hablarles amablemente.
 Dialogue: 0,0:56:48.50,0:56:49.98,Default,,0,0,0,,Tan sincero como pueda.
-Dialogue: 0,0:56:50.46,0:56:58.65,Default,,0,0,0,rev,Y si hablar amablemente no funciona, entonces tendremos \Nque recurrir a la fuerza. Pero si lo hacemos, el juego empieza.
+Dialogue: 5,0:56:50.46,0:56:54.88,Default,,0,0,0,,Y si hablar no funciona, entonces tendremos que recurrir a la fuerza. 
+Dialogue: 5,0:56:54.88,0:56:57.64,Default,,0,0,0,,Si al menos podemos comunicarnos, el juego empieza.
 Dialogue: 0,0:56:59.00,0:57:01.79,Default,,0,0,0,,¿El juego, dices?
 Dialogue: 0,0:57:03.65,0:57:07.20,Default,,0,0,0,,Primero que nada, debemos separarlos.
 Dialogue: 0,0:57:07.60,0:57:12.55,Default,,0,0,0,,No debería ser un problema si los enfrentamos uno por uno.
@@ -703,12 +704,12 @@ Dialogue: 0,0:57:13.34,0:57:15.05,Default,,0,0,0,,Lo mencionaste antes, ¿no?
 Dialogue: 0,0:57:15.05,0:57:17.94,Default,,0,0,0,,Entonces necesitaré encontrar la forma de hacer eso.
 Dialogue: 0,0:57:18.30,0:57:23.60,Default,,0,0,0,,Pero, mocoso, ¿cómo vas a negociar con esos tres? {lel, mocoso}
 Dialogue: 0,0:57:23.97,0:57:27.09,Default,,0,0,0,,Los detalles son un secreto,
-Dialogue: 0,0:57:27.09,0:57:29.48,Default,,0,0,0,,pero yo prepararé el terreno. {o campo?}
+Dialogue: 0,0:57:27.09,0:57:29.48,Default,,0,0,0,,pero yo prepararé el terreno.
 Dialogue: 0,0:57:30.20,0:57:34.50,Default,,0,0,0,,Y entonces Araragi se encargará de recuperar tus extremidades.
 Dialogue: 0,0:57:35.90,0:57:41.18,Default,,0,0,0,,Si él puede recuperar los brazos y piernas, \NHeart-Under-Blade recuperará sus poderes,
 Dialogue: 0,0:57:41.18,0:57:46.29,Default,,0,0,0,,entonces, Araragi volverá a ser humano.
 Dialogue: 0,0:57:49.00,0:57:50.34,Default,,0,0,0,,¡Oye, sirviente!
-Dialogue: 0,0:57:51.78,0:57:54.56,Default,,0,0,0,,No tengo ninguna clase de moneda humana. 
+Dialogue: 0,0:57:51.78,0:57:54.56,Default,,0,0,0,,No tengo ninguna clase de moneda humana.
 Dialogue: 0,0:57:54.98,0:57:59.55,Default,,0,0,0,,Tampoco estoy segura de qué tan pesada es esta deuda de dos millones de yenes.
 Dialogue: 0,0:58:00.08,0:58:03.26,Default,,0,0,0,,¿Eres capaz de asumir esa deuda?
 Dialogue: 0,0:58:06.85,0:58:10.77,Default,,0,0,0,,No te preocupes. Las habilidades de este mocoso son reales.
@@ -717,11 +718,10 @@ Dialogue: 0,0:58:17.40,0:58:20.04,Default,,0,0,0,,No tengo tanto dinero,
 Dialogue: 0,0:58:20.04,0:58:26.45,Default,,0,0,0,,pero si no hay presión para pagar y no necesito ningún garante...
 Dialogue: 0,0:58:27.95,0:58:29.30,Default,,0,0,0,,asumiré la deuda.
 Dialogue: 0,0:58:31.30,0:58:33.13,Default,,0,0,0,,Bueno, entonces está decidido.
-Dialogue: 0,0:58:34.56,0:58:35.67,Default,,0,0,0,rev,¡Gracias por contratarme! 
+Dialogue: 0,0:58:34.56,0:58:35.67,Default,,0,0,0,rev,¡Gracias por contratarme!
 Dialogue: 0,0:58:36.67,0:58:37.76,Default,,0,0,0,,Solo bromeo.
 Dialogue: 0,1:02:41.57,1:02:41.66,Blogemonogatari,,0,0,0,,{=1}{\pos(640,220)\c&HB0B5B7&\alpha&H80&\blur3}Solo voz
 Dialogue: 1,1:02:41.57,1:02:41.66,Blogemonogatari,,0,0,0,,{=0}{\pos(640,220)\c&HB0B5B7&\blur0.6}Solo voz
-Dialogue: 5,1:02:41.57,1:02:41.57,Default,chapter,0,0,0,,{Preview}
 Dialogue: 0,1:02:41.66,1:02:41.74,Blogemonogatari,,0,0,0,,{=1}{\pos(640.12,220.09)\c&HB0B5B7&\alpha&H80&\blur3}Solo voz
 Dialogue: 1,1:02:41.66,1:02:41.74,Blogemonogatari,,0,0,0,,{=0}{\pos(640.12,220.09)\c&HB0B5B7&\blur0.6}Solo voz
 Dialogue: 0,1:02:41.74,1:02:41.87,Blogemonogatari,,0,0,0,,{=1}{\pos(640.11,219.83)\c&HB0B5B7&\alpha&H80&\blur3}Solo voz
@@ -878,17 +878,18 @@ Dialogue: 0,1:03:06.56,1:03:07.68,Blogemonogatari,,0,0,0,,{\blur0.504\bord0\fs30
 Dialogue: 1,1:03:07.68,1:03:08.68,Black and Red,,0,0,0,,{\blur0.453\bord0\fs45.333\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\pos(314.481,231.838)}Cinco
 Dialogue: 0,1:03:07.68,1:03:08.68,Black and Red,,0,0,0,,{\blur4\bord0\fs45.333\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\pos(314.481,231.838)}Cinco
 Dialogue: 0,1:03:08.68,1:03:09.55,Blogemonogatari,,0,0,0,,{\blur0.378\c&HA6A6AA&\pos(642.324,225.93)}En ese momento
-Dialogue: 0,1:03:08.68,1:03:13.20,Default,,0,0,0,,¡Si no puedo verte otra vez, no tengo razón para volver a ser humano!
+Dialogue: 0,1:03:08.68,1:03:13.20,Default,,0,0,0,,¡Si no puedo verte otra vez, no tengo \Nrazón para volver a ser humano!
 Dialogue: 1,1:03:09.56,1:03:10.55,Black and Red,,0,0,0,,{\blur0.453\bord0\fs60.444\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\pos(305.995,142.65)}Cuatro
 Dialogue: 0,1:03:09.56,1:03:10.55,Black and Red,,0,0,0,,{\blur4\bord0\fs60.444\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\pos(305.995,142.65)}Cuatro
 Dialogue: 0,1:03:10.55,1:03:11.30,Blogemonogatari,,0,0,0,,{\c&HA1A0A4&\pos(652.031,223.587)}sentí como si conociera a Hanekawa por primera vez.
-Dialogue: 1,1:03:11.31,1:03:12.30,Black and Red,,0,0,0,,{\blur0.453\bord0\fs49.867\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\pos(911.916,392.621)}Tres
-Dialogue: 0,1:03:11.31,1:03:12.30,Black and Red,,0,0,0,,{\blur4\bord0\fs49.867\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\pos(911.916,392.621)}Tres
-Dialogue: 0,1:03:12.30,1:03:13.18,Blogemonogatari,,0,0,0,,{\blur0.302\c&HA5A4A7&\pos(637.874,226.438)}Sin errores. Directamente, ojo con ojo.
-Dialogue: 0,1:03:13.19,1:03:14.18,Black and Red,,0,0,0,,{\blur0.453\bord0\fs30.222\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx148\fscy137\pos(480.54,217.474)}Dos
-Dialogue: 1,1:03:13.19,1:03:14.18,Black and Red,,0,0,0,,{\blur4\bord0\fs30.222\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx148\fscy137\pos(480.54,217.474)}Dos
+Dialogue: 1,1:03:11.31,1:03:12.30,Black and Red,,0,0,0,,{\blur0.453\bord0\fs49.867\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\pos(964.487,350.335)}Tres
+Dialogue: 0,1:03:11.31,1:03:12.30,Black and Red,,0,0,0,,{\blur4\bord0\fs49.867\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\pos(964.487,350.335)}Tres
+Dialogue: 0,1:03:12.30,1:03:13.18,Blogemonogatari,,0,0,0,,{\blur0.302\c&HA5A4A7&\pos(637.874,226.438)}Sin errores. Ojo por ojo.
+Dialogue: 0,1:03:13.19,1:03:14.18,Black and Red,,0,0,0,,{\blur0.453\bord0\fs30.222\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx148\fscy137\pos(479.397,241.474)}Dos
+Dialogue: 1,1:03:13.19,1:03:14.18,Black and Red,,0,0,0,,{\blur4\bord0\fs30.222\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\fscx148\fscy137\pos(479.397,241.474)}Dos
 Dialogue: 0,1:03:13.90,1:03:15.04,Default,,0,0,0,,Araragi,
-Dialogue: 0,1:03:14.18,1:03:15.02,Blogemonogatari,,0,0,0,,{\blur0.504\bord0\fs60.444\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\1a&H31&\pos(643.333,209.944)}Sentir alivio
+Dialogue: 0,1:03:14.18,1:03:15.02,Blogemonogatari,,0,0,0,,{\pos(640,200)\fscx125\fscy125\c&HD8D9D8&\alpha&HB0&\blur3}Avance
+Dialogue: 1,1:03:14.18,1:03:15.02,Blogemonogatari,,0,0,0,,{\pos(640,200)\fscx125\fscy125\c&HD8D9D8&\blur0.55}Avance
 Dialogue: 1,1:03:15.02,1:03:16.02,Black and Red,,0,0,0,,{\blur0.453\bord0\fs75.556\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\pos(646.36,465.231)}Uno
 Dialogue: 0,1:03:15.02,1:03:16.02,Black and Red,,0,0,0,,{\blur3\bord0\fs75.556\3c&HFFFFFF&\3a&H7F&\c&HFFFFFF&\pos(646.36,465.231)}Uno
 Dialogue: 8,1:03:16.29,1:03:18.40,Default,,0,0,0,,renuncia a volver a ser humano.
@@ -898,4 +899,4 @@ Dialogue: 0,1:03:17.02,1:03:17.23,Black and White,,0,0,0,,{\fax.02\bord0\fs40.29
 Dialogue: 0,1:03:17.02,1:03:17.23,Black and White,,0,0,0,,{\fax.02\bord0\fs40.044\c&HFBFEF3&\fnMS Mincho\b1\1a&H14&\pos(980.521,341.271)}Sangre caliente
 Dialogue: 0,1:03:17.23,1:03:21.77,Blogemonogatari,,0,0,0,,{\b1\fnMS Mincho\blur0.504\bord0\fs50.371\3c&HFFFFFF&\3a&H7F&\c&H000000&\1a&H0F&\pos(643.333,477.244)}Espérala próximamente
 Dialogue: 0,1:03:17.23,1:03:21.77,Black and White,,0,0,0,,{\fax.02\bord5.037\blur7.556\fs40.296\c&H010004&\fnMS Mincho\b1\1a&H14&\3c&H5636CD&\pos(653.168,61.461)}Kizumonogatari
-Dialogue: 0,1:03:17.23,1:03:21.77,Black and White,,0,0,0,,{\fax.02\bord4.533\blur4.987\fs40.044\c&HFBFEF3&\fnMS Mincho\b1\1a&H14&\pos(980.521,341.271)\3c&H5636CD&}Sangre caliente
+Dialogue: 0,1:03:17.23,1:03:21.77,Black and White,,0,0,0,,{\fax.02\bord4.533\blur4.987\fs40.044\c&HFBFEF3&\fnMS Mincho\b1\1a&H14&\3c&H5636CD&\pos(947.378,358.414)}Sangre caliente
