@@ -19,8 +19,8 @@ Video File: Anime/[Some-Stuffs]_Pocket_Monsters_Sun_&_Moon_122_[A4C58B96].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 291
-Active Line: 301
+Scroll Position: 248
+Active Line: 256
 Video Position: 27528
 
 [V4+ Styles]
@@ -106,7 +106,7 @@ Dialogue: 0,0:01:51.16,0:01:52.85,Default,Nyarth,0,0,0,,¡Así que cuídate!
 Dialogue: 0,0:01:52.85,0:01:54.43,Default,Kojiro,0,0,0,,Ya, ya, Meowth...
 Dialogue: 0,0:01:55.12,0:01:58.73,Default,Musashi,0,0,0,,Eh... Ahora realmente no podemos\N dejar que Bewear se vaya...
 Dialogue: 0,0:01:58.73,0:02:02.02,Default,Matori,0,0,0,,Giovanni dijo una cosa más.
-Dialogue: 0,0:02:02.59,0:02:05.93,Default,Matori,0,0,0,,"En caso de que no hagan lo que digo...
+Dialogue: 0,0:02:02.59,0:02:05.93,Default,Matori,0,0,0,,"En caso de que no \Nhagan lo que digo...
 Dialogue: 0,0:02:05.93,0:02:12.31,Default,Matori,0,0,0,,No aceptes excusas.\N Trae a Bewear a la sede por la fuerza".
 Dialogue: 0,0:02:13.55,0:02:15.06,Default,Matori,0,0,0,,Nos vemos en Alola.
 Dialogue: 0,0:02:18.49,0:02:19.97,Default,Musashi,0,0,0,,¿Cómo que nos vemos en Alola?
@@ -159,7 +159,7 @@ Dialogue: 0,0:04:35.40,0:04:38.94,Default,Mamane,0,0,0,,He estado investigando c
 Dialogue: 0,0:04:38.94,0:04:41.40,Default,Lilie,0,0,0,,Es maravilloso, Sophocles. {LO ES?}
 Dialogue: 0,0:04:41.40,0:04:43.10,Default,Mamane,0,0,0,,P-Pues sí... {MUÉRETE}
 Dialogue: 0,0:04:43.60,0:04:47.60,Default,Lilie,0,0,0,,¡Haré todo lo posible para poder liberar el \NGeocongelamiento Despiadado junto con Shiron!
-Dialogue: 0,0:04:49.00,0:04:54.16,Default,Mao,0,0,0,,T-Todavía no me creo\Nque tengo una pulsera Z... 
+Dialogue: 0,0:04:49.00,0:04:54.16,Default,Mao,0,0,0,,T-Todavía no me creo\Nque tengo una pulsera Z...
 Dialogue: 0,0:04:54.16,0:04:58.42,Default,Mao,0,0,0,,Así que aún no me imagino\N haciendo movimientos Z reales.
 Dialogue: 0,0:04:58.42,0:05:00.52,Default,Suiren,0,0,0,,¡Estoy segura de que podrás!
 Dialogue: 0,0:05:01.01,0:05:04.14,Default,Kukui,0,0,0,,Entonces supongo que \NMallow, Sophocles y Lillie...
@@ -273,8 +273,8 @@ Dialogue: 0,0:12:40.37,0:12:45.01,Default,Musashi,0,0,0,,Después de todo, no so
 Dialogue: 0,0:12:45.01,0:12:47.89,Default,Satoshi,0,0,0,,¡Este es nuestro máximo poder!
 Dialogue: 0,0:12:47.89,0:12:50.56,Default,Satoshi,0,0,0,,¡Hélice Taladradora!
 Dialogue: 0,0:12:59.31,0:13:01.81,Default,Team Rocket,0,0,0,,¡Qué horrible sensación!
-Dialogue: 0,0:13:08.56,0:13:12.06,Default,Matori,0,0,0,,¿Realmente hay un Pokémon increíble por aquí?
-Dialogue: 0,0:13:14.60,0:13:18.80,Default,Nyarth,0,0,0,,¡¿"No podemos esperar nada de estos tontos"?!
+Dialogue: 0,0:13:08.56,0:13:12.06,Default,Matori,0,0,0,,¿Realmente hay un \NPokémon increíble por aquí?
+Dialogue: 0,0:13:14.60,0:13:18.80,Default,Nyarth,0,0,0,,¡¿Cómo que "no podemos esperar \Nnada de estos tontos"?!
 Dialogue: 0,0:13:18.80,0:13:22.64,Default,Nyarth,0,0,0,,¡Jessie! ¡James!\NVamos a conseguir ese increíble Pokémon...
 Dialogue: 0,0:13:22.64,0:13:24.35,Default,Nyarth,0,0,0,,y probarle a estos que están equivocados.
 Dialogue: 0,0:13:24.35,0:13:25.35,Default,Musashi,0,0,0,,¡Muy bien!
@@ -293,7 +293,7 @@ Dialogue: 0,0:14:03.28,0:14:06.09,Default,Matori,0,0,0,,Ya veo. Suena prometedor
 Dialogue: 0,0:14:15.89,0:14:16.52,Default,Kojiro,0,0,0,,¡Ahí está!
 Dialogue: 0,0:14:16.52,0:14:17.51,Default,Musashi,0,0,0,,Esta vez...
 Dialogue: 0,0:14:17.51,0:14:20.27,Default,Nyarth,0,0,0,,¡nos vengaremos!
-Dialogue: 0,0:14:20.83,0:14:23.59,Default,Matori,0,0,0,,Supongo que veremos lo que pueden hacer.
+Dialogue: 0,0:14:20.83,0:14:23.59,Default,Matori,0,0,0,,Supongo que veremos\N lo que pueden hacer.
 Dialogue: 0,0:14:25.08,0:14:26.85,Default,Musashi,0,0,0,,¡Sal, Mimikyu!
 Dialogue: 0,0:14:32.97,0:14:35.65,Default,Musashi,0,0,0,,¿E-Eh? Ey, ¡Mimikyu!
 Dialogue: 0,0:14:35.65,0:14:40.39,Default,Nyarth,0,0,0,,Mimikyu tan difícil como siempre... No le \Ninteresa ningún oponente que no sea Pikachu.
@@ -342,7 +342,7 @@ Dialogue: 0,0:19:06.18,0:19:08.82,Default,Matori,0,0,0,,Acabo de recibir una \Nl
 Dialogue: 0,0:19:08.82,0:19:11.95,Default,Matori,0,0,0,,Surgió algo y tengo \Nque regresar de inmediato.
 Dialogue: 0,0:19:11.95,0:19:15.47,Default,Matori,0,0,0,,Pensé que sería cruel despertarlos.
 Dialogue: 0,0:19:17.57,0:19:20.72,Default,Musashi,0,0,0,,¡Oh, no habría importado, en serio!
-Dialogue: 0,0:19:20.72,0:19:24.28,Default,Musashi,0,0,0,,Bueno, pero supongo que no tenías opción si era una orden de la sede.
+Dialogue: 0,0:19:20.72,0:19:24.28,Default,Musashi,0,0,0,,Bueno, pero supongo que no tenías \Nopción si era una orden de la sede.
 Dialogue: 0,0:19:24.28,0:19:28.81,Default,Musashi,0,0,0,,¡Vuelve y saluda al jefe por nosotros!
 Dialogue: 0,0:19:30.49,0:19:33.31,Default,Matori,0,0,0,,B-Bueno, adiós.
 Dialogue: 0,0:19:43.27,0:19:45.35,Default,Matori,0,0,0,,Santo Dios...

@@ -19,8 +19,8 @@ Video File: Anime/[Some-Stuffs]_Pocket_Monsters_Sun_&_Moon_110_[F66CB619].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 246
-Active Line: 251
+Scroll Position: 242
+Active Line: 252
 Video Position: 18181
 
 [V4+ Styles]
@@ -207,7 +207,7 @@ Dialogue: 0,0:08:04.27,0:08:06.68,Default,Kahili,0,0,0,,Las reglas del Pokégolf
 Dialogue: 0,0:08:07.43,0:08:09.60,Default,Kahili,0,0,0,,Solo tienes que golpear la bola desde aquí,
 Dialogue: 0,0:08:09.60,0:08:12.31,Default,Kahili,0,0,0,,y hacer que vaya al {\i1}green{\i0}.
 Dialogue: 0,0:08:12.77,0:08:14.27,Default,Kukui,0,0,0,,¡El {\i0}green{\i1} es esa zona de allí!
-Dialogue: 0,0:08:15.52,0:08:17.27,Default,Kukui,0,0,0,,La hoyo está donde se alza esa bandera.
+Dialogue: 0,0:08:15.52,0:08:17.27,Default,Kukui,0,0,0,,El hoyo está donde se alza esa bandera.
 Dialogue: 0,0:08:19.02,0:08:20.27,Default,Satoshi,0,0,0,,¿Qué?
 Dialogue: 0,0:08:20.27,0:08:21.77,Default,Mao,0,0,0,,¡¿Hasta allá?!
 Dialogue: 0,0:08:21.77,0:08:23.10,Default,Lilie,0,0,0,,Parece difícil.
@@ -288,7 +288,7 @@ Dialogue: 0,0:12:24.39,0:12:27.68,Default,Whatever Guru,0,0,0,,he visto milagros
 Dialogue: 0,0:12:27.68,0:12:30.66,Default,Whatever Guru,0,0,0,,El Shaymin que encuentra una bola...
 Dialogue: 0,0:12:34.73,0:12:36.34,Default,Kaki,0,0,0,,¡Sigo yo!
 Dialogue: 0,0:12:37.52,0:12:40.93,Default,Kaki,0,0,0,tlc,¡Todo el poder de mi mente, \Nde mi cuerpo y mi espíritu! {he cambiado la traducción de esto como mil veces, siento que nunca logro atinarle.}{confirmé con el latino, increíblemente esta es más acertada}
-Dialogue: 0,0:12:41.27,0:12:42.77,Default,Kaki,0,0,0,,Todo es Z...
+Dialogue: 0,0:12:41.27,0:12:42.77,Default,Kaki,0,0,0,,El cenit de todo lo que soy...
 Dialogue: 0,0:12:42.77,0:12:47.68,Default,Kaki,0,0,0,,¡Conviértete en una llama ardiente \Nque arda como la montaña de Akala!
 Dialogue: 0,0:12:47.68,0:12:51.18,Default,Kaki,0,0,0,,¡{\i1}Swing{\i0} Cataclísmico!
 Dialogue: 0,0:12:51.98,0:12:53.54,Default,Kaki,0,0,0,,Es lo que fingiré hacer, y luego...

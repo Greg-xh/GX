@@ -19,8 +19,8 @@ Video File: Anime/[Some-Stuffs]_Pocket_Monsters_Sun_&_Moon_108_[ACCA1A2D].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 342
-Active Line: 351
+Scroll Position: 309
+Active Line: 317
 Video Position: 31629
 
 [V4+ Styles]
@@ -319,7 +319,7 @@ Dialogue: 0,0:16:49.06,0:16:50.14,Default,Hapu,0,0,0,,¡Tapu Fini!
 Dialogue: 0,0:16:56.18,0:17:00.52,Default,Hapu,0,0,0,,¡Te lo ruego, antes de que alcancen el punto \Nen que ya no puedan volver a nuestro mundo!
 Dialogue: 0,0:17:03.81,0:17:05.81,Default,Hapu,0,0,0,,¡No es momento para bailar!
 Dialogue: 0,0:17:07.77,0:17:10.52,Default,Hapu,0,0,0,,Si no tienes la intención de dejarlos ir...
-Dialogue: 0,0:17:10.52,0:17:12.39,Default,Hapu,0,0,0,,¡entonces te los quitaré por la fuerza si tengo que!
+Dialogue: 0,0:17:10.52,0:17:12.39,Default,Hapu,0,0,0,,¡entonces te los quitaré \Npor la fuerza si tengo que!
 Dialogue: 0,0:17:14.93,0:17:16.31,Default,Hapu,0,0,0,,¡Vamos, Golurk!
 Dialogue: 0,0:17:17.35,0:17:19.43,Default,Hapu,0,0,0,,¡Cañón Destello!
 Dialogue: 0,0:17:30.43,0:17:31.72,Default,Hapu,0,0,0,,¿Qué es esto?
@@ -327,7 +327,7 @@ Dialogue: 0,0:17:32.47,0:17:34.10,Default,Sofu,0,0,0,,Hapu.
 Dialogue: 0,0:17:36.77,0:17:38.35,Default,Hapu,0,0,0,,¡Abuelo!
 Dialogue: 0,0:17:39.80,0:17:44.85,Default,Sofu,0,0,0,,Hapu, Tapu Fini te ha aceptado \Ncomo la Kahuna de la isla Poni.
 Dialogue: 0,0:17:44.85,0:17:46.18,Default,Hapu,0,0,0,,¡¿En verdad?!
-Dialogue: 0,0:17:47.47,0:17:50.97,Default,Sofu,0,0,0,,El Cañón Destello que disparaste para salvar a tus amigos...
+Dialogue: 0,0:17:47.47,0:17:50.97,Default,Sofu,0,0,0,,El Cañón Destello que disparaste \Npara salvar a tus amigos...
 Dialogue: 0,0:17:50.97,0:17:55.39,Default,Sofu,0,0,0,,conmovió a Tapu Fini.
 Dialogue: 0,0:17:57.64,0:17:58.93,Default,Sofu,0,0,0,,Felicitaciones.
 Dialogue: 0,0:18:00.35,0:18:02.22,Default,Hapu,0,0,0,,Tapu Fini, ¿eso significa que...?
@@ -353,7 +353,7 @@ Dialogue: 0,0:19:55.81,0:19:58.72,Default,Rotom,0,0,0,,¡Ese es el Pokémon mít
 Dialogue: 0,0:19:58.72,0:19:59.77,Default,Mao,0,0,0,,¿Shaymin?
 Dialogue: 0,0:20:00.56,0:20:03.35,Default,Rotom,0,0,0,,Shaymin, el Pokémon Gratitud. Tipo Planta.
 Dialogue: 0,0:20:03.35,0:20:05.77,Default,Rotom,0,0,0,,Cuando se acurruca, luce como flores.
-Dialogue: 0,0:20:05.77,0:20:08.10,Default,Rotom,0,0,0,,Durante la temporada en que florecen las Gracidea,
+Dialogue: 0,0:20:05.77,0:20:08.10,Default,Rotom,0,0,0,,Durante la temporada en \Nque florecen las gracídeas,
 Dialogue: 0,0:20:08.10,0:20:12.31,Default,Rotom,0,0,0,,cambia su forma y vuela para \Nofrecer sentimientos de gratitud.
 Dialogue: 0,0:20:12.89,0:20:16.64,Default,Mao,0,0,0,,¿Te quedarás conmigo hasta que vueles?
 Dialogue: 0,0:20:17.97,0:20:19.18,Default,Mao,0,0,0,,¡Gracias!
