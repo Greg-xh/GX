@@ -11,14 +11,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: NanKoko
-Audio File: D:/Anime/[Leopard-Raws] Nande Koko ni Sensei ga - 09 RAW (ATX 1280x720 x264 AAC).mp4
-Video File: D:/Anime/[Leopard-Raws] Nande Koko ni Sensei ga - 09 RAW (ATX 1280x720 x264 AAC).mp4
+Audio File: D:/Anime/[LowPower-Raws] Nande Koko ni Sensei ga! (BD 720P x264 AAC)/[LowPower-Raws] Nande Koko ni Sensei ga! - 09 (BD 720P x264 AAC).mp4
+Video File: D:/Anime/[LowPower-Raws] Nande Koko ni Sensei ga! (BD 720P x264 AAC)/[LowPower-Raws] Nande Koko ni Sensei ga! - 09 (BD 720P x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 225
-Active Line: 233
-Video Position: 15165
+Video Zoom Percent: 0.750000
+Scroll Position: 66
+Active Line: 74
+Video Position: 15315
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,8 +34,8 @@ Comment: 0,0:00:19.98,0:00:25.34,Default,chapter,0,0,0,,OP
 Comment: 0,0:01:50.04,0:01:53.60,Default,chapter,0,0,0,,Parte A
 Comment: 0,0:05:39.38,0:05:42.60,Default,chapter,0,0,0,,Parte B
 Comment: 0,0:10:41.38,0:10:53.10,Default,chapter,0,0,0,,ED
-Dialogue: 0,0:00:01.23,0:00:03.15,Default,,0,0,0,,Este es el edificio abandonado de una escuela.
-Dialogue: 0,0:00:03.86,0:00:06.36,Default,,0,0,0,,No hay duda, es el edificio\N abandonado de una escuela.
+Dialogue: 0,0:00:01.23,0:00:03.15,Default,,0,0,0,,{\i1}Esta es la antigua escuela.
+Dialogue: 0,0:00:03.86,0:00:06.36,Default,,0,0,0,,{\i1}No hay duda, es la antigua escuela.
 Dialogue: 0,0:00:07.11,0:00:09.40,Default,,0,0,0,,Es un poco escalofriante.
 Dialogue: 0,0:00:09.40,0:00:11.23,Default,,0,0,0,,Tienes razón.
 Dialogue: 0,0:00:11.23,0:00:14.94,Default,,0,0,0,,Es perfecto para el programa especial del Festival Kawanuma, ¿no creen?
@@ -63,33 +63,33 @@ Dialogue: 1,0:01:34.37,0:01:39.70,OP,,0,0,0,,{\fad(100,50)\blur0.5}y podremos en
 Dialogue: 0,0:01:34.37,0:01:39.70,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6C00C0&}y podremos entregarnos todo
 Dialogue: 1,0:01:39.70,0:01:46.18,OP,,0,0,0,,{\fad(100,50)\blur0.5}Cuando seas mi novio
 Dialogue: 0,0:01:39.70,0:01:46.18,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6C00C0&}Cuando seas mi novio
-Dialogue: 2,0:01:51.09,0:01:56.09,Signs,,0,0,0,,{\fad(550,350)\an7\fnArial Rounded MT Std Extra Bold\b1\c&H8200E2&\fs25\pos(1046.333,588)}Noveno período
-Dialogue: 1,0:01:51.09,0:01:56.09,Signs,,0,0,0,,{\fad(550,350)\bord3\an7\fnArial Rounded MT Std Extra Bold\b1\c&HFFFFFF&\3c&HFFFFFF&\fs25\pos(1046.333,588)}Noveno período
-Dialogue: 0,0:01:51.09,0:01:56.09,Signs,,0,0,0,,{\fad(550,350)\bord6\an7\fnArial Rounded MT Std Extra Bold\b1\c&HFFFFFF&\3c&H9643D4&\fs25\pos(1046.333,588)}Noveno período
-Dialogue: 0,0:00:16.52,0:00:19.36,Default,,0,0,0,,¡¿Por qué rayos estás aquí, Hika?!
+Dialogue: 2,0:01:51.04,0:01:56.05,Signs,,0,0,0,,{\fad(550,350)\an7\fnArial Rounded MT Std Extra Bold\b1\c&H8200E2&\fs25\pos(1046.333,588)}Noveno período
+Dialogue: 1,0:01:51.04,0:01:56.05,Signs,,0,0,0,,{\fad(550,350)\bord3\an7\fnArial Rounded MT Std Extra Bold\b1\c&HFFFFFF&\3c&HFFFFFF&\fs25\pos(1046.333,588)}Noveno período
+Dialogue: 0,0:01:51.04,0:01:56.05,Signs,,0,0,0,,{\fad(550,350)\bord6\an7\fnArial Rounded MT Std Extra Bold\b1\c&HFFFFFF&\3c&H9643D4&\fs25\pos(1046.333,588)}Noveno período
+Dialogue: 0,0:00:16.52,0:00:19.36,Default,,0,0,0,,¡¿Qué rayos haces aquí, Hika?!
 Dialogue: 0,0:01:52.44,0:01:55.15,Default,,0,0,0,,¿Está bien si les pido\N que patrullen el área...
 Dialogue: 0,0:01:55.15,0:01:57.86,Default,,0,0,0,,del frente, Saya y Takahashi?
 Dialogue: 0,0:01:57.86,0:02:00.02,Default,,0,0,0,,Eh... Supongo que sí.
 Dialogue: 0,0:02:00.02,0:02:02.11,Default,,0,0,0,,¡Sí, déjenoslo a nosotros!
-Dialogue: 0,0:02:02.31,0:02:06.69,Default,,0,0,0,,Me da miedo y no quiero hacerlo realmente,\N pero veo que eres todo un hombre, Takahashi.
-Dialogue: 0,0:02:06.69,0:02:08.81,Default,,0,0,0,,¿T-Todo un hombre? ¿En serio?
+Dialogue: 0,0:02:02.31,0:02:06.69,Default,,0,0,0,,Me da miedo y no quiero hacerlo realmente,\N pero veo que eres bastante varonil, Takahashi.
+Dialogue: 0,0:02:06.69,0:02:08.81,Default,,0,0,0,,¿V-Varonil? ¿En serio?
 Dialogue: 0,0:02:08.81,0:02:10.98,Default,,0,0,0,,¿Por qué se hace el interesante?
 Dialogue: 0,0:02:10.98,0:02:13.98,Default,,0,0,0,,¡Antes solía asustarse y \Nmojar sus pantalones!
 Dialogue: 0,0:02:14.23,0:02:17.73,Default,,0,0,0,,¡Muy bien, me adelantaré\N y los asustaré por detrás!
 Dialogue: 0,0:02:18.27,0:02:21.02,Default,,0,0,0,,Si Taka se asusta y muestra su lado vergonzoso, entonces...
 Dialogue: 0,0:02:26.94,0:02:31.23,Default,,0,0,0,,Cielos, te dije que esta parte estaba prohibida ya que es peligrosa...
-Dialogue: 0,0:02:31.23,0:02:33.73,Default,,0,0,0,,¡Estaba oscuro y no veía por dónde iba!{o dónde?}
+Dialogue: 0,0:02:31.23,0:02:33.73,Default,,0,0,0,,¡Estaba oscuro y no veía bien!
 Dialogue: 0,0:02:33.73,0:02:36.19,Default,,0,0,0,,¿Y por qué te metiste\Nsola a un lugar como este?
 Dialogue: 0,0:02:36.86,0:02:41.61,Default,,0,0,0,,Quería asustar a Taka \Npara avergonzarlo.
-Dialogue: 0,0:02:41.61,0:02:44.15,Default,,0,0,0,,{\i1}Ah, ya veo, esto debe\N ser un castigo divino.
+Dialogue: 0,0:02:41.61,0:02:44.22,Default,,0,0,0,,{\i1}Ya veo, debe ser un castigo divino.
 Dialogue: 0,0:02:44.40,0:02:46.40,Default,,0,0,0,,¡¿Por qué te ves tan sorprendido?
-Dialogue: 0,0:02:46.40,0:02:48.65,Default,,0,0,0,,Bueno, claro que me sorprendiste.
-Dialogue: 0,0:02:48.65,0:02:52.15,Default,,0,0,0,,{\i1}Aunque puedo tolerarlo \Nsi no pasa a mayores...
+Dialogue: 0,0:02:46.40,0:02:48.65,Default,,0,0,0,,Bueno, claro que\Nme sorprendiste.
+Dialogue: 0,0:02:48.65,0:02:52.15,Default,,0,0,0,,{\i1}Aunque no soy tan\N cobarde como crees...
 Dialogue: 0,0:02:52.81,0:02:56.23,Default,,0,0,0,,Antes que nada, \N¿no deberíamos ir a pedir ayuda?
 Dialogue: 0,0:02:56.23,0:02:58.23,Default,,0,0,0,,Ah, sí. Tienes razón.
 Dialogue: 0,0:02:59.56,0:03:01.65,Default,,0,0,0,,Espera un momento, Hika.
 Dialogue: 0,0:03:03.52,0:03:06.11,Default,,0,0,0,,No hay razón para que\N tú también vayas, Taka.
-Dialogue: 0,0:03:07.19,0:03:09.06,Default,,0,0,0,,¡¿E-Eh? ¡Taka!
+Dialogue: 0,0:03:07.19,0:03:09.06,Default,,0,0,0,,¡¿E-Eh?! ¡Taka!
 Dialogue: 0,0:03:10.61,0:03:12.73,Default,,0,0,0,,¡Lo siento, Taka! ¡¿Estás bien?!
 Dialogue: 0,0:03:12.73,0:03:14.56,Default,,0,0,0,,Auch...
 Dialogue: 0,0:03:15.86,0:03:17.69,Default,,0,0,0,,Hika, ¿tú estás bien?
@@ -98,12 +98,12 @@ Dialogue: 0,0:03:19.69,0:03:21.27,Default,,0,0,0,,¡Solo cálmate!
 Dialogue: 0,0:03:21.27,0:03:24.19,Default,,0,0,0,,El hoyo ahora es más grande, ¿aún no puedes bajar?
 Dialogue: 0,0:03:24.19,0:03:26.52,Default,,0,0,0,,¡No, mi ropa está enganchada!
 Dialogue: 0,0:03:27.69,0:03:29.02,Default,,0,0,0,,{\i1}Esto es malo...
-Dialogue: 0,0:03:29.02,0:03:31.77,Default,,0,0,0,,{\i1}Estuve tanto tiempo en el frío que\N ahora mi estómago se siente congelado.
+Dialogue: 0,0:03:29.02,0:03:31.77,Default,,0,0,0,,{\i1}Hace tanto frío que siento \Nel estómago congelado.
 Dialogue: 0,0:03:32.23,0:03:34.19,Default,,0,0,0,,{\i1}¡Tengo muchas ganas de orinar!
 Dialogue: 0,0:03:34.40,0:03:35.81,Default,,0,0,0,,¿Te duele?
-Dialogue: 0,0:03:35.81,0:03:38.07,Default,,0,0,0,,Resiste. Te sacaré ahora mismo.
-Dialogue: 0,0:03:38.27,0:03:41.53,Default,,0,0,0,,Debería poder levantarte, Hika.
-Dialogue: 0,0:03:43.23,0:03:44.98,Default,,0,0,0,,Espera, Taka,
+Dialogue: 0,0:03:35.81,0:03:38.02,Default,,0,0,0,,Resiste. Te sacaré ahora mismo.
+Dialogue: 0,0:03:38.27,0:03:41.49,Default,,0,0,0,,Debería poder levantarte, Hika.
+Dialogue: 0,0:03:43.23,0:03:44.98,Default,,0,0,0,,Espera, Taka.
 Dialogue: 0,0:03:44.98,0:03:47.56,Default,,0,0,0,,Si me sigues sacudiendo así...
 Dialogue: 0,0:03:47.56,0:03:49.61,Default,,0,0,0,,¡saldrá!
 Dialogue: 0,0:03:49.61,0:03:50.98,Default,,0,0,0,,¿Puedes salir?
@@ -113,7 +113,7 @@ Dialogue: 0,0:03:54.98,0:03:56.81,Default,,0,0,0,,¡Mira hacia otro lado!
 Dialogue: 0,0:03:56.81,0:03:59.06,Default,,0,0,0,,Ya no aguanto...
 Dialogue: 0,0:03:59.06,0:04:01.11,Default,,0,0,0,,Ya sale.
 Dialogue: 0,0:04:01.11,0:04:02.81,Default,,0,0,0,,¡No, no, no!
-Dialogue: 0,0:04:02.81,0:04:05.44,Default,,0,0,0,,¡Si lo haces ahora, caerá sobre mí!
+Dialogue: 0,0:04:02.81,0:04:05.44,Default,,0,0,0,,¡Si lo haces ahora,\N caerá sobre mí!
 Dialogue: 0,0:04:06.23,0:04:08.27,Default,,0,0,0,,¡Al menos hazlo en este balde!
 Dialogue: 0,0:04:08.27,0:04:09.61,Default,,0,0,0,,¡¿B-Balde?!
 Dialogue: 0,0:04:09.90,0:04:14.44,Default,,0,0,0,,Taka, no quiero ensuciar mi \Nropa interior, hazla a un lado.
@@ -133,7 +133,7 @@ Dialogue: 0,0:05:02.36,0:05:05.15,Default,,0,0,0,,¡Ah, eso es! ¡Si puedo hacer
 Dialogue: 0,0:05:05.69,0:05:07.02,Default,,0,0,0,,Taka, volvamos jun...
 Dialogue: 0,0:05:07.02,0:05:08.15,Default,,0,0,0,,¡Suzuki!
 Dialogue: 0,0:05:08.15,0:05:10.19,Default,,0,0,0,,¿Por qué no volvemos juntos?
-Dialogue: 0,0:05:10.52,0:05:12.94,Default,,0,0,0,,¿No quieres ir con la profesora Hazakura?
+Dialogue: 0,0:05:10.52,0:05:12.94,Default,,0,0,0,,¿No quieres ir con la \Nprofesora Hazakura?
 Dialogue: 0,0:05:12.94,0:05:14.98,Default,,0,0,0,,No, está bien.
 Dialogue: 0,0:05:15.40,0:05:17.73,Default,,0,0,0,,{\i1}Espera... ¿Por qué?
 Dialogue: 0,0:05:18.31,0:05:19.90,Default,,0,0,0,,{\i1}Parece que la orina...
@@ -143,16 +143,16 @@ Dialogue: 0,0:05:25.61,0:05:26.90,Default,,0,0,0,,{\i1}que...
 Dialogue: 0,0:05:27.90,0:05:30.11,Default,,0,0,0,,{\i1}fui rechazada por Taka?
 Dialogue: 0,0:05:30.61,0:05:34.36,Default,,0,0,0,,{\i1}¡Además, no podría mirarla \Na los ojos ahora mismo!
 Dialogue: 0,0:05:34.36,0:05:36.90,Default,,0,0,0,,{\i1}Lo mejor es dejarla sola, ¿no?
-Dialogue: 0,0:05:39.36,0:05:42.36,Signs,,0,0,0,,{\blur0.7\fnChalkDustCondensed\c&HBEC0AD&\fs30\b1\pos(352.19,96.667)}Preparatoria Kawanuma-nishi
-Dialogue: 0,0:05:39.36,0:05:42.36,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs30\b1\fscx87\fscy96\pos(667.086,96.667)}Estudiante de primer año
-Dialogue: 0,0:05:39.36,0:05:42.36,Signs,,0,0,0,,{\blur0.7\fnChalkDustCondensed\c&HBEC0AD&\fs50\b1\pos(637.943,194.953)}Saya Matsukaze
-Dialogue: 0,0:05:39.36,0:05:42.36,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs30\b1\pos(264.8,330)}Cumpleaños
-Dialogue: 0,0:05:39.36,0:05:42.36,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs33\b1\fnChalkDustCondensed\fsp2\pos(263.467,402)}Altura
-Dialogue: 0,0:05:39.36,0:05:42.36,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs33\b1\fnChalkDustCondensed\fsp2\pos(296.8,470)}Peso
-Dialogue: 0,0:05:39.36,0:05:42.36,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs33\b1\fnChalkDustCondensed\fsp2\pos(598.799,339.667)}Busto
-Dialogue: 0,0:05:39.36,0:05:42.36,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs33\b1\fnChalkDustCondensed\fsp2\pos(560.8,399.333)}Cintura
-Dialogue: 0,0:05:39.36,0:05:42.36,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs33\b1\fnChalkDustCondensed\fsp2\pos(543.466,467.333)}Cadera
-Dialogue: 0,0:05:39.36,0:05:42.36,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs25\b1\fnChalkDustCondensed\fsp2\pos(429.562,329.81)}24 de noviembre
+Dialogue: 0,0:05:39.31,0:05:42.32,Signs,,0,0,0,,{\blur0.7\fnChalkDustCondensed\c&HBEC0AD&\fs30\b1\pos(352.19,96.667)}Preparatoria Kawanuma-nishi
+Dialogue: 0,0:05:39.31,0:05:42.32,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs30\b1\fscx87\fscy96\pos(667.086,96.667)}Estudiante de primer año
+Dialogue: 0,0:05:39.31,0:05:42.32,Signs,,0,0,0,,{\blur0.7\fnChalkDustCondensed\c&HBEC0AD&\fs50\b1\pos(637.943,194.953)}Saya Matsukaze
+Dialogue: 0,0:05:39.31,0:05:42.32,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs30\b1\pos(264.8,330)}Cumpleaños
+Dialogue: 0,0:05:39.31,0:05:42.32,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs33\b1\fnChalkDustCondensed\fsp2\pos(263.467,402)}Altura
+Dialogue: 0,0:05:39.31,0:05:42.32,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs33\b1\fnChalkDustCondensed\fsp2\pos(296.8,470)}Peso
+Dialogue: 0,0:05:39.31,0:05:42.32,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs33\b1\fnChalkDustCondensed\fsp2\pos(598.799,339.667)}Busto
+Dialogue: 0,0:05:39.31,0:05:42.32,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs33\b1\fnChalkDustCondensed\fsp2\pos(560.8,399.333)}Cintura
+Dialogue: 0,0:05:39.31,0:05:42.32,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs33\b1\fnChalkDustCondensed\fsp2\pos(543.466,467.333)}Cadera
+Dialogue: 0,0:05:39.31,0:05:42.32,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs25\b1\fnChalkDustCondensed\fsp2\pos(429.562,329.81)}24 de noviembre
 Dialogue: 0,0:05:40.27,0:05:41.69,Default,,0,0,0,,¿Qué haces aquí?
 Dialogue: 0,0:05:43.73,0:05:45.86,Default,,0,0,0,,Oye{senpai J3}... me gustas.
 Dialogue: 0,0:05:45.86,0:05:47.06,Default,,0,0,0,,¿En serio? A mí también...
@@ -163,21 +163,20 @@ Dialogue: 0,0:05:55.36,0:05:58.36,Default,,0,0,0,,Cuando la gente coquetea frent
 Dialogue: 0,0:05:58.36,0:06:01.48,Default,,0,0,0,,¡los interrumpiré!
 Dialogue: 0,0:06:03.65,0:06:05.95,Default,,0,0,0,,¿Quieres intentarlo?
 Dialogue: 0,0:06:04.31,0:06:05.94,Default,,0,0,0,,{\an8}¡Tenemos una casa embrujada!
-Dialogue: 0,0:06:06.65,0:06:08.06,Default,,0,0,0,,¡Oh, no!
+Dialogue: 0,0:06:06.65,0:06:08.06,Default,,0,0,0,,¡Problemas!
 Dialogue: 0,0:06:09.11,0:06:11.44,Default,,0,0,0,,¡Es terrible, Mayu!
 Dialogue: 0,0:06:11.44,0:06:12.61,Default,,0,0,0,,¿Qué pasó?
 Dialogue: 0,0:06:12.61,0:06:14.23,Default,,0,0,0,,¡Hay un oso enloquecido!
-Dialogue: 0,0:06:14.44,0:06:15.86,Default,,0,0,0,,¡¿A qué diablos te refieres?!
+Dialogue: 0,0:06:14.44,0:06:15.86,Default,,0,0,0,,¡¿Cómo dices?!
 Dialogue: 0,0:06:16.48,0:06:19.52,Default,,0,0,0,,¡Parece que alguien con un traje de oso está molestando a las parejas!
 Dialogue: 0,0:06:19.52,0:06:22.02,Default,,0,0,0,,¡¿Por qué?! ¡Qué molestia!
-Dialogue: 0,0:06:22.02,0:06:25.52,Default,,0,0,0,,Sí, pero las parejas molestadas por el oso...
+Dialogue: 0,0:06:22.02,0:06:25.52,Default,,0,0,0,,Sí, pero las parejas\N molestadas por el oso...
 Dialogue: 0,0:06:22.44,0:06:24.27,Default,,0,0,0,,{\an8}Me gustas.
 Dialogue: 0,0:06:24.27,0:06:26.15,Default,,0,0,0,,{\an8}Mis padres no estarán hoy por la noche.
-Dialogue: 0,0:06:25.52,0:06:27.02,Default,,0,0,0,,están teniendo éxito al \Ndeclarar sus sentimientos,
+Dialogue: 0,0:06:25.52,0:06:28.90,Default,,0,0,0,,se han declarado\Ny reconciliado con éxito,
 Dialogue: 0,0:06:26.15,0:06:27.65,Default,,0,0,0,,{\an8}¡Vaya!
-Dialogue: 0,0:06:27.02,0:06:28.90,Default,,0,0,0,,reconcilándose si estaban peleados, y así...
 Dialogue: 0,0:06:28.19,0:06:30.14,Default,,0,0,0,,{\an8}¿Vamos a un lugar más privado?
-Dialogue: 0,0:06:28.90,0:06:31.76,Default,,0,0,0,,Así que parece que todos \Nestán contentos, ¿sabes?
+Dialogue: 0,0:06:28.90,0:06:31.78,Default,,0,0,0,,así que parece que\N todos están contentos.
 Dialogue: 0,0:06:30.15,0:06:31.77,Default,,0,0,0,,{\an8}Claro, vamos.
 Dialogue: 0,0:06:32.15,0:06:34.81,Default,,0,0,0,,¿É-Éxito cuando se declaran?
 Dialogue: 0,0:06:34.81,0:06:35.86,Default,,0,0,0,,Así que...
@@ -193,7 +192,7 @@ Dialogue: 0,0:07:02.81,0:07:04.31,Default,,0,0,0,,así que iré a capturarlo.
 Dialogue: 0,0:07:04.31,0:07:05.61,Default,,0,0,0,,¡Se fue por aquí!
 Dialogue: 0,0:07:16.02,0:07:18.06,Default,,0,0,0,,Finalmente los perdí.
 Dialogue: 0,0:07:18.65,0:07:22.77,Default,,0,0,0,,Pensé que con este disfraz podría saciar mi enojo con la gente...
-Dialogue: 0,0:07:22.77,0:07:25.44,Default,,0,0,0,,pero esos mocosos me tomaron como una especie de "objeto clave". {key item ashuda}{como pokemon, objetos que son necesarios para avanzar}
+Dialogue: 0,0:07:22.77,0:07:25.44,Default,,0,0,0,,pero esos mocosos me tomaron \Ncomo una especie de "objeto clave". {key item ashuda}{como pokemon, objetos que son necesarios para avanzar}
 Dialogue: 0,0:07:25.44,0:07:28.61,Default,,0,0,0,,¿Qué es eso de que encontrarán la felicidad si chocan contra mí?
 Dialogue: 0,0:07:28.98,0:07:29.90,Default,,0,0,0,,Yo...
 Dialogue: 0,0:07:30.44,0:07:32.06,Default,,0,0,0,,{\i1}¡Taka! Volvamos jun...
@@ -202,7 +201,7 @@ Dialogue: 0,0:07:35.31,0:07:38.52,Default,,0,0,0,,Antes solía aferrarse a mí i
 Dialogue: 0,0:07:38.52,0:07:39.86,Default,,0,0,0,,Dijo que me quie...
 Dialogue: 0,0:07:39.86,0:07:41.61,Default,,0,0,0,,Sabía que estarías aquí.
 Dialogue: 0,0:07:41.61,0:07:43.48,Default,,0,0,0,,¡Taka! ¡¿Qué rayos haces aquí?!
-Dialogue: 0,0:07:43.73,0:07:46.94,Default,,0,0,0,,Una profesora de Educación Física podría abrir la puerta y esconderse aquí, ¿no?
+Dialogue: 0,0:07:43.73,0:07:46.94,Default,,0,0,0,,Solo la profesora de\N Educación Física tendría la llave.
 Dialogue: 0,0:07:46.94,0:07:50.02,Default,,0,0,0,,¡¿Y cómo sabías que era \Nyo la del disfraz de oso?!
 Dialogue: 0,0:07:50.02,0:07:51.77,Default,,0,0,0,,Solo lo supe.
 Dialogue: 0,0:07:51.77,0:07:54.11,Default,,0,0,0,,Después de todo, \Nsiempre estuve a tu lado, Hika.
@@ -220,32 +219,31 @@ Dialogue: 0,0:08:17.90,0:08:20.11,Default,,0,0,0,,Es porque me empujaste, Hika.
 Dialogue: 0,0:08:22.02,0:08:24.31,Default,,0,0,0,,Hika, ¡¿y tu ropa interior?!
 Dialogue: 0,0:08:24.31,0:08:27.19,Default,,0,0,0,,¡Se ensució, así que la colgué!
 Dialogue: 0,0:08:27.19,0:08:28.65,Default,,0,0,0,,Como sea, ¡no mires!
-Dialogue: 0,0:08:28.65,0:08:31.27,Default,,0,0,0,,¡Después de todo, me tomé la molestia\N de ponerme el disfraz para esconderme!
+Dialogue: 0,0:08:28.65,0:08:31.27,Default,,0,0,0,,¡Me puse el disfraz para cubrirme!
 Dialogue: 0,0:08:31.27,0:08:34.32,Default,,0,0,0,,¡Yo tampoco quiero \Nestar en esta situación!
-Dialogue: 0,0:08:35.56,0:08:38.36,Default,,0,0,0,,{quizas entiendas mejor lo que está pasando porque con la censura no entiendo a que mierda se refiere}{Even if only a little, I \Nneed to push my hips back.}Quiero acomodar un poco la cadera.{cr tampoco entendió al parecer}
+Dialogue: 0,0:08:35.56,0:08:38.36,Default,,0,0,0,,{quizas entiendas mejor lo que está pasando porque con la censura no entiendo a que mierda se refiere}{Even if only a little, I \Nneed to push my hips back.}Quiero acomodar \Nun poco la cadera.{cr tampoco entendió al parecer}
 Dialogue: 0,0:08:38.36,0:08:39.69,Default,,0,0,0,,¿Eh?
 Dialogue: 0,0:08:39.69,0:08:42.11,Default,,0,0,0,,¡Espe...! ¡Algo se atascó!
-Dialogue: 0,0:08:42.11,0:08:43.94,Default,,0,0,0,,¡¿Qué rayos estás haciendo, Taka?!
+Dialogue: 0,0:08:42.11,0:08:43.94,Default,,0,0,0,,¡¿Qué rayos estás \Nhaciendo, Taka?!
 Dialogue: 0,0:08:43.94,0:08:45.69,Default,,0,0,0,,¡Taka pervertido! ¡Pervertido!
 Dialogue: 0,0:08:45.69,0:08:47.61,Default,,0,0,0,,¡Pervertido! ¡Pervertido! ¡Pervertido!
 Dialogue: 0,0:08:47.90,0:08:50.23,Default,,0,0,0,,Hika, no te muevas tanto...
 Dialogue: 0,0:08:50.23,0:08:52.15,Default,,0,0,0,,¡Tus pechos me están rozando ahí! {creo que es ahi, no llego a ver}{yo tampoco}
 Dialogue: 0,0:08:52.15,0:08:55.11,Default,,0,0,0,,¡Te están tocando ahí porque \Nno dejas de retorcerte!
 Dialogue: 0,0:08:55.11,0:08:57.11,Default,,0,0,0,,¡No tengo opción!
-Dialogue: 0,0:08:57.11,0:08:59.34,Default,,0,0,0,,¡No puedo evitar hacerlo \Ncuando veo las partes íntimas...
-Dialogue: 0,0:08:59.34,0:09:00.45,Default,,0,0,0,,de la persona que me gusta!
+Dialogue: 0,0:08:57.11,0:09:00.46,Default,,0,0,0,,¡No puedo evitarlo cuando veo las partes\N íntimas... de la persona que me gusta!
 Dialogue: 0,0:09:01.40,0:09:04.11,Default,,0,0,0,,¡Ya entendí! ¡¿Está bien?!
 Dialogue: 0,0:09:04.11,0:09:07.48,Default,,0,0,0,,Ya demostraste que tu afecto \Npor mí no son solo palabras, ¿sí?
 Dialogue: 0,0:09:07.48,0:09:10.73,Default,,0,0,0,,Vamos, Hika... En serio, yo...
 Dialogue: 0,0:09:19.11,0:09:20.52,Default,,0,0,0,,{\i1}Esto es horrible...
-Dialogue: 0,0:09:20.52,0:09:23.44,Default,,0,0,0,,{\i1}Además, la forma en la que le dije\N mis sentimientos no fue nada genial.
+Dialogue: 0,0:09:20.52,0:09:23.42,Default,,0,0,0,,{\i1}Además, le dije lo que sentía\Nde una forma patética.
 Dialogue: 0,0:09:23.81,0:09:25.52,Default,,0,0,0,,¿Ya acabaron?{j3}
 Dialogue: 0,0:09:25.52,0:09:28.36,Default,,0,0,0,,Por favor, no jueguen con el \Ndisfraz de esa forma, ¿está bien?
 Dialogue: 0,0:09:28.69,0:09:31.77,Default,,0,0,0,,La casa embrujada está\N repleta, así que volvamos.
 Dialogue: 0,0:09:31.77,0:09:32.77,Default,,0,0,0,,Bueno.
 Dialogue: 0,0:09:39.44,0:09:40.86,Default,,0,0,0,,Eres mío.
 Dialogue: 0,0:09:41.23,0:09:43.52,Default,,0,0,0,,Definitivamente eres mío.
-Dialogue: 0,0:09:45.31,0:09:47.44,Default,,0,0,0,,{\i1}Una declaración de amor nada genial...
+Dialogue: 0,0:09:45.31,0:09:47.44,Default,,0,0,0,,{\i1}Una patética declaración de amor...
 Dialogue: 0,0:09:47.44,0:09:49.40,Default,,0,0,0,,{\i1}y una respuesta egoísta...
 Dialogue: 0,0:09:49.40,0:09:52.11,Default,,0,0,0,,{\i1}Así somos nosotros.
 Dialogue: 0,0:09:54.81,0:09:56.11,Default,,0,0,0,,Sí.
@@ -264,8 +262,8 @@ Dialogue: 0,0:10:29.77,0:10:31.11,Default,,0,0,0,,Qué felicidad...
 Dialogue: 0,0:10:31.11,0:10:32.48,Default,,0,0,0,,¡Mayu!
 Dialogue: 0,0:10:32.48,0:10:35.36,Default,,0,0,0,,Eh, Suzuki, \N¡¿a qué te referías con eso?!
 Dialogue: 0,0:10:35.36,0:10:36.27,Default,,0,0,0,,¡¿Eh?!
-Dialogue: 0,0:10:36.27,0:10:39.02,Default,,0,0,0,,{\an8}Salir con alguien supone que se\N casarán en algún momento, ¿no?
-Dialogue: 0,0:10:39.02,0:10:40.48,Default,,0,0,0,,¡¿En qué época vives?!
+Dialogue: 0,0:10:36.27,0:10:39.23,Default,,0,0,0,,Bueno, el noviazgo\Nlleva al matrimonio, ¿no?
+Dialogue: 0,0:10:39.23,0:10:40.48,Default,,0,0,0,,¡¿En qué época vives?!
 Dialogue: 0,0:10:40.48,0:10:41.98,Default,,0,0,0,,¡Ah, Mayu!
 Dialogue: 0,0:10:41.98,0:10:53.14,ED,,0,0,0,,{\an8\fad(70,70)\blur2}Los recuerdos poco a poco se acumulan a mis espaldas sin darme cuenta
 Dialogue: 0,0:10:53.14,0:10:59.02,ED,,0,0,0,,{\fad(70,70)\blur2}El día de hoy no fue diferente

@@ -19,8 +19,8 @@ Video File: Anime/[Some-Stuffs]_Pocket_Monsters_Sun_&_Moon_110_[F66CB619].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 242
-Active Line: 252
+Scroll Position: 350
+Active Line: 355
 Video Position: 18181
 
 [V4+ Styles]
@@ -391,7 +391,7 @@ Dialogue: 0,0:20:51.56,0:20:53.68,Default,Them,0,0,0,,¡Lo hiciste!
 Dialogue: 0,0:20:54.31,0:20:55.52,Default,Kahili,0,0,0,,¡Katsuo!
 Dialogue: 0,0:20:57.48,0:21:01.43,Default,Whatever Guru,0,0,0,,He vivido por 99 años y 9 meses siendo gurú {\i1}caddie{\i0}...
 Dialogue: 0,0:21:01.43,0:21:04.73,Default,Whatever Guru,0,0,0,,Pero ya no me queda por enseñarte nada en este hoyo.
-Dialogue: 0,0:21:05.60,0:21:09.60,Default,Whatever Guru,0,0,0,,Ahora te esperaré en el hoyo del demonio 11.
+Dialogue: 0,0:21:05.60,0:21:09.60,Default,Whatever Guru,0,0,0,,Ahora te esperaré en \Nel hoyo del demonio 11.
 Dialogue: 0,0:21:14.39,0:21:17.52,Default,Human being,0,0,0,,Si Kahili puede lograr este...
 Dialogue: 0,0:21:21.52,0:21:24.14,Default,Human being,0,0,0,,¡Está dentro! ¡Kahili gana!
 Dialogue: 0,0:21:24.14,0:21:25.31,Default,Satoshi,0,0,0,,¡Lo hizo!

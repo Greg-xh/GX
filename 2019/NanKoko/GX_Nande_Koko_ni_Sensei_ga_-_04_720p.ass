@@ -11,13 +11,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: NanKoko
-Audio File: D:/Anime/[Leopard-Raws] Nande Koko ni Sensei ga！？ - 04 RAW (ATX 1280x720 x264 AAC).mp4
-Video File: D:/Anime/[Leopard-Raws] Nande Koko ni Sensei ga！？ - 04 RAW (ATX 1280x720 x264 AAC).mp4
+Audio File: D:/Anime/[LowPower-Raws] Nande Koko ni Sensei ga! (BD 720P x264 AAC)/[LowPower-Raws] Nande Koko ni Sensei ga! - 04 (BD 720P x264 AAC).mp4
+Video File: D:/Anime/[LowPower-Raws] Nande Koko ni Sensei ga! (BD 720P x264 AAC)/[LowPower-Raws] Nande Koko ni Sensei ga! - 04 (BD 720P x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Active Line: 3
-Video Position: 2903
+Scroll Position: 106
+Active Line: 108
+Video Position: 7412
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,15 +33,15 @@ Comment: 0,0:00:00.00,0:00:01.56,Default,chapter,0,0,0,,Prólogo
 Comment: 0,0:00:29.00,0:00:38.62,Default,chapter,0,0,0,,OP
 Comment: 0,0:01:59.02,0:02:03.52,Default,chapter,0,0,0,,Cuarto período
 Comment: 0,0:10:30.00,0:10:35.02,Default,chapter,0,0,0,,ED
-Dialogue: 0,0:00:00.98,0:00:02.90,Default,,0,0,0,,El sol resplandeciendo...
-Dialogue: 0,0:00:03.23,0:00:05.73,Default,,0,0,0,,El claro mar azul que\N llega hasta el horizonte...
-Dialogue: 0,0:00:06.65,0:00:09.90,Default,,0,0,0,,Gracias a la invitación a la boda de un amigo de mi mamá,
-Dialogue: 0,0:00:09.90,0:00:12.94,Default,,0,0,0,,nuestra familia viajó \Nhasta esta isla tropical.
-Dialogue: 0,0:00:14.11,0:00:16.11,Default,,0,0,0,,Al menos, eso se supone que era...
-Dialogue: 0,0:00:17.53,0:00:19.36,Default,,0,0,0,,Esta es una isla tropical.
-Dialogue: 0,0:00:19.65,0:00:22.32,Default,,0,0,0,,No hay duda, es una isla tropical.
-Dialogue: 0,0:00:23.57,0:00:25.28,Default,,0,0,0,,Entonces...
-Dialogue: 0,0:00:26.19,0:00:28.78,Default,,0,0,0,,¡¿Por qué rayos está aquí, profesora?!
+Dialogue: 0,0:00:00.98,0:00:02.90,Default,,0,0,0,,{\i1}El sol resplandeciendo...
+Dialogue: 0,0:00:03.23,0:00:05.73,Default,,0,0,0,,{\i1}El claro mar azul que\N llega hasta el horizonte...
+Dialogue: 0,0:00:06.65,0:00:09.90,Default,,0,0,0,,{\i1}Gracias a la invitación a la boda de una amiga de mi mamá,
+Dialogue: 0,0:00:09.90,0:00:12.94,Default,,0,0,0,,{\i1}nuestra familia viajó \Nhasta esta isla tropical.
+Dialogue: 0,0:00:14.11,0:00:16.11,Default,,0,0,0,,{\i1}O eso se suponía...
+Dialogue: 0,0:00:17.53,0:00:19.36,Default,,0,0,0,,{\i1}Esta es una isla tropical.
+Dialogue: 0,0:00:19.65,0:00:22.32,Default,,0,0,0,,{\i1}No hay duda, es una isla tropical.
+Dialogue: 0,0:00:23.57,0:00:25.28,Default,,0,0,0,,{\i1}Entonces...
+Dialogue: 0,0:00:26.19,0:00:28.78,Default,,0,0,0,,{\i1}¡¿Qué rayos hace aquí, profesora?!
 Dialogue: 1,0:00:47.73,0:00:50.01,OP,,0,0,0,,{\fad(100,50)\blur0.5}Este pecho,
 Dialogue: 1,0:00:50.69,0:00:53.03,OP,,0,0,0,,{\fad(100,50)\blur0.5}estas piernas,
 Dialogue: 1,0:00:53.65,0:00:56.51,OP,,0,0,0,,{\fad(100,50)\blur0.5}este trasero,
@@ -65,178 +66,176 @@ Dialogue: 0,0:01:29.39,0:01:35.65,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&
 Dialogue: 0,0:01:35.79,0:01:43.32,OP,,0,0,0,,{\fad(100,50)\an9\bord2.2\blur1\1a&HFF&\3c&H6C00C0&}El destino algún día nos unirá
 Dialogue: 0,0:01:43.32,0:01:48.65,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6C00C0&}y podremos entregarnos todo
 Dialogue: 0,0:01:48.65,0:01:55.13,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6C00C0&}Cuando seas mi novio
-Dialogue: 2,0:01:59.55,0:02:04.56,Signs,,0,0,0,,{\fad(350,350)\an7\fnArial Rounded MT Std Extra Bold\b1\c&H8200E2&\fs25\pos(1037,588)}Cuarto período
-Dialogue: 1,0:01:59.55,0:02:04.56,Signs,,0,0,0,,{\fad(350,350)\bord3\an7\fnArial Rounded MT Std Extra Bold\b1\c&HFFFFFF&\3c&HFFFFFF&\fs25\pos(1037,588)}Cuarto período
-Dialogue: 0,0:01:59.55,0:02:04.56,Signs,,0,0,0,,{\fad(350,350)\bord6\an7\fnArial Rounded MT Std Extra Bold\b1\c&HFFFFFF&\3c&H9643D4&\fs25\pos(1037,588)}Cuarto período
+Dialogue: 2,0:01:59.51,0:02:04.52,Signs,,0,0,0,,{\fad(350,350)\an7\fnArial Rounded MT Std Extra Bold\b1\c&H8200E2&\fs25\pos(1037,588)}Cuarto período
+Dialogue: 1,0:01:59.51,0:02:04.52,Signs,,0,0,0,,{\fad(350,350)\bord3\an7\fnArial Rounded MT Std Extra Bold\b1\c&HFFFFFF&\3c&HFFFFFF&\fs25\pos(1037,588)}Cuarto período
+Dialogue: 0,0:01:59.51,0:02:04.52,Signs,,0,0,0,,{\fad(350,350)\bord6\an7\fnArial Rounded MT Std Extra Bold\b1\c&HFFFFFF&\3c&H9643D4&\fs25\pos(1037,588)}Cuarto período
 Dialogue: 0,0:01:59.48,0:02:02.03,Default,,0,0,0,,Vaya, sí que hace calor aquí.
-Dialogue: 0,0:02:02.03,0:02:03.40,Default,,0,0,0,,¡Nunca imaginé que podría
-Dialogue: 0,0:02:03.40,0:02:04.94,Default,,0,0,0,,nadar en el océano \Nen esta época del año!
+Dialogue: 0,0:02:02.03,0:02:04.97,Default,,0,0,0,,¡Y pensar que podría nadar en \Nel océano en esta época del año!
 Dialogue: 0,0:02:05.69,0:02:07.32,Default,,0,0,0,,Oye, mamá...
-Dialogue: 0,0:02:07.32,0:02:09.69,Default,,0,0,0,,Sé que es un poco tarde para preguntar, ¿pero qué hace aquí la profesora?{acortar}
+Dialogue: 0,0:02:07.32,0:02:09.69,Default,,0,0,0,,Pregunto algo tarde, \N¿pero qué hace ella aquí?
 Dialogue: 0,0:02:09.69,0:02:13.57,Default,,0,0,0,,Bueno, tu padre no pudo venir por su \Ntrabajo, así que teníamos un boleto de más.
-Dialogue: 0,0:02:13.57,0:02:14.88,Default,,0,0,0,,No quería desperdiciarlo.
-Dialogue: 0,0:02:15.15,0:02:18.03,Default,,0,0,0,,Además, Kana pronto será de la familia, ¿no?
-Dialogue: 0,0:02:18.03,0:02:20.94,Default,,0,0,0,,¿"Será de la familia"? ¿Qué estás diciendo?
-Dialogue: 0,0:02:21.23,0:02:23.11,Default,,0,0,0,,Bueno, eso depende de ti.
+Dialogue: 0,0:02:13.57,0:02:14.94,Default,,0,0,0,,No quería desperdiciarlo.
+Dialogue: 0,0:02:15.13,0:02:18.03,Default,,0,0,0,,Además, Kana pronto\N será de la familia, ¿no?
+Dialogue: 0,0:02:18.03,0:02:21.32,Default,,0,0,0,,¿De la familia?\N¿Qué estás diciendo?
+Dialogue: 0,0:02:21.32,0:02:23.11,Default,,0,0,0,,Bueno, eso depende de ti.
 Dialogue: 0,0:02:23.11,0:02:24.89,Default,,0,0,0,,No sé qué estarás tramando.
 Dialogue: 0,0:02:24.89,0:02:27.32,Default,,0,0,0,,Sí que eres lento...
-Dialogue: 0,0:02:27.32,0:02:31.40,Default,,0,0,0,,Kana está dejando en claro que le gustas.
-Dialogue: 0,0:02:31.40,0:02:32.44,Default,,0,0,0,,¡¿Eh?!
-Dialogue: 0,0:02:32.73,0:02:34.98,Default,,0,0,0,,¡¿L-La profesora siente algo por mí?!
-Dialogue: 0,0:02:34.98,0:02:36.69,Default,,0,0,0,,¡Eso no puede ser, ¿verdad?!
-Dialogue: 0,0:02:36.69,0:02:40.36,Default,,0,0,0,,Claro que puede ser, hijo cabeza dura.
-Dialogue: 0,0:02:40.61,0:02:42.28,Default,,0,0,0,,Bueno, esta es una buena oportunidad.
+Dialogue: 0,0:02:27.32,0:02:31.40,Default,,0,0,0,,Kana está dejando en\N claro que le gustas.
+Dialogue: 0,0:02:31.40,0:02:32.50,Default,,0,0,0,,¡¿Eh?!
+Dialogue: 0,0:02:32.68,0:02:34.98,Default,,0,0,0,,¡¿L-La profesora siente algo por mí?!
+Dialogue: 0,0:02:34.98,0:02:36.69,Default,,0,0,0,,¡Eso no puede ser!
+Dialogue: 0,0:02:36.69,0:02:40.56,Default,,0,0,0,,Claro que puede ser,\N hijo cabeza dura.
+Dialogue: 0,0:02:40.56,0:02:42.28,Default,,0,0,0,,Bueno, es una buena oportunidad.
 Dialogue: 0,0:02:42.28,0:02:45.40,Default,,0,0,0,,Hoy intenta decirle lo que tú sientes.
-Dialogue: 0,0:02:45.40,0:02:48.07,Default,,0,0,0,,Yo iré a ayudar, así los dejo a solas, ¿sí?
-Dialogue: 0,0:02:48.53,0:02:49.75,Default,,0,0,0,,¡Vamos, Shio!
-Dialogue: 0,0:02:50.19,0:02:52.48,Default,,0,0,0,,¡Hay unas carteras libres de impuestos esperándonos!
+Dialogue: 0,0:02:45.40,0:02:48.09,Default,,0,0,0,,Yo iré a ayudar, \Nasí los dejo a solas.
+Dialogue: 0,0:02:48.43,0:02:49.85,Default,,0,0,0,,¡Vamos, Shio!
+Dialogue: 0,0:02:50.17,0:02:52.48,Default,,0,0,0,,¡Nos esperan bolsos libres de impuestos!
 Dialogue: 0,0:02:52.48,0:02:54.15,Default,,0,0,0,,¡Carteras!
-Dialogue: 0,0:02:54.15,0:02:56.11,Default,,0,0,0,,¡Solo querías una excusa\Npara ir de compras, ¿no?!
-Dialogue: 0,0:02:56.65,0:02:58.98,Default,,0,0,0,,Saki siempre está llena de energía.
-Dialogue: 0,0:03:00.07,0:03:02.03,Default,,0,0,0,,Ya que vinimos tan lejos a la playa,
-Dialogue: 0,0:03:02.03,0:03:04.19,Default,,0,0,0,,¿por qué no vamos a \Ndivertirnos hasta la boda?
-Dialogue: 0,0:03:08.69,0:03:11.98,Default,,0,0,0,,Aquí parece un buen lugar sin gente, ¿eh?
-Dialogue: 0,0:03:12.40,0:03:14.48,Default,,0,0,0,,¡Instalémonos aquí!
-Dialogue: 0,0:03:15.94,0:03:19.44,Default,,0,0,0,,Me da pena ver a la profesora a los ojos por lo que dijo mamá.
-Dialogue: 0,0:03:19.44,0:03:21.50,Default,,0,0,0,,Dejando mis sentimientos de lado,
-Dialogue: 0,0:03:21.50,0:03:23.90,Default,,0,0,0,,es imposible que le guste\N a la profesora, ¿verdad?
+Dialogue: 0,0:02:54.15,0:02:56.15,Default,,0,0,0,,¡Solo querías ir de compras!
+Dialogue: 0,0:02:56.63,0:02:59.03,Default,,0,0,0,,Saki siempre está llena de energía.
+Dialogue: 0,0:03:00.05,0:03:02.03,Default,,0,0,0,,Ya que estamos en la playa,
+Dialogue: 0,0:03:02.03,0:03:04.24,Default,,0,0,0,,¿por qué no vamos a \Ndivertirnos hasta la boda?
+Dialogue: 0,0:03:08.67,0:03:12.04,Default,,0,0,0,,Aquí parece un buen\N lugar sin gente, ¿eh?
+Dialogue: 0,0:03:12.38,0:03:14.50,Default,,0,0,0,,¡Instalémonos aquí!
+Dialogue: 0,0:03:15.92,0:03:19.44,Default,,0,0,0,,{\i1}Me da pena ver a la profesora a los ojos por lo que dijo mamá.
+Dialogue: 0,0:03:19.44,0:03:21.50,Default,,0,0,0,,{\i1}Dejando mis sentimientos de lado,
+Dialogue: 0,0:03:21.50,0:03:23.90,Default,,0,0,0,,{\i1}es imposible que le guste, ¿verdad?
 Dialogue: 0,0:03:23.90,0:03:24.65,Default,,0,0,0,,¡Sato!
-Dialogue: 0,0:03:24.65,0:03:26.79,Default,,0,0,0,,Hasta ahora no mostró ningún signo...
-Dialogue: 0,0:03:25.32,0:03:26.36,Default,,0,0,0,,{\an8}Sato...
-Dialogue: 0,0:03:26.78,0:03:27.69,Default,,0,0,0,,{\an8}¡Sato!
-Dialogue: 0,0:03:27.69,0:03:28.50,Default,,0,0,0,,¡¿S-Sí?!
-Dialogue: 0,0:03:28.73,0:03:30.73,Default,,0,0,0,,¿En qué estás pensando tanto?
-Dialogue: 0,0:03:30.73,0:03:33.40,Default,,0,0,0,,Si no te molesta, ¿podrías \Nponerme un poco de protector?
-Dialogue: 0,0:03:34.01,0:03:36.07,Default,,0,0,0,,¡¿M-Me está preguntando a mí?!
-Dialogue: 0,0:03:36.07,0:03:37.01,Default,,0,0,0,,Sí.
-Dialogue: 0,0:03:37.23,0:03:41.61,Default,,0,0,0,,D-Debe ser porque no hay nadie más...
-Dialogue: 0,0:03:42.15,0:03:44.28,Default,,0,0,0,,Estoy seguro de que no \Nes una muestra de afecto...
+Dialogue: 0,0:03:24.65,0:03:26.81,Default,,0,0,0,,{\i1}Hasta ahora no mostró ningún signo...
+Dialogue: 0,0:03:25.30,0:03:26.38,Default,,0,0,0,,{\an8}Sato...
+Dialogue: 0,0:03:26.76,0:03:27.69,Default,,0,0,0,,{\an8}¡Sato!
+Dialogue: 0,0:03:27.69,0:03:28.56,Default,,0,0,0,,¡¿S-Sí?!
+Dialogue: 0,0:03:28.56,0:03:30.73,Default,,0,0,0,,¿Qué te tiene tan pensativo?
+Dialogue: 0,0:03:30.73,0:03:33.42,Default,,0,0,0,,Si no te molesta, ¿podrías \Nponerme un poco de protector?
+Dialogue: 0,0:03:34.06,0:03:36.07,Default,,0,0,0,,¡¿Y-Yo?!
+Dialogue: 0,0:03:36.07,0:03:37.07,Default,,0,0,0,,Sí.
+Dialogue: 0,0:03:37.07,0:03:41.63,Default,,0,0,0,,{\i1}D-Debe ser porque\Nno hay nadie más...
+Dialogue: 0,0:03:42.03,0:03:44.28,Default,,0,0,0,,{\i1}No debe significar nada…
 Dialogue: 0,0:03:44.28,0:03:45.94,Default,,0,0,0,,Vamos, por favor.
-Dialogue: 0,0:03:45.94,0:03:47.48,Default,,0,0,0,,S-Sí.
-Dialogue: 0,0:03:50.40,0:03:52.73,Default,,0,0,0,,Eh, ¿así?
-Dialogue: 0,0:03:52.73,0:03:54.98,Default,,0,0,0,,Un poco más alto.
+Dialogue: 0,0:03:45.94,0:03:47.50,Default,,0,0,0,,S-Sí.
+Dialogue: 0,0:03:50.38,0:03:52.73,Default,,0,0,0,,Eh, ¿así?
+Dialogue: 0,0:03:52.73,0:03:54.98,Default,,0,0,0,,Un poco más arriba.
 Dialogue: 0,0:03:54.98,0:03:56.98,Default,,0,0,0,,¿Qué tal así?
-Dialogue: 0,0:03:56.98,0:03:59.53,Default,,0,0,0,,Ah, perfecto.
-Dialogue: 0,0:03:59.86,0:04:02.39,Default,,0,0,0,,Pero... creo que la profesora es del tipo...
-Dialogue: 0,0:04:02.39,0:04:04.45,Default,,0,0,0,,de las que hacen esto sin pedirle a nadie....
-Dialogue: 0,0:04:05.03,0:04:07.10,Default,,0,0,0,,Y cuando recuerdo...
-Dialogue: 0,0:04:07.10,0:04:10.49,Default,,0,0,0,,tal vez sí hubo momentos en los que me mostró afecto... o tal vez no.
-Dialogue: 0,0:04:11.19,0:04:13.65,Default,,0,0,0,,Ahora en el cuello...
-Dialogue: 0,0:04:16.03,0:04:18.30,Default,,0,0,0,,Ah, ¡no lo sé!
-Dialogue: 0,0:04:18.82,0:04:22.36,Default,,0,0,0,,Me pregunto si realmente\N le gusto a la profesora...
-Dialogue: 0,0:04:22.36,0:04:24.82,Default,,0,0,0,,Sí, te quiero.
-Dialogue: 0,0:04:27.81,0:04:30.23,Default,,0,0,0,,E-Eh... Eso fue...
-Dialogue: 0,0:04:34.69,0:04:36.28,Default,,0,0,0,,¡L-Lo siento!
-Dialogue: 0,0:04:36.53,0:04:38.11,Default,,0,0,0,,E-Está bien.
-Dialogue: 0,0:04:38.48,0:04:42.84,Default,,0,0,0,,Así que... hasta tu graduación, \N¡haz de cuenta que nunca escuchaste eso!
-Dialogue: 0,0:04:42.84,0:04:44.62,Default,,0,0,0,,¡E-Eso haré!
-Dialogue: 0,0:04:45.48,0:04:46.65,Default,,0,0,0,,¡Espe...!
-Dialogue: 0,0:04:47.98,0:04:50.44,Default,,0,0,0,,¡Me tomaré un momento\Npara enfriar mi cabeza!
-Dialogue: 0,0:04:50.44,0:04:53.57,Default,,0,0,0,,¡A-Aunque me lo haya pedido, no puedo olvidar lo que oí!
-Dialogue: 0,0:04:53.57,0:04:55.48,Default,,0,0,0,,Y pensar que sí le gusto a la profeso...
-Dialogue: 0,0:04:55.48,0:04:56.69,Default,,0,0,0,,¡Sato!
-Dialogue: 0,0:04:56.69,0:04:59.44,Default,,0,0,0,,¡Un calambre! ¡Ayúdame!
-Dialogue: 0,0:04:59.44,0:05:02.11,Default,,0,0,0,,¡Deme un segundo para pensar!
-Dialogue: 0,0:05:03.40,0:05:06.68,Default,,0,0,0,,Eso pasó porque saltó sin calentar antes.
-Dialogue: 0,0:05:06.98,0:05:08.11,Default,,0,0,0,,Perdón. {badm}
-Dialogue: 0,0:05:08.51,0:05:10.82,Default,,0,0,0,,Casi me ahogo ahí.
-Dialogue: 0,0:05:10.82,0:05:11.44,Default,,0,0,0,,{Ow!}
-Dialogue: 0,0:05:11.65,0:05:13.03,Default,,0,0,0,,¿Qué pasó?
-Dialogue: 0,0:05:13.03,0:05:15.90,Default,,0,0,0,,Bueno, creo que algo me mordió...
-Dialogue: 0,0:05:16.19,0:05:16.94,Default,,0,0,0,,¿Eh?
-Dialogue: 0,0:05:18.79,0:05:20.78,Signs,,0,0,0,,{\fs15\fnAveria Sans\c&H03070F&\b1\blur0.5\pos(483.667,241.032)\frz34.99}¡Cuidado con
-Dialogue: 0,0:05:18.79,0:05:20.78,Signs,,0,0,0,,{\fs15\fnAveria Sans\c&H03070F&\b1\blur0.5\frz35.12\pos(544.505,212.534)}las serpientes marinas!
-Dialogue: 0,0:05:18.79,0:05:20.78,Signs,,0,0,0,,{\an1\fs15\fnAveria Sans\c&H03070F&\b1\frz34.41\blur0.5\frx0\fry358\org(647.283,516.89)\pos(678.483,519.29)}¡Algunas especies \N\h\h\h\h\h\h\h\h\h\hson venenosas!
-Dialogue: 0,0:05:23.53,0:05:26.74,Default,,0,0,0,,¡¿Q-Qué hacemos?! ¡¿Voy a morir?!
+Dialogue: 0,0:03:56.98,0:03:59.81,Default,,0,0,0,,Ah, perfecto.
+Dialogue: 0,0:03:59.81,0:04:04.47,Default,,0,0,0,,{\i1}Pero... creo que la profesora es de\N las que hacen todo por su cuenta...
+Dialogue: 0,0:04:05.01,0:04:07.10,Default,,0,0,0,,{\i1}Y cuando recuerdo...
+Dialogue: 0,0:04:07.10,0:04:10.51,Default,,0,0,0,,{\i1}tal vez sí hubo momentos en los que me mostró afecto... o tal vez no.
+Dialogue: 0,0:04:11.06,0:04:13.67,Default,,0,0,0,,Ahora en el cuello...
+Dialogue: 0,0:04:16.01,0:04:18.36,Default,,0,0,0,,{\i1}Ah, ¡no lo sé!
+Dialogue: 0,0:04:18.80,0:04:22.36,Default,,0,0,0,,Me pregunto si realmente\N le gusto a la profesora...
+Dialogue: 0,0:04:22.36,0:04:24.84,Default,,0,0,0,,Sí, te quiero.
+Dialogue: 0,0:04:27.87,0:04:30.25,Default,,0,0,0,,E-Eh... Eso fue...
+Dialogue: 0,0:04:34.67,0:04:36.48,Default,,0,0,0,,¡L-Lo siento!
+Dialogue: 0,0:04:36.48,0:04:38.17,Default,,0,0,0,,E-Está bien.
+Dialogue: 0,0:04:38.46,0:04:42.63,Default,,0,0,0,,Así que... hasta tu graduación, \N¡finge que no escuchaste nada!
+Dialogue: 0,0:04:42.84,0:04:44.68,Default,,0,0,0,,¡E-Eso haré!
+Dialogue: 0,0:04:45.46,0:04:46.67,Default,,0,0,0,,¡Espe...!
+Dialogue: 0,0:04:48.01,0:04:50.44,Default,,0,0,0,,¡Me tomaré un momento\Npara enfriar mi cabeza!
+Dialogue: 0,0:04:50.44,0:04:53.57,Default,,0,0,0,,{\i1}¡A-Aunque me lo pida, no\N puedo olvidarlo así nada más!
+Dialogue: 0,0:04:53.57,0:04:55.48,Default,,0,0,0,,{\i1}Y pensar que sí le gusto a la profeso...
+Dialogue: 0,0:04:55.48,0:04:56.73,Default,,0,0,0,,¡Sato!
+Dialogue: 0,0:04:56.73,0:04:59.44,Default,,0,0,0,,¡Un calambre! ¡Ayúdame!
+Dialogue: 0,0:04:59.44,0:05:02.13,Default,,0,0,0,,¡Deme un segundo para pensar!
+Dialogue: 0,0:05:03.38,0:05:06.93,Default,,0,0,0,,Eso pasó porque \Nsaltó sin calentar antes.
+Dialogue: 0,0:05:06.93,0:05:08.28,Default,,0,0,0,,Perdón. {badm}
+Dialogue: 0,0:05:08.49,0:05:10.82,Default,,0,0,0,,Casi me ahogo.
+Dialogue: 0,0:05:10.82,0:05:11.49,Default,,0,0,0,,{Ow!}
+Dialogue: 0,0:05:11.49,0:05:13.03,Default,,0,0,0,,¿Qué pasó?
+Dialogue: 0,0:05:13.03,0:05:16.14,Default,,0,0,0,,Bueno, creo que algo me mordió...
+Dialogue: 0,0:05:16.14,0:05:17.00,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:05:18.75,0:05:20.75,Signs,,0,0,0,,{\fs15\fnAveria Sans\c&H03070F&\b1\blur0.6\pos(483.667,241.032)\frz34.99}¡Cuidado con
+Dialogue: 0,0:05:18.75,0:05:20.75,Signs,,0,0,0,,{\fs15\fnAveria Sans\c&H03070F&\b1\blur0.5\frz35.12\pos(544.505,212.534)}las serpientes marinas!
+Dialogue: 0,0:05:18.75,0:05:20.75,Signs,,0,0,0,,{\an1\fs15\fnAveria Sans\c&H03070F&\b1\frz34.41\blur0.6\frx0\fry358\org(647.283,516.89)\pos(678.483,519.29)}¡Algunas especies \N\h\h\h\h\h\h\h\h\h\hson venenosas!
+Dialogue: 0,0:05:23.51,0:05:26.74,Default,,0,0,0,,¡¿Q-Qué hacemos?! \N¡¿Voy a morir?!
 Dialogue: 0,0:05:26.74,0:05:29.03,Default,,0,0,0,,Todo estará bien, calma...
-Dialogue: 0,0:05:29.03,0:05:30.73,Default,,0,0,0,,Pero, pero...
-Dialogue: 0,0:05:31.65,0:05:34.03,Default,,0,0,0,,No puedo morir aún...
-Dialogue: 0,0:05:34.03,0:05:36.25,Default,,0,0,0,,No sin antes conocer \Ntus sentimientos, Sato.
-Dialogue: 0,0:05:37.78,0:05:40.73,Default,,0,0,0,,Entendido. ¡Succionaré el veneno!
-Dialogue: 0,0:05:40.73,0:05:42.11,Default,,0,0,0,,¡¿S-Sato?!
-Dialogue: 0,0:05:42.66,0:05:43.98,Default,,0,0,0,,¡¿Dónde la mordió?!
-Dialogue: 0,0:05:43.98,0:05:47.15,Default,,0,0,0,,¿Que dónde...? Pues...
-Dialogue: 0,0:05:48.03,0:05:49.03,Default,,0,0,0,,Uh...
-Dialogue: 0,0:05:53.73,0:05:54.53,Default,,0,0,0,,Aquí.
-Dialogue: 0,0:05:54.53,0:05:55.94,Default,,0,0,0,,¡¿Justo ahí?!
+Dialogue: 0,0:05:29.03,0:05:30.75,Default,,0,0,0,,Pero, pero...
+Dialogue: 0,0:05:31.63,0:05:34.03,Default,,0,0,0,,No puedo morir aún...
+Dialogue: 0,0:05:34.03,0:05:36.31,Default,,0,0,0,,No sin antes saber lo que sientes.
+Dialogue: 0,0:05:37.76,0:05:40.73,Default,,0,0,0,,Entendido. ¡Succionaré el veneno!
+Dialogue: 0,0:05:40.73,0:05:42.13,Default,,0,0,0,,¡¿S-Sato?!
+Dialogue: 0,0:05:42.64,0:05:43.98,Default,,0,0,0,,¡¿Dónde la mordió?!
+Dialogue: 0,0:05:43.98,0:05:47.17,Default,,0,0,0,,¿Que dónde...? Pues...
+Dialogue: 0,0:05:48.01,0:05:49.05,Default,,0,0,0,,Uh...
+Dialogue: 0,0:05:53.71,0:05:54.53,Default,,0,0,0,,Aquí.
+Dialogue: 0,0:05:54.53,0:05:55.94,Default,,0,0,0,,{\i1}¡¿Justo ahí?!
 Dialogue: 0,0:05:55.94,0:05:57.78,Default,,0,0,0,,Bueno, no tenemos opción.
-Dialogue: 0,0:05:57.78,0:05:59.73,Default,,0,0,0,,Abra las piernas un poco más, por favor.
-Dialogue: 0,0:06:00.53,0:06:02.40,Default,,0,0,0,,¡¿E-En serio lo vas a hacer?!
-Dialogue: 0,0:06:02.94,0:06:06.41,Default,,0,0,0,,P-Pero tengo un calambre, \Nno puedo abrirlas mucho más...
-Dialogue: 0,0:06:06.41,0:06:08.73,Default,,0,0,0,,Entonces, si me disculpa.{itadakimasu (?}
-Dialogue: 0,0:06:08.73,0:06:09.65,Default,,0,0,0,,¿Eh?
-Dialogue: 0,0:06:13.90,0:06:16.00,Default,,0,0,0,,V-Vaya pose.
-Dialogue: 0,0:06:16.00,0:06:18.94,Default,,0,0,0,,L-Lo siento. Pero es la única forma...
-Dialogue: 0,0:06:19.23,0:06:21.96,Default,,0,0,0,,¡Haré lo posible para no mirar, ¿está bien?!
-Dialogue: 0,0:06:27.40,0:06:29.19,Default,,0,0,0,,B-Bueno...
-Dialogue: 0,0:06:29.69,0:06:30.98,Default,,0,0,0,,Es aquí, ¿no?
-Dialogue: 0,0:06:33.94,0:06:35.65,Default,,0,0,0,,Aquí voy.
-Dialogue: 0,0:06:42.83,0:06:43.71,Default,,0,0,0,,¡Una vez más!
-Dialogue: 0,0:06:47.40,0:06:48.61,Default,,0,0,0,,¡Y una más!
-Dialogue: 0,0:06:49.65,0:06:50.79,Default,,0,0,0,,¡B-Basta!
-Dialogue: 0,0:06:50.79,0:06:52.37,Default,,0,0,0,,¡Ya es suficiente!
-Dialogue: 0,0:07:10.82,0:07:13.03,Default,,0,0,0,,Acaba de...
-Dialogue: 0,0:07:13.36,0:07:14.65,Default,,0,0,0,,¡L-Lo sien...!
-Dialogue: 0,0:07:14.65,0:07:15.40,Default,,0,0,0,,¿Eh?
-Dialogue: 0,0:07:15.40,0:07:17.36,Default,,0,0,0,,¡P-Profesora!
-Dialogue: 0,0:07:18.40,0:07:20.52,Default,,0,0,0,,¡¿Por qué?! No me digas que el veneno...
-Dialogue: 0,0:07:20.90,0:07:23.40,Default,,0,0,0,,¡Ambulancia!
-Dialogue: 0,0:07:26.15,0:07:27.98,Default,,0,0,0,,Entonces la llevaste al hospital,
-Dialogue: 0,0:07:27.98,0:07:30.72,Default,,0,0,0,,pero no había signos de\N veneno ni nada más... ¿eh?
-Dialogue: 0,0:07:31.48,0:07:34.08,Default,,0,0,0,,Entonces ¿por qué te desmayaste, Kana?
-Dialogue: 0,0:07:34.52,0:07:36.19,Default,,0,0,0,,B-Bueno, eh...
-Dialogue: 0,0:07:36.19,0:07:38.25,Default,,0,0,0,,El estímulo fue...
-Dialogue: 0,0:07:38.61,0:07:41.75,Default,,0,0,0,,¡E-El estímulo de ser \Nmordida fue muy intenso!
-Dialogue: 0,0:07:44.57,0:07:47.28,Default,,0,0,0,,Bueno, menos mal que no pasó a mayores.
-Dialogue: 0,0:07:47.28,0:07:50.60,Default,,0,0,0,,Cierto, la ceremonia ya \Ncomenzó, apurémonos.
-Dialogue: 0,0:07:51.28,0:07:52.68,Default,,0,0,0,,Pero antes...
-Dialogue: 0,0:07:53.19,0:07:56.94,Default,,0,0,0,,¿Mi hijo cabeza dura pudo\N decirle cómo se siente?
-Dialogue: 0,0:07:58.36,0:08:01.31,Default,,0,0,0,,Ella es... mi profesora.
-Dialogue: 0,0:08:03.36,0:08:05.44,Default,,0,0,0,,¡Ah, ahora me siento segura sobre mis años venideros!
-Dialogue: 0,0:08:05.69,0:08:06.86,Default,,0,0,0,,¡Segura!
-Dialogue: 0,0:08:07.15,0:08:10.17,Default,,0,0,0,,¡Oye! ¡¿Por qué estás tan\N convencida de que será así?!
-Dialogue: 0,0:08:10.44,0:08:11.53,Default,,0,0,0,,Sato...
-Dialogue: 0,0:08:13.07,0:08:17.57,Default,,0,0,0,,No pude decírtelo antes... pero gracias por intentar salvarme.
-Dialogue: 0,0:08:18.38,0:08:19.63,Default,,0,0,0,,Me hizo feliz.
-Dialogue: 0,0:08:21.48,0:08:22.78,Default,,0,0,0,,De nada.
-Dialogue: 0,0:08:23.94,0:08:26.74,Default,,0,0,0,,Su expresión no se parece en nada a la de la escuela.
-Dialogue: 0,0:08:27.11,0:08:29.55,Default,,0,0,0,,Pero aun así, sigue siendo mi profesora.
-Dialogue: 0,0:08:31.15,0:08:34.36,Default,,0,0,0,,Sabe, aunque hayamos venido hasta esta isla tropical,
-Dialogue: 0,0:08:34.36,0:08:36.07,Default,,0,0,0,,no nos divertimos demasiado, ¿no?
-Dialogue: 0,0:08:36.40,0:08:38.32,Default,,0,0,0,,Sí, supongo que tienes razón.
-Dialogue: 0,0:08:51.78,0:08:52.98,Default,,0,0,0,,Profesora...
-Dialogue: 0,0:08:54.16,0:08:56.60,Default,,0,0,0,,Cuando me gradúe, volvamos aquí...
-Dialogue: 0,0:08:57.45,0:08:58.61,Default,,0,0,0,,solo nosotros dos.
-Dialogue: 0,0:08:58.94,0:09:00.33,Default,,0,0,0,,Sato...
-Dialogue: 0,0:09:06.57,0:09:08.48,Default,,0,0,0,,P-Pequeño...
-Dialogue: 0,0:09:09.26,0:09:10.86,Default,,0,0,0,,Estás diciendo que...
-Dialogue: 0,0:09:10.86,0:09:12.26,Default,,0,0,0,,¡¿Qué es esa aura tan intimidante?!
-Dialogue: 0,0:09:12.26,0:09:14.86,Default,,0,0,0,,¡Hay un orden para las cosas, ¿sabes?!
-Dialogue: 0,0:09:14.86,0:09:18.10,Default,,0,0,0,,¡Lo siento!
-Dialogue: 0,0:09:18.91,0:09:20.61,Default,,0,0,0,,¡Salud!
-Dialogue: 0,0:09:24.94,0:09:27.94,Default,,0,0,0,,¡Japón sí que es genial!
-Dialogue: 0,0:09:28.15,0:09:30.28,Default,,0,0,0,,Estás exagerando, Kana.
-Dialogue: 0,0:09:30.28,0:09:33.11,Default,,0,0,0,,Como sea, ¿qué tal la isla tropical?
-Dialogue: 0,0:09:33.41,0:09:35.11,Default,,0,0,0,,Divertida.
+Dialogue: 0,0:05:57.78,0:05:59.75,Default,,0,0,0,,Abra las piernas un \Npoco más, por favor.
+Dialogue: 0,0:06:00.51,0:06:02.46,Default,,0,0,0,,¡¿E-En serio lo vas a hacer?!
+Dialogue: 0,0:06:02.92,0:06:06.47,Default,,0,0,0,,P-Pero tengo un calambre, \Nno puedo abrirlas mucho más...
+Dialogue: 0,0:06:06.47,0:06:08.73,Default,,0,0,0,,Entonces, si me disculpa.{itadakimasu (?}
+Dialogue: 0,0:06:08.73,0:06:09.67,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:06:13.88,0:06:16.06,Default,,0,0,0,,V-Vaya pose.
+Dialogue: 0,0:06:16.06,0:06:19.18,Default,,0,0,0,,L-Lo siento. Pero es la única forma...
+Dialogue: 0,0:06:19.18,0:06:22.02,Default,,0,0,0,,¡Haré lo posible para \Nno mirar, ¿está bien?!
+Dialogue: 0,0:06:27.38,0:06:29.21,Default,,0,0,0,,B-Bueno...
+Dialogue: 0,0:06:29.67,0:06:31.03,Default,,0,0,0,,Es aquí, ¿no?
+Dialogue: 0,0:06:33.99,0:06:35.67,Default,,0,0,0,,Aquí voy.
+Dialogue: 0,0:06:42.81,0:06:43.73,Default,,0,0,0,,¡Una vez más!
+Dialogue: 0,0:06:47.38,0:06:48.63,Default,,0,0,0,,¡Y una más!
+Dialogue: 0,0:06:49.63,0:06:50.84,Default,,0,0,0,,¡B-Basta!
+Dialogue: 0,0:06:50.84,0:06:52.43,Default,,0,0,0,,¡Ya es suficiente!
+Dialogue: 0,0:07:10.80,0:07:13.31,Default,,0,0,0,,Acaba de...
+Dialogue: 0,0:07:13.31,0:07:14.65,Default,,0,0,0,,¡L-Lo sien...!
+Dialogue: 0,0:07:14.65,0:07:15.45,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:07:15.45,0:07:17.38,Default,,0,0,0,,¡P-Profesora!
+Dialogue: 0,0:07:18.45,0:07:20.58,Default,,0,0,0,,¡¿Por qué?! No me digas que el veneno...
+Dialogue: 0,0:07:20.88,0:07:23.46,Default,,0,0,0,,¡Ambulancia!
+Dialogue: 0,0:07:26.13,0:07:27.98,Default,,0,0,0,,Entonces la llevaste al hospital,
+Dialogue: 0,0:07:27.98,0:07:30.74,Default,,0,0,0,,pero no había signos de\N veneno ni nada... ¿eh?
+Dialogue: 0,0:07:31.46,0:07:34.10,Default,,0,0,0,,Entonces ¿por qué te desmayaste, Kana?
+Dialogue: 0,0:07:34.50,0:07:36.19,Default,,0,0,0,,B-Bueno, eh...
+Dialogue: 0,0:07:36.19,0:07:38.27,Default,,0,0,0,,El estímulo fue...
+Dialogue: 0,0:07:38.47,0:07:41.81,Default,,0,0,0,,¡E-El estímulo de ser \Nmordida fue muy intenso!
+Dialogue: 0,0:07:44.55,0:07:47.28,Default,,0,0,0,,Bueno, menos mal \Nque no pasó a mayores.
+Dialogue: 0,0:07:47.28,0:07:50.65,Default,,0,0,0,,Cierto, la ceremonia ya \Ncomenzó, apurémonos.
+Dialogue: 0,0:07:51.26,0:07:52.70,Default,,0,0,0,,Pero antes...
+Dialogue: 0,0:07:53.17,0:07:56.96,Default,,0,0,0,,¿Mi hijo cabeza dura pudo\N decirle cómo se siente?
+Dialogue: 0,0:07:58.34,0:08:01.37,Default,,0,0,0,,Ella es... mi profesora.
+Dialogue: 0,0:08:03.42,0:08:05.64,Default,,0,0,0,,¡Ah, ahora me siento más segura!
+Dialogue: 0,0:08:05.64,0:08:07.10,Default,,0,0,0,,¡Segura!
+Dialogue: 0,0:08:07.10,0:08:10.39,Default,,0,0,0,,¡Oye! ¡¿Por qué estás tan\N convencida de que será así?!
+Dialogue: 0,0:08:10.39,0:08:11.55,Default,,0,0,0,,Sato...
+Dialogue: 0,0:08:13.05,0:08:17.59,Default,,0,0,0,,No pude decírtelo antes... \Npero gracias por intentar salvarme.
+Dialogue: 0,0:08:18.36,0:08:19.65,Default,,0,0,0,,Me hizo feliz.
+Dialogue: 0,0:08:21.46,0:08:22.80,Default,,0,0,0,,De nada.
+Dialogue: 0,0:08:23.92,0:08:26.76,Default,,0,0,0,,{\i1}Su expresión no se parece en nada a la de la escuela.
+Dialogue: 0,0:08:27.09,0:08:29.61,Default,,0,0,0,,{\i1}Pero aun así, \Nsigue siendo mi profesora.
+Dialogue: 0,0:08:31.13,0:08:34.36,Default,,0,0,0,,Pero aunque hayamos venido hasta esta isla tropical,
+Dialogue: 0,0:08:34.36,0:08:36.11,Default,,0,0,0,,no nos divertimos mucho, ¿eh?
+Dialogue: 0,0:08:36.35,0:08:38.53,Default,,0,0,0,,Sí, supongo.
+Dialogue: 0,0:08:51.76,0:08:53.00,Default,,0,0,0,,Profesora...
+Dialogue: 0,0:08:54.22,0:08:56.62,Default,,0,0,0,,Cuando me gradúe, volvamos aquí...
+Dialogue: 0,0:08:57.43,0:08:58.68,Default,,0,0,0,,solo nosotros dos.
+Dialogue: 0,0:08:58.89,0:09:00.35,Default,,0,0,0,,Sato...
+Dialogue: 0,0:09:06.55,0:09:08.50,Default,,0,0,0,,P-Pequeño...
+Dialogue: 0,0:09:09.31,0:09:10.86,Default,,0,0,0,,Estás diciendo que...
+Dialogue: 0,0:09:10.86,0:09:12.32,Default,,0,0,0,,{\i1}¡¿Por qué el aura tan intimidante?!
+Dialogue: 0,0:09:12.32,0:09:14.86,Default,,0,0,0,,¡Hay un orden para las cosas!
+Dialogue: 0,0:09:14.86,0:09:18.16,Default,,0,0,0,,¡Lo siento!
+Dialogue: 0,0:09:18.89,0:09:20.63,Default,,0,0,0,,¡Salud!
+Dialogue: 0,0:09:24.92,0:09:28.00,Default,,0,0,0,,¡Japón sí que es genial!
+Dialogue: 0,0:09:28.00,0:09:30.28,Default,,0,0,0,,Estás exagerando, Kana.
+Dialogue: 0,0:09:30.28,0:09:33.17,Default,,0,0,0,,Como sea, ¿qué tal la isla tropical?
+Dialogue: 0,0:09:33.36,0:09:35.11,Default,,0,0,0,,Divertida.
 Dialogue: 0,0:09:35.11,0:09:37.93,Default,,0,0,0,,Aunque tuve un pequeño accidente.
 Dialogue: 0,0:09:37.93,0:09:38.94,Default,,0,0,0,,¿Accidente?
-Dialogue: 0,0:09:38.94,0:09:41.75,Default,,0,0,0,,¿Acaso pasó algo con Sato?
-Dialogue: 0,0:09:41.98,0:09:43.65,Default,,0,0,0,,E-Eso no es...
-Dialogue: 0,0:09:43.65,0:09:47.65,Default,,0,0,0,,Supongo que no es del todo incorrecto decir esto...
-Dialogue: 0,0:09:49.81,0:09:51.32,Signs,,0,0,0,,{\fax0.12\blur0.6\fnCorbel\frz35.17\frx2\fry0\c&HCBC8D2&\fscx81\fscy78\org(345.81,620.904)\pos(723.334,299.888)}Sato
-Dialogue: 0,0:09:51.40,0:09:53.19,Default,,0,0,0,,Ah, discúlpame.
-Dialogue: 0,0:09:53.57,0:09:54.94,Default,,0,0,0,,Hola...
-Dialogue: 0,0:09:54.94,0:09:56.44,Default,,0,0,0,,¿Qué pasa?
-Dialogue: 0,0:09:57.32,0:09:58.97,Default,,0,0,0,,{\an8}¡Oh, vamos!
-Dialogue: 0,0:09:57.86,0:10:00.02,Default,,0,0,0,,Qué suerte... Kana.
-Dialogue: 0,0:09:58.98,0:10:01.81,Default,,0,0,0,,{\an8}¿Por qué me llamas por algo así?
-Dialogue: 0,0:10:01.82,0:10:04.57,Default,,0,0,0,,{\an8}Sato, no tienes remedio.
-Dialogue: 0,0:10:05.57,0:10:06.94,Default,,0,0,0,,{\an8}¿Eh? ¿Ahora?
-Dialogue: 0,0:10:06.94,0:10:09.48,Default,,0,0,0,,{\an8}Ahora estoy con la \Nprofesora Matsukaze.
-Dialogue: 0,0:10:11.23,0:10:15.41,Default,,0,0,0,,Ni siquiera tengo el número de Suzuki...
-Dialogue: 0,0:10:16.74,0:10:19.61,Default,,0,0,0,,Nuestra relación no es \Ncercana en lo más mínimo...
-Dialogue: 0,0:10:20.45,0:10:22.18,Default,,0,0,0,,Aunque ya hayan pasado tres años...
-Dialogue: 0,0:10:28.49,0:10:29.44,Default,,0,0,0,,¡Achú!
+Dialogue: 0,0:09:38.94,0:09:41.81,Default,,0,0,0,,¿Acaso pasó algo con Sato?
+Dialogue: 0,0:09:41.81,0:09:43.65,Default,,0,0,0,,E-Eso no...
+Dialogue: 0,0:09:43.65,0:09:47.67,Default,,0,0,0,,Supongo que no es\N del todo incorrecto...
+Dialogue: 0,0:09:49.81,0:09:51.27,Signs,,0,0,0,,{\fax0.12\blur0.6\fnCorbel\frz35.17\c&HCBC8D2&\frx0\fry0\fscx69\fscy69\org(403.048,621.587)\pos(716.572,284.572)}Sato
+Dialogue: 0,0:09:51.27,0:09:53.23,Default,,0,0,0,,Ah, discúlpame.
+Dialogue: 0,0:09:53.55,0:09:54.94,Default,,0,0,0,,Hola...
+Dialogue: 0,0:09:54.94,0:09:56.46,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:09:57.30,0:09:58.97,Default,,0,0,0,,{\an8}¡Oh, vamos!
+Dialogue: 0,0:09:57.84,0:10:00.04,Default,,0,0,0,,{\i1}Qué suerte tienes... Kana.
+Dialogue: 0,0:09:58.97,0:10:01.81,Default,,0,0,0,,{\an8}¿Por qué me llamas por algo así?
+Dialogue: 0,0:10:01.81,0:10:04.59,Default,,0,0,0,,{\an8}Sato, no tienes remedio.
+Dialogue: 0,0:10:05.55,0:10:06.94,Default,,0,0,0,,{\an8}¿Eh? ¿Ahora?
+Dialogue: 0,0:10:06.94,0:10:09.50,Default,,0,0,0,,{\an8}Ahora estoy con la \Nprofesora Matsukaze.
+Dialogue: 0,0:10:11.21,0:10:15.46,Default,,0,0,0,,{\i1}Ni siquiera tengo el\N número de Suzuki...
+Dialogue: 0,0:10:16.72,0:10:19.63,Default,,0,0,0,,{\i1}Nuestra relación \Nno es nada cercana...
+Dialogue: 0,0:10:20.43,0:10:22.20,Default,,0,0,0,,{\i1}Aunque ya hayan \Npasado tres años...
+Dialogue: 0,0:10:28.47,0:10:29.46,Default,,0,0,0,,¡Achú!
 Dialogue: 0,0:10:41.98,0:10:53.14,ED,,0,0,0,,{\fad(70,70)\blur2}Los recuerdos poco a poco se acumulan a mis espaldas sin darme cuenta
 Dialogue: 0,0:10:53.14,0:10:59.02,ED,,0,0,0,,{\fad(70,70)\blur2}El día de hoy no fue diferente
 Dialogue: 0,0:10:59.02,0:11:03.76,ED,,0,0,0,,{\fad(70,70)\blur2}Quiero entender tus sentimientos

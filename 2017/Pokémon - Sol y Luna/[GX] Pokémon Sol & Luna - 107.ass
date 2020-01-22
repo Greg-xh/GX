@@ -17,8 +17,8 @@ Last Style Storage: Pokemon
 Video File: ?dummy:23.976000:40000:1280:720:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 150
-Active Line: 158
+Scroll Position: 357
+Active Line: 366
 Video Position: 9306
 
 [V4+ Styles]
@@ -398,10 +398,10 @@ Dialogue: 0,0:20:27.34,0:20:28.06,Default,Kaki,0,0,0,,¿Cómo lo supo?
 Dialogue: 0,0:20:28.60,0:20:30.45,Default,Definitely not Hapu's grandfather,0,0,0,,No te preocupes por detalles tan triviales...
 Dialogue: 0,0:20:30.45,0:20:34.06,Default,Definitely not Hapu's grandfather,0,0,0,,¡Deja que tu Charizard libere su \Nmovimiento Z con sus valientes alas!
 Dialogue: 0,0:20:34.52,0:20:37.77,Default,Kaki,0,0,0,,¡Bien! ¡Vamos, Charizard!
-Dialogue: 0,0:20:40.54,0:20:42.18,Default,Kaki,0,0,0,,Todo mi cuerpo...
-Dialogue: 0,0:20:42.84,0:20:44.22,Default,Kaki,0,0,0,,Todo mi espíritu...
-Dialogue: 0,0:20:44.22,0:20:45.02,Default,Kaki,0,0,0,,¡Todo mi poder!
-Dialogue: 0,0:20:45.79,0:20:47.56,Default,Kaki,0,0,0,,Todo es Z...
+Dialogue: 0,0:20:40.54,0:20:42.18,Default,Kaki,0,0,0,,Todo el poder de mi mente...
+Dialogue: 0,0:20:42.84,0:20:44.22,Default,Kaki,0,0,0,,de mi cuerpo...
+Dialogue: 0,0:20:44.22,0:20:45.02,Default,Kaki,0,0,0,,¡y de mi espíritu!
+Dialogue: 0,0:20:45.79,0:20:47.56,Default,Kaki,0,0,0,,El cenit de todo lo que soy...
 Dialogue: 0,0:20:47.56,0:20:51.85,Default,Kaki,0,0,0,,¡Conviértete en el viento ardiente \Nque sobrevuela los campos de Akala!
 Dialogue: 0,0:20:54.22,0:20:58.55,Default,Kaki,0,0,0,,¡Clavado Supersónico!
 Dialogue: 0,0:21:12.89,0:21:13.77,Default,Satoshi,0,0,0,,¡Asombroso!

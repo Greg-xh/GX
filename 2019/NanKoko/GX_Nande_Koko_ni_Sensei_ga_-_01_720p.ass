@@ -7,79 +7,68 @@ WrapStyle: 0
 PlayResX: 1280
 PlayResY: 720
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Colors
-Audio File: D:/Anime/[Leopard-Raws] Nande Koko ni Sensei ga！？ - 01 RAW (ATX 1280x720 x264 AAC).mp4
-Video File: D:/Anime/[Leopard-Raws] Nande Koko ni Sensei ga！？ - 01 RAW (ATX 1280x720 x264 AAC).mp4
+Audio File: D:/Anime/[UCCUSS] Nande Koko ni Sensei ga!？ なんでここに先生が!？ 全13話 (BD 1920x1080p AVC FLAC)/[UCCUSS] Nande Koko ni Sensei ga!？ なんでここに先生が!？ 第02話 「2時限目 雨宿り／風梨汁（パイナップルジュース）」 (BD 1920x1080p AVC FLAC).mkv
+Video File: D:/Anime/[UCCUSS] Nande Koko ni Sensei ga!？ なんでここに先生が!？ 全13話 (BD 1920x1080p AVC FLAC)/[UCCUSS] Nande Koko ni Sensei ga!？ なんでここに先生が!？ 第02話 「2時限目 雨宿り／風梨汁（パイナップルジュース）」 (BD 1920x1080p AVC FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 20
-Active Line: 39
-Video Position: 15106
+Video Zoom Percent: 0.375000
+Scroll Position: 115
+Active Line: 126
+Video Position: 8725
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Fontin Sans Rg,48,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,150,150,35,1
-Style: Signs,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: OP,BDBHSC,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,35,20,25,1
-Style: ED,BadgerBold,35,&H00FFFFFF,&H000000FF,&H00BC72E0,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,35,20,25,1
+Style: Default,Fontin Sans Rg,48,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,150,150,35,1
+Style: Signs,Arial,40,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: OP,BDBHSC,35,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,35,20,25,1
+Style: ED,BadgerBold,35,&H00FFFFFF,&H000019FF,&H00BE81E8,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,35,20,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 1,0:07:22.08,0:07:22.25,Signs,,0,0,0,,{\p1\c&HE4E0DC&\fscx101\fscy77\pos(132.571,76.857)}m 380 85 l 354 46 378 22 510 33 604 48 628 89 604 109 404 92
-Comment: 0,0:07:22.08,0:07:22.25,Signs,,0,0,0,,{\p1\c&HDCD9DA&\fscx102\fscy107\pos(104.846,21.796)}m 373 80 l 413 91 492 104 564 111 609 105 601 90
-Comment: 2,0:07:22.08,0:07:22.25,Signs,,0,0,0,,{\blur0.7\an8\fnArtifika\c&H242424&\fs32\pos(492.572,52.286)\frz353.1}Fármacos Yoshikawa
-Comment: 2,0:07:22.08,0:07:22.25,Signs,,0,0,0,,{\fnFOT Kafu Techno Std Strp U\b1\c&H714044&\pos(529.6,428.4)\fnFOT-RodinMaria Pro B-EN\bord0\blur0.5\frz353.9}LA MEDICINA
-Comment: 1,0:07:22.08,0:07:22.25,Signs,,0,0,0,,{\bord5\fnFOT Kafu Techno Std Strp U\b1\c&H714044&\3c&HD2CACC&\pos(529.6,428.4)\fnFOT-RodinMaria Pro B-EN\frz353.9}LA MEDICINA
-Comment: 0,0:07:22.08,0:07:22.25,Signs,,0,0,0,,{\bord6\fnFOT Kafu Techno Std Strp U\b1\c&H714044&\3c&H000000&\pos(529.6,428.4)\fnFOT-RodinMaria Pro B-EN\frz353.9}LA MEDICINA
-Comment: 0,0:07:22.08,0:07:22.25,Signs,,0,0,0,,{\blur1\p1\pos(92.8,74.8)\c&HC6C7C6&}m 334 517 l 324 484 334 465 393 459 477 476 515 518 469 532
-Comment: 1,0:07:22.08,0:07:22.25,Signs,,0,0,0,,{\fnArimo\c&H36363B&\b1\fscx83\fscy83\fs35\blur0.5\frz353.7\pos(659.581,522.647)}Contiene \N20 unidades
-Comment: 0,0:07:22.08,0:07:22.25,Signs,,0,0,0,,{\p1\pos(78.666,67.333)\c&HC1C1C1&}m 587 496 l 592 458 690 474 703 480 744 505 744 526 583 511
-Comment: 0,0:07:22.08,0:07:22.25,Signs,,0,0,0,,{\p1\pos(102.667,83.333)\c&HBEB9B5&}m 555 518 l 555 518 555 518 756 544 751 602 548 576
-Comment: 0,0:07:22.08,0:07:22.25,Signs,,0,0,0,,{\fnArimo\c&H36363B&\b1\fscx83\fscy83\fs35\blur0.5\frz353.7\pos(651.581,586.847)}Calma la fiebre\N rápidamente
 Comment: 0,0:00:00.00,0:00:01.56,Default,chapter,0,0,0,,Prólogo
 Comment: 0,0:00:27.98,0:00:37.06,Default,chapter,0,0,0,,OP
 Comment: 0,0:01:57.96,0:02:05.48,Default,chapter,0,0,0,,Parte A
 Comment: 0,0:05:34.98,0:05:39.84,Default,chapter,0,0,0,,Parte B
 Comment: 0,0:10:30.02,0:10:33.96,Default,chapter,0,0,0,,ED
-Dialogue: 0,0:00:01.56,0:00:03.81,Default,,0,0,0,,Este es el baño cerca de la piscina.
-Dialogue: 0,0:00:03.81,0:00:08.31,Default,,0,0,0,,La gente rara vez viene aquí, así que es el mejor lugar para hacer tus asuntos.
-Dialogue: 0,0:00:10.36,0:00:12.27,Default,,0,0,0,,Este es el baño de hombres.
-Dialogue: 0,0:00:12.27,0:00:14.61,Default,,0,0,0,,No hay duda, es el baño de hombres.
-Dialogue: 0,0:00:15.40,0:00:17.73,Default,,0,0,0,,Se supone que era mi tranquilo oasis...
-Dialogue: 0,0:00:19.36,0:00:20.94,Default,,0,0,0,,Entonces...
-Dialogue: 0,0:00:22.81,0:00:24.02,Default,,0,0,0,,Por qué...
-Dialogue: 0,0:00:24.86,0:00:27.73,Default,,0,0,0,,¡¿Por qué rayos está aquí, profesora?! {o maestra}
+Dialogue: 0,0:00:01.56,0:00:03.81,Default,,0,0,0,,{\i1}Este es el baño cerca de la piscina.
+Dialogue: 0,0:00:03.81,0:00:08.31,Default,,0,0,0,,{\i1}La gente rara vez viene aquí, así que es el mejor lugar para hacer tus asuntos.
+Dialogue: 0,0:00:10.36,0:00:12.27,Default,,0,0,0,,{\i1}Este es el baño de hombres.
+Dialogue: 0,0:00:12.27,0:00:14.61,Default,,0,0,0,,{\i1}No hay duda, es el baño de hombres.
+Dialogue: 0,0:00:15.40,0:00:17.73,Default,,0,0,0,,{\i1}Se supone que era mi tranquilo oasis...
+Dialogue: 0,0:00:19.36,0:00:20.94,Default,,0,0,0,,{\i1}Entonces...
+Dialogue: 0,0:00:22.81,0:00:24.02,Default,,0,0,0,,{\i1}Por qué...
+Dialogue: 0,0:00:24.86,0:00:27.73,Default,,0,0,0,,{\i1}¡¿Qué rayos hace aquí, profesora?!
+Dialogue: 0,0:00:46.77,0:00:49.06,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H2A2AA0&}Este pecho,
 Dialogue: 1,0:00:46.78,0:00:49.06,OP,,0,0,0,,{\fad(100,50)\blur0.5}Este pecho,
 Dialogue: 1,0:00:49.74,0:00:52.08,OP,,0,0,0,,{\fad(100,50)\blur0.5}estas piernas,
+Dialogue: 0,0:00:49.74,0:00:52.08,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H2E539E&}estas piernas,
 Dialogue: 1,0:00:52.70,0:00:55.56,OP,,0,0,0,,{\fad(100,50)\blur0.5}este trasero,
+Dialogue: 0,0:00:52.70,0:00:55.56,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H225A2C&}este trasero,
 Dialogue: 1,0:00:56.06,0:00:59.30,OP,,0,0,0,,{\fad(100,50)\blur0.5}quieres tocarlos, ¿cierto?
+Dialogue: 0,0:00:56.06,0:00:59.30,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H683B11&}quieres tocarlos, ¿cierto?
 Dialogue: 1,0:00:59.30,0:01:05.30,OP,,0,0,0,,{\fad(100,50)\blur0.5}Hacerte el tonto no sirve de nada,
+Dialogue: 0,0:00:59.30,0:01:05.30,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6E19CF&}Hacerte el tonto no sirve de nada,
 Dialogue: 1,0:01:05.30,0:01:10.68,OP,,0,0,0,,{\fad(100,50)\blur0.5}puedo verlo en tu cara
+Dialogue: 0,0:01:05.30,0:01:10.68,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6E19CF&}puedo verlo en tu cara
 Dialogue: 1,0:01:11.74,0:01:24.58,OP,,0,0,0,,{\fad(100,50)\blur0.5}Me pregunto qué harás conmigo en tus sueños
+Dialogue: 0,0:01:11.74,0:01:24.58,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6E19CF&}Me pregunto qué harás conmigo en tus sueños
 Dialogue: 1,0:01:25.50,0:01:28.44,OP,,0,0,0,,{\fad(100,50)\blur0.5}Las coincidencias se acumulan
+Dialogue: 0,0:01:25.50,0:01:28.44,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6E19CF&}Las coincidencias se acumulan
 Dialogue: 1,0:01:28.44,0:01:34.70,OP,,0,0,0,,{\fad(100,50)\blur0.5}¿Por qué será que me gustas?
+Dialogue: 0,0:01:28.44,0:01:34.70,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6E19CF&}¿Por qué será que me gustas?
 Dialogue: 1,0:01:34.84,0:01:42.37,OP,,0,0,0,,{\fad(100,50)\an9\blur0.5}El destino algún día nos unirá
+Dialogue: 0,0:01:34.84,0:01:42.37,OP,,0,0,0,,{\fad(100,50)\an9\bord2.2\blur1\1a&HFF&\3c&H6E19CF&}El destino algún día nos unirá
 Dialogue: 1,0:01:42.37,0:01:47.70,OP,,0,0,0,,{\fad(100,50)\blur0.5}y podremos entregarnos todo
+Dialogue: 0,0:01:42.37,0:01:47.70,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6E19CF&}y podremos entregarnos todo
 Dialogue: 1,0:01:47.70,0:01:54.18,OP,,0,0,0,,{\fad(100,50)\blur0.5}Cuando seas mi novio
-Dialogue: 0,0:00:46.77,0:00:49.06,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H2B1E96&}Este pecho,
-Dialogue: 0,0:00:49.74,0:00:52.08,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H304E97&}estas piernas,
-Dialogue: 0,0:00:52.70,0:00:55.56,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H246330&}este trasero,
-Dialogue: 0,0:00:56.06,0:00:59.30,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H663C15&}quieres tocarlos, ¿cierto?
-Dialogue: 0,0:00:59.30,0:01:05.30,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6C00C0&}Hacerte el tonto no sirve de nada,
-Dialogue: 0,0:01:05.30,0:01:10.68,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6C00C0&}puedo verlo en tu cara
-Dialogue: 0,0:01:11.74,0:01:24.58,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6C00C0&}Me pregunto qué harás conmigo en tus sueños
-Dialogue: 0,0:01:25.50,0:01:28.44,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6C00C0&}Las coincidencias se acumulan
-Dialogue: 0,0:01:28.44,0:01:34.70,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6C00C0&}¿Por qué será que me gustas?
-Dialogue: 0,0:01:34.84,0:01:42.37,OP,,0,0,0,,{\fad(100,50)\an9\bord2.2\blur1\1a&HFF&\3c&H6C00C0&}El destino algún día nos unirá
-Dialogue: 0,0:01:42.37,0:01:47.70,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6C00C0&}y podremos entregarnos todo
-Dialogue: 0,0:01:47.70,0:01:54.18,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6C00C0&}Cuando seas mi novio
-Dialogue: 2,0:01:58.51,0:02:03.51,Signs,,0,0,0,,{\fad(350,350)\an7\fnArial Rounded MT Std Extra Bold\b1\c&H8200E2&\fs25\pos(127.667,584)}Primer período
+Dialogue: 0,0:01:47.70,0:01:54.18,OP,,0,0,0,,{\fad(100,50)\bord2.2\blur1\1a&HFF&\3c&H6E19CF&}Cuando seas mi novio
+Dialogue: 2,0:01:58.51,0:02:03.51,Signs,,0,0,0,,{\fad(350,350)\an7\fnArial Rounded MT Std Extra Bold\b1\c&H841DF4&\fs25\pos(127.667,584)}Primer período
 Dialogue: 1,0:01:58.51,0:02:03.51,Signs,,0,0,0,,{\fad(350,350)\bord3\an7\fnArial Rounded MT Std Extra Bold\b1\c&HFFFFFF&\3c&HFFFFFF&\fs25\pos(127.667,584)}Primer período
-Dialogue: 0,0:01:58.51,0:02:03.51,Signs,,0,0,0,,{\fad(350,350)\bord6\an7\fnArial Rounded MT Std Extra Bold\b1\c&HFFFFFF&\3c&H9643D4&\fs25\pos(127.667,584)}Primer período
+Dialogue: 0,0:01:58.51,0:02:03.51,Signs,,0,0,0,,{\fad(350,350)\bord6\an7\fnArial Rounded MT Std Extra Bold\b1\c&HFFFFFF&\3c&H9756DF&\fs25\pos(127.667,584)}Primer período
 Dialogue: 0,0:01:59.06,0:02:01.06,Default,,0,0,0,,{\an8}Juraría que puse el seguro...
 Dialogue: 0,0:02:01.06,0:02:03.98,Default,,0,0,0,,{\an8}Verá, el seguro está roto y no cierra.
 Dialogue: 0,0:02:04.56,0:02:09.23,Default,,0,0,0,,Como sea, qué atrevimiento entrar sin asegurarse de que esté vacío.
@@ -93,37 +82,37 @@ Dialogue: 0,0:02:29.86,0:02:31.27,Default,,0,0,0,,¿Qué dices?
 Dialogue: 0,0:02:31.27,0:02:33.48,Default,,0,0,0,,Habías dicho que el seguro no cerraba.
 Dialogue: 0,0:02:33.73,0:02:35.48,Default,,0,0,0,,Bueno, así es como debería ser....
 Dialogue: 0,0:02:35.48,0:02:37.23,Default,,0,0,0,,Yo tampoco lo entiendo.
-Dialogue: 0,0:02:37.23,0:02:38.52,Default,,0,0,0,,¡Qué miedo!
-Dialogue: 0,0:02:38.52,0:02:40.90,Default,,0,0,0,,Es capaz de emanar un aura\N intimidante incluso en el inodoro.
-Dialogue: 0,0:02:40.90,0:02:42.69,Default,,0,0,0,,¡No esperaba menos del Demonio Kojima!
+Dialogue: 0,0:02:37.23,0:02:38.52,Default,,0,0,0,,{\i1}¡Qué miedo!
+Dialogue: 0,0:02:38.52,0:02:40.90,Default,,0,0,0,,{\i1}¡Hasta en el inodoro es intimidante!
+Dialogue: 0,0:02:40.90,0:02:42.69,Default,,0,0,0,,{\i1}¡No esperaba menos del Demonio Kojima!
 Dialogue: 0,0:02:43.02,0:02:44.27,Default,,0,0,0,,¡Estás holgazaneando!
-Dialogue: 0,0:02:44.27,0:02:47.11,Default,,0,0,0,,Los que rompen las reglas reciben\N inmediatamente un poco de su duro amor.
+Dialogue: 0,0:02:44.27,0:02:47.11,Default,,0,0,0,,{\i1}Quienes rompen las reglas\Nreciben su "duro amor".
 Dialogue: 0,0:02:47.11,0:02:49.61,Default,,0,0,0,,Y cuando aparecieron algunos padres para quejarse de eso...
 Dialogue: 0,0:02:49.61,0:02:50.69,Default,,0,0,0,,¡No sean ingenuos!
-Dialogue: 0,0:02:50.69,0:02:53.11,Default,,0,0,0,,...se rumorea que los regañó.
+Dialogue: 0,0:02:50.69,0:02:53.11,Default,,0,0,0,,... se rumorea que los regañó.
 Dialogue: 0,0:02:53.31,0:02:54.52,Default,,0,0,0,,Hasta a los delincuentes...
 Dialogue: 0,0:02:54.52,0:02:55.86,Default,,0,0,0,,¡Buenos días!
-Dialogue: 0,0:02:55.86,0:02:58.15,Default,,0,0,0,,...la respetan.
-Dialogue: 0,0:02:58.44,0:03:01.02,Default,,0,0,0,,¡No quiero estar atrapado con alguien así!
+Dialogue: 0,0:02:55.86,0:02:58.15,Default,,0,0,0,,... la respetan.
+Dialogue: 0,0:02:58.44,0:03:01.02,Default,,0,0,0,,{\i1}¡No quiero estar atrapado con alguien así!
 Dialogue: 0,0:03:01.02,0:03:02.40,Default,,0,0,0,,¡Ayuda!
 Dialogue: 0,0:03:02.65,0:03:04.40,Default,,0,0,0,,Sato, mantén la calma.
 Dialogue: 0,0:03:05.36,0:03:06.90,Default,,0,0,0,,Si no lo haces...
 Dialogue: 0,0:03:09.69,0:03:11.69,Default,,0,0,0,,no creo poder aguantarlo.
 Dialogue: 0,0:03:12.44,0:03:15.19,Default,,0,0,0,,¡Hablando de estar en un aprieto!
-Dialogue: 0,0:03:15.19,0:03:17.15,Default,,0,0,0,,Cuando la profesora termine...
+Dialogue: 0,0:03:15.19,0:03:17.15,Default,,0,0,0,,{\i1}Cuando la profesora termine...
 Dialogue: 0,0:03:17.15,0:03:19.81,Default,,0,0,0,,¡Borraré tus recuerdos!
-Dialogue: 0,0:03:19.81,0:03:22.31,Default,,0,0,0,,...¡mi vida también se irá por el retrete!
-Dialogue: 0,0:03:22.31,0:03:23.48,Default,,0,0,0,,¡¿Qué hago?!
+Dialogue: 0,0:03:19.81,0:03:22.31,Default,,0,0,0,,{\i1}¡mi vida también se irá por el retrete!
+Dialogue: 0,0:03:22.31,0:03:23.48,Default,,0,0,0,,{\i1}¡¿Qué hago?!
 Dialogue: 0,0:03:23.48,0:03:25.94,Default,,0,0,0,,El día está perfecto para la piscina, ¿eh?
 Dialogue: 0,0:03:25.94,0:03:27.40,Default,,0,0,0,,Agradable y cálido.
-Dialogue: 0,0:03:27.40,0:03:29.98,Default,,0,0,0,,Ah, cierto. La clase de waterpolo es en el próximo período. {o polo acuatico :j3}
-Dialogue: 0,0:03:29.98,0:03:31.31,Default,,0,0,0,,¡La ayuda está aquí!
+Dialogue: 0,0:03:27.40,0:03:29.98,Default,,0,0,0,,{\i1}¡Es cierto!\N¡Sigue la clase de waterpolo!
+Dialogue: 0,0:03:29.98,0:03:31.31,Default,,0,0,0,,{\i1}¡La ayuda está aquí!
 Dialogue: 0,0:03:36.94,0:03:38.56,Default,,0,0,0,,Guarda silencio.
 Dialogue: 0,0:03:39.15,0:03:41.73,Default,,0,0,0,,Un chico y una chica\N juntos en el baño...
 Dialogue: 0,0:03:41.73,0:03:44.02,Default,,0,0,0,,daría una falsa impresión.
-Dialogue: 0,0:03:44.31,0:03:45.86,Default,,0,0,0,,B-Bien...
-Dialogue: 0,0:03:45.86,0:03:47.61,Default,,0,0,0,,Qué buen aroma.
-Dialogue: 0,0:03:48.44,0:03:50.65,Default,,0,0,0,,Tan suave, se siente bien...
+Dialogue: 0,0:03:44.31,0:03:45.86,Default,,0,0,0,,{\i1}B-Bien...
+Dialogue: 0,0:03:45.86,0:03:47.61,Default,,0,0,0,,{\an8}Qué buen aroma.
+Dialogue: 0,0:03:48.44,0:03:50.65,Default,,0,0,0,,{\an8}Tan suave, se siente bien...
 Dialogue: 0,0:03:51.73,0:03:53.56,Default,,0,0,0,,¡L-Lo siento! ¡La soltaré ahora mismo!
 Dialogue: 0,0:03:53.56,0:03:54.56,Default,,0,0,0,,¡Espera!
 Dialogue: 0,0:03:54.81,0:03:58.81,Default,,0,0,0,,Si te mueves muy rápido... va a salir.{squirt out... no creo que se refiera a que la mina va a acabar solo por eso :j3}
@@ -131,34 +120,34 @@ Dialogue: 0,0:03:59.11,0:04:02.15,Default,,0,0,0,,Lo siento, pero ¿podrías ale
 Dialogue: 0,0:04:02.15,0:04:03.61,Default,,0,0,0,,E-Está bien.
 Dialogue: 0,0:04:08.27,0:04:09.98,Default,,0,0,0,,Así está bien...
 Dialogue: 0,0:04:09.98,0:04:11.02,Default,,0,0,0,,Sí.
-Dialogue: 0,0:04:11.02,0:04:13.48,Default,,0,0,0,,El tono de su voz es diferente al de siempre.
+Dialogue: 0,0:04:11.02,0:04:13.48,Default,,0,0,0,,{\i1}El tono de su voz es\N diferente al de siempre.
 Dialogue: 0,0:04:14.36,0:04:16.19,Default,,0,0,0,,Solo un poco más.
 Dialogue: 0,0:04:16.19,0:04:17.19,Default,,0,0,0,,Sí.
-Dialogue: 0,0:04:17.19,0:04:19.06,Default,,0,0,0,,Su tembloroso cuerpo apenas transpirado...
-Dialogue: 0,0:04:22.15,0:04:25.23,Default,,0,0,0,,Ver a la profesora así...
-Dialogue: 0,0:04:48.44,0:04:49.52,Default,,0,0,0,,¿Qué?
-Dialogue: 0,0:04:50.31,0:04:51.94,Default,,0,0,0,,¿Al Demonio Kojima...
-Dialogue: 0,0:04:52.81,0:04:54.98,Default,,0,0,0,,va a salirle algo caliente?
-Dialogue: 0,0:04:57.77,0:04:59.48,Default,,0,0,0,,¿Qué es esta sensación?
+Dialogue: 0,0:04:17.19,0:04:19.06,Default,,0,0,0,,{\i1}Ese cuerpo sudado y tembloroso…
+Dialogue: 0,0:04:22.15,0:04:25.23,Default,,0,0,0,,{\i1}Ver a la profesora así...
+Dialogue: 0,0:04:48.44,0:04:49.52,Default,,0,0,0,,{\i1}¿Qué?
+Dialogue: 0,0:04:50.31,0:04:51.94,Default,,0,0,0,,{\i1}¿Al Demonio Kojima...
+Dialogue: 0,0:04:52.81,0:04:54.98,Default,,0,0,0,,{\i1}va a salirle algo caliente?
+Dialogue: 0,0:04:57.77,0:04:59.48,Default,,0,0,0,,{\i1}¿Qué es esta sensación?
 Dialogue: 0,0:05:02.27,0:05:05.19,Default,,0,0,0,,¡Borraré tus recuerdos!
 Dialogue: 0,0:05:08.19,0:05:10.27,Default,,0,0,0,,¡¿Q-Q-Qué estás haciendo?!
 Dialogue: 0,0:05:10.27,0:05:13.77,Default,,0,0,0,,Al verla, me di cuenta de algo.
 Dialogue: 0,0:05:14.69,0:05:18.36,Default,,0,0,0,,Creo que no podré resistirme.
 Dialogue: 0,0:05:21.40,0:05:22.31,Default,,0,0,0,,¿Eh?
-Dialogue: 0,0:05:22.81,0:05:25.77,Default,,0,0,0,,¡Yo también... llegué a mi límite!
+Dialogue: 0,0:05:22.81,0:05:25.77,Default,,0,0,0,,¡Yo también...\N llegué a mi límite!
 Dialogue: 0,0:05:25.77,0:05:26.77,Default,,0,0,0,,¿Qué?
-Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnChalkDustCondensed\c&HBEC0AD&\fs30\b1\pos(428.953,96.667)}Preparatoria Kawanuma-nishi
-Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnChalkDustCondensed\c&HBEC0AD&\fs30\b1\pos(682.896,96.667)}Profesora de Lenguaje
-Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnChalkDustCondensed\c&HBEC0AD&\fs50\b1\pos(716.039,194.953)}Kanna Kojima
-Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs30\b1\pos(306.896,330)}Cumpleaños
-Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs33\b1\pos(293.563,402)\fnChalkDustCondensed\fsp2}Altura
-Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs33\b1\pos(322.896,470)\fnChalkDustCondensed\fsp2}Peso
-Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs33\b1\pos(612.229,336.667)\fnChalkDustCondensed\fsp2}Busto
-Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs33\b1\pos(590.896,399.333)\fnChalkDustCondensed\fsp2}Cintura
-Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEC0AD&\fs33\b1\pos(576.229,467.333)\fnChalkDustCondensed\fsp2}Cadera
-Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.5\fnCHAWP\c&HBEC0AD&\fs30\b1\fnChalkDustCondensed\fsp2\pos(461.372,329.81)}22 de agosto
+Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnChalkDustCondensed\c&HBEBEAB&\fs30\b1\pos(428.953,96.667)}Preparatoria Kawanuma-nishi
+Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnChalkDustCondensed\c&HBEBEAB&\fs30\b1\pos(682.896,96.667)}Profesora de Lenguaje
+Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnChalkDustCondensed\c&HBEBEAB&\fs50\b1\pos(716.039,194.953)}Kanna Kojima
+Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEBEAB&\fs30\b1\pos(306.896,330)}Cumpleaños
+Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEBEAB&\fs33\b1\pos(293.563,402)\fnChalkDustCondensed\fsp2}Altura
+Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEBEAB&\fs33\b1\pos(322.896,470)\fnChalkDustCondensed\fsp2}Peso
+Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEBEAB&\fs33\b1\pos(612.229,336.667)\fnChalkDustCondensed\fsp2}Busto
+Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEBEAB&\fs33\b1\pos(590.896,399.333)\fnChalkDustCondensed\fsp2}Cintura
+Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.7\fnCHAWP\c&HBEBEAB&\fs33\b1\pos(576.229,467.333)\fnChalkDustCondensed\fsp2}Cadera
+Dialogue: 0,0:05:31.97,0:05:34.98,Signs,,0,0,0,,{\blur0.5\fnCHAWP\c&HBEBEAB&\fs30\b1\fnChalkDustCondensed\fsp2\pos(461.372,329.81)}22 de agosto
 Dialogue: 0,0:05:33.27,0:05:34.69,Default,,0,0,0,,¿Qué haces aquí?
-Dialogue: 0,0:05:36.86,0:05:39.86,Default,,0,0,0,,Ya pasó una semana y aún no lo olvido.
+Dialogue: 0,0:05:36.86,0:05:39.86,Default,,0,0,0,,Ya pasó una semana\N y aún no lo olvido.
 Dialogue: 0,0:05:41.52,0:05:44.11,Default,,0,0,0,,Cielos, es un caso serio.
 Dialogue: 0,0:05:44.11,0:05:46.94,Default,,0,0,0,,¿Hm? ¿Dijiste algo?
 Dialogue: 0,0:05:46.94,0:05:51.36,Default,,0,0,0,,Ah, decía que te ves igual de \Namenazante que siempre, Suzuki.
@@ -166,9 +155,9 @@ Dialogue: 0,0:05:51.36,0:05:54.23,Default,,0,0,0,,Lo siento, así nací.
 Dialogue: 0,0:05:54.56,0:05:55.98,Default,,0,0,0,,Ya lo sé.
 Dialogue: 0,0:05:56.19,0:06:00.73,Default,,0,0,0,,Si no hubiéramos sido compañeros de secundaria yo también me mantendría alejado de ti.
 Dialogue: 0,0:06:01.56,0:06:03.52,Default,,0,0,0,,Estoy cansado...
-Dialogue: 0,0:06:03.90,0:06:07.44,Default,,0,0,0,,No debería haber nadie allí, así que me\N voy a la enfermería para saltarme clases.
-Dialogue: 0,0:06:07.44,0:06:08.98,Default,,0,0,0,,¡No debes saltarte clases!
-Dialogue: 0,0:06:09.31,0:06:11.77,Default,,0,0,0,,Veo que eres tan serio como siempre, Suzuki.
+Dialogue: 0,0:06:03.90,0:06:07.44,Default,,0,0,0,,Me saltaré la clase en la \Nenfermería, debería estar vacía.
+Dialogue: 0,0:06:07.44,0:06:08.98,Default,,0,0,0,,¡No debes faltar a clases!
+Dialogue: 0,0:06:09.31,0:06:11.77,Default,,0,0,0,,Tan serio como siempre, Suzuki.
 Dialogue: 0,0:06:13.15,0:06:15.11,Default,,0,0,0,,Disculpe, profesora Matsukaze.
 Dialogue: 0,0:06:15.11,0:06:17.48,Default,,0,0,0,,No, está bien.
 Dialogue: 0,0:06:17.48,0:06:18.56,Default,,0,0,0,,Bueno, nos vemos.
@@ -177,14 +166,14 @@ Dialogue: 0,0:06:19.48,0:06:21.86,Default,,0,0,0,,¿Pasa algo con Sato?
 Dialogue: 0,0:06:21.86,0:06:24.86,Default,,0,0,0,,Eh... Al parecer está yendo a la enfermería.
 Dialogue: 0,0:06:24.86,0:06:26.73,Default,,0,0,0,,Creo que se siente cansado.
 Dialogue: 0,0:06:26.73,0:06:28.56,Default,,0,0,0,,La enfermería...
-Dialogue: 0,0:06:28.86,0:06:34.15,Signs,,0,0,0,,{\blur0.5\fax0.05\an8\fnArno Pro SmText\b1\org(741.714,349.429)\c&HBEC5B8&\frx348\fry336\pos(606.302,242.334)\frz346.3\fsp2}Enfermería
-Dialogue: 0,0:06:29.56,0:06:31.48,Default,,0,0,0,,Esta es la enfermería.
-Dialogue: 0,0:06:31.48,0:06:33.98,Default,,0,0,0,,No hay duda, es la enfermería.
-Dialogue: 0,0:06:34.56,0:06:36.81,Default,,0,0,0,,No debería haber nadie aquí a esta hora.
-Dialogue: 0,0:06:37.19,0:06:38.52,Default,,0,0,0,,Así que...
-Dialogue: 0,0:06:39.27,0:06:41.31,Default,,0,0,0,,¡¿Por qué está pasando esto?!
+Dialogue: 0,0:06:28.86,0:06:34.15,Signs,,0,0,0,,{\blur0.5\fax0.1\an8\fnArno Pro SmText\b1\org(741,349)\c&HBEC3B7&\frx348\fry336\pos(606.302,242.334)\frz346.3\fsp2}Enfermería
+Dialogue: 0,0:06:29.56,0:06:31.48,Default,,0,0,0,,{\i1}Esta es la enfermería.
+Dialogue: 0,0:06:31.48,0:06:33.98,Default,,0,0,0,,{\i1}No hay duda, es la enfermería.
+Dialogue: 0,0:06:34.56,0:06:36.81,Default,,0,0,0,,{\i1}No debería haber nadie aquí a esta hora.
+Dialogue: 0,0:06:37.19,0:06:38.52,Default,,0,0,0,,{\i1}Así que...
+Dialogue: 0,0:06:39.27,0:06:41.31,Default,,0,0,0,,{\i1}¡¿Por qué está pasando esto?!
 Dialogue: 0,0:06:41.31,0:06:42.94,Default,,0,0,0,,Oh, eres tú, Sato.
-Dialogue: 0,0:06:42.94,0:06:45.11,Default,,0,0,0,,Las clases ya deben haber empezado.
+Dialogue: 0,0:06:42.94,0:06:45.11,Default,,0,0,0,,Las clases ya deben \Nhaber empezado.
 Dialogue: 0,0:06:45.11,0:06:47.15,Default,,0,0,0,,¿Tú tampoco te sientes bien?
 Dialogue: 0,0:06:47.15,0:06:50.56,Default,,0,0,0,,Estoy saltándome... ¡No! \NQuiero decir... me torcí el tobillo.
 Dialogue: 0,0:06:50.56,0:06:51.65,Default,,0,0,0,,¿Y usted, profesora?
@@ -193,7 +182,7 @@ Dialogue: 0,0:06:54.27,0:06:56.19,Default,,0,0,0,,Estoy aquí para descansar un 
 Dialogue: 0,0:06:58.15,0:06:59.61,Default,,0,0,0,,¿Está bien?
 Dialogue: 0,0:06:59.61,0:07:01.11,Default,,0,0,0,,Está sudando mucho.
 Dialogue: 0,0:07:02.40,0:07:04.90,Default,,0,0,0,,Parece que también tengo algo de fiebre.
-Dialogue: 0,0:07:07.02,0:07:09.77,Default,,0,0,0,,Quizás es porque está sonrojada, pero se ve extrañamente sexi...
+Dialogue: 0,0:07:07.02,0:07:09.77,Default,,0,0,0,,{\i1}Quizás porque está sonrojada, \Npero se ve muy sexi...
 Dialogue: 0,0:07:09.77,0:07:15.65,Default,,0,0,0,,Lo siento, pero me cuesta moverme, ¿podrías traerme alguna medicina?
 Dialogue: 0,0:07:15.65,0:07:17.27,Default,,0,0,0,,S-Sí.
 Dialogue: 0,0:07:17.56,0:07:18.69,Default,,0,0,0,,Esta no.
@@ -213,20 +202,20 @@ Dialogue: 0,0:07:37.94,0:07:38.77,Default,,0,0,0,,Eh...
 Dialogue: 0,0:07:38.77,0:07:40.23,Default,,0,0,0,,No, ese está bien.
 Dialogue: 0,0:07:40.23,0:07:41.36,Default,,0,0,0,,Pero...
 Dialogue: 0,0:07:41.36,0:07:45.36,Default,,0,0,0,,mi cuerpo se siente débil por la \Nfiebre, así que adminístramelo tú.{administramelo j3}
-Dialogue: 0,0:07:45.36,0:07:47.73,Default,,0,0,0,,¡Parece que su mente también está débil!
-Dialogue: 0,0:07:48.90,0:07:51.15,Default,,0,0,0,,¡¿Cómo puede estar tan atontada?!
-Dialogue: 0,0:07:51.15,0:07:53.69,Default,,0,0,0,,Pero no puedo dejarla así...
+Dialogue: 0,0:07:45.36,0:07:47.73,Default,,0,0,0,,¡Parece que su mente \Ntambién está débil!
+Dialogue: 0,0:07:48.90,0:07:51.15,Default,,0,0,0,,{\i1}¡¿Cómo puede estar tan atontada?!
+Dialogue: 0,0:07:51.15,0:07:53.69,Default,,0,0,0,,{\i1}Pero no puedo dejarla así...
 Dialogue: 0,0:07:54.77,0:07:56.73,Default,,0,0,0,,¿E-Está segura de esto?
 Dialogue: 0,0:07:56.73,0:08:00.36,Default,,0,0,0,,Sí... pero no veas más de lo que debes.
 Dialogue: 0,0:08:00.36,0:08:01.65,Default,,0,0,0,,Me da vergüenza.
-Dialogue: 0,0:08:01.98,0:08:04.65,Default,,0,0,0,,¡Claro! ¡Me esforzaré para no ver!
+Dialogue: 0,0:08:01.98,0:08:04.67,Default,,0,0,0,,¡Claro! ¡Me esforzaré para no ver!
 Dialogue: 0,0:08:13.27,0:08:15.94,Default,,0,0,0,,V-Voy a sacarle la ropa interior.
-Dialogue: 0,0:08:19.15,0:08:23.06,Default,,0,0,0,,Y pensar que llegaría el día en el que haría algo como esto con el Demonio Kojima...
-Dialogue: 0,0:08:23.06,0:08:24.90,Default,,0,0,0,,¡A-Aquí voy!
+Dialogue: 0,0:08:19.15,0:08:23.71,Default,,0,0,0,,{\i1}Y pensar que llegaría el día en el que haría algo como esto con el Demonio Kojima...
+Dialogue: 0,0:08:23.93,0:08:24.90,Default,,0,0,0,,¡Aquí voy!
 Dialogue: 0,0:08:28.02,0:08:30.56,Default,,0,0,0,,T-Tonto, no va ahí...
 Dialogue: 0,0:08:30.56,0:08:32.31,Default,,0,0,0,,En el que está más arriba. {j3}
 Dialogue: 0,0:08:32.31,0:08:33.86,Default,,0,0,0,,¡D-Disculpe!
-Dialogue: 0,0:08:34.19,0:08:36.69,Default,,0,0,0,,Lo siento, pero me duele.
+Dialogue: 0,0:08:34.19,0:08:36.69,Default,,0,0,0,,Lo siento, ya no aguanto.
 Dialogue: 0,0:08:36.69,0:08:39.56,Default,,0,0,0,,R-Rápido, mételo.
 Dialogue: 0,0:08:39.56,0:08:41.02,Default,,0,0,0,,S-Sí.
 Dialogue: 0,0:08:43.48,0:08:45.02,Default,,0,0,0,,Aquí, ¿no?
@@ -236,35 +225,35 @@ Dialogue: 0,0:08:58.77,0:09:00.56,Default,,0,0,0,,Kana, ¿estás bien?
 Dialogue: 0,0:09:00.56,0:09:02.81,Default,,0,0,0,,Oí una voz rara hace un momento...
 Dialogue: 0,0:09:02.81,0:09:04.40,Default,,0,0,0,,¿Cómo te sientes?
 Dialogue: 0,0:09:04.40,0:09:06.36,Default,,0,0,0,,Bueno, mucho mejor que antes...
-Dialogue: 0,0:09:06.90,0:09:08.90,Default,,0,0,0,,Oh, entonces usaste esto.
 Dialogue: 0,0:09:06.58,0:09:07.94,Default,,0,0,0,,{\an8}¡Diablos!
-Dialogue: 0,0:09:07.94,0:09:10.77,Default,,0,0,0,,{\an8}¡En el calor del momento \Nterminé bajo la manta de Kojima!
+Dialogue: 0,0:09:06.90,0:09:08.90,Default,,0,0,0,,Oh, entonces usaste esto.
+Dialogue: 0,0:09:07.94,0:09:10.77,Default,,0,0,0,,{\an8\i1}¡En el calor del momento\N me oculté bajo la manta!
 Dialogue: 0,0:09:08.90,0:09:11.31,Default,,0,0,0,,Es vergonzoso, pero funciona bien, ¿verdad?
-Dialogue: 0,0:09:11.56,0:09:13.98,Default,,0,0,0,,Por cómo te ves, deberías estar bien.
+Dialogue: 0,0:09:11.56,0:09:13.98,Default,,0,0,0,,Por tu apariencia, deberías estar bien.
 Dialogue: 0,0:09:14.44,0:09:16.77,Default,,0,0,0,,Quédate descansando el resto del día, ¿sí?
 Dialogue: 0,0:09:26.11,0:09:27.23,Default,,0,0,0,,Sato...
 Dialogue: 0,0:09:27.23,0:09:28.56,Default,,0,0,0,,¡L-Lo siento!
 Dialogue: 0,0:09:28.56,0:09:30.06,Default,,0,0,0,,Idiota...
-Dialogue: 0,0:09:31.31,0:09:33.31,Default,,0,0,0,,Vas a pescar mi resfriado, ¿sabes?
+Dialogue: 0,0:09:31.31,0:09:33.31,Default,,0,0,0,,Te vas a contagiar.
 Dialogue: 0,0:09:33.61,0:09:37.27,Default,,0,0,0,,Y gracias por todo lo que hiciste hoy por mí.
-Dialogue: 0,0:09:37.81,0:09:39.89,Signs,,0,0,0,,{\blur0.5\fax0.05\an8\fnArno Pro SmText\b1\org(741.714,349.429)\c&HBEC5B8&\frx348\fry336\pos(606.302,242.334)\frz346.3\fsp2}Enfermería
-Dialogue: 0,0:09:38.40,0:09:39.69,Default,,0,0,0,,Al día siguiente...
-Dialogue: 0,0:09:40.27,0:09:42.65,Default,,0,0,0,,como era de esperarse, terminé resfriado.
+Dialogue: 0,0:09:37.81,0:09:39.89,Signs,,0,0,0,,{\blur0.5\fax0.05\an8\fnArno Pro SmText\b1\org(741,349)\c&HBEC3B7&\frx348\fry336\pos(606.302,242.334)\frz346.3\fsp2}Enfermería
+Dialogue: 0,0:09:38.40,0:09:39.69,Default,,0,0,0,,{\i1}Al día siguiente...
+Dialogue: 0,0:09:40.27,0:09:42.65,Default,,0,0,0,,{\i1}como era de esperarse, terminé resfriado.
 Dialogue: 0,0:09:42.65,0:09:46.06,Default,,0,0,0,,Me siento tan cansado. \NDebí quedarme en casa.
 Dialogue: 0,0:09:46.06,0:09:47.65,Default,,0,0,0,,Sato, ¿estás ahí?
-Dialogue: 0,0:09:49.52,0:09:52.90,Default,,0,0,0,,Me siento mal. Te contagié, ¿eh?
+Dialogue: 0,0:09:49.52,0:09:52.90,Default,,0,0,0,,Me siento mal. \NTe contagié, ¿eh?
 Dialogue: 0,0:09:52.90,0:09:54.11,Default,,0,0,0,,Ayer...
 Dialogue: 0,0:09:54.44,0:09:56.11,Default,,0,0,0,,A-Ayer...
-Dialogue: 0,0:09:56.11,0:09:59.44,Default,,0,0,0,,Incluso vino a verme\N preocupada y avergonzada.
-Dialogue: 0,0:09:59.77,0:10:01.61,Default,,0,0,0,,Quizás empiece a verla de otra for...
+Dialogue: 0,0:09:56.11,0:09:59.44,Default,,0,0,0,,{\i1}Incluso vino a verme\N preocupada y avergonzada.
+Dialogue: 0,0:09:59.77,0:10:01.61,Default,,0,0,0,,{\i1}Quizás empiece a verla de otra for...
 Dialogue: 0,0:10:02.65,0:10:04.40,Default,,0,0,0,,Dejando eso de lado...
 Dialogue: 0,0:10:05.52,0:10:09.81,Default,,0,0,0,,¡Oí que estabas mintiendo cuando\N me dijiste que te torciste el tobillo!
 Dialogue: 0,0:10:10.52,0:10:12.02,Default,,0,0,0,,¡¿Cómo lo sabe...?!
 Dialogue: 0,0:10:12.02,0:10:15.77,Default,,0,0,0,,Lo mencionó la profesora\N Matsukaze, se lo dijo Suzuki.
 Dialogue: 0,0:10:17.56,0:10:20.86,Default,,0,0,0,,Te administraré esto. \N¡Es muy efectivo, ¿sabes?!
-Dialogue: 0,0:10:21.11,0:10:23.40,Default,,0,0,0,,¡Mejórate rápido para\N que pueda castigarte!
+Dialogue: 0,0:10:21.11,0:10:23.40,Default,,0,0,0,,¡Mejórate pronto para\N que pueda castigarte!
 Dialogue: 0,0:10:23.40,0:10:24.36,Default,,0,0,0,,¡E-Espere un mo...!
-Dialogue: 0,0:10:26.36,0:10:29.36,Default,,0,0,0,,¡Bueno, es un demonio después de todo!
+Dialogue: 0,0:10:26.36,0:10:29.36,Default,,0,0,0,,{\i1}¡Al final sí es un demonio!
 Dialogue: 0,0:10:41.98,0:10:53.14,ED,,0,0,0,,{\fad(70,70)\blur2}Los recuerdos poco a poco se acumulan a mis espaldas sin darme cuenta
 Dialogue: 0,0:10:53.14,0:10:59.02,ED,,0,0,0,,{\fad(70,70)\blur2}El día de hoy no fue diferente
 Dialogue: 0,0:10:59.02,0:11:03.76,ED,,0,0,0,,{\fad(70,70)\blur2}Quiero entender tus sentimientos
