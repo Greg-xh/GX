@@ -4,254 +4,1042 @@
 Title: New subtitles
 ScriptType: v4.00+
 WrapStyle: 0
-PlayResX: 720
-PlayResY: 480
+PlayResX: 1280
+PlayResY: 720
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
-Last Style Storage: Hentai
-Audio File: [SakuraCircle] Ecchi na Onee-chan ni Shiboraretai - 01 (DVD 720x480 h264 AAC) [EA8EFCDB].mkv
-Video File: [SakuraCircle] Ecchi na Onee-chan ni Shiboraretai - 01 (DVD 720x480 h264 AAC) [EA8EFCDB].mkv
+Last Style Storage: Default
+Audio File: ../../h diciembre/Ecchi na Onee-chan ni Shiboraretai (OVAエッチなお姉ちゃんに搾られたい) [2019][720p-HEVC-WEBRip]/Ecchi na Onee-chan ni Shiboraretai - 01.mkv
+Video File: ../../h diciembre/Ecchi na Onee-chan ni Shiboraretai (OVAエッチなお姉ちゃんに搾られたい) [2019][720p-HEVC-WEBRip]/Ecchi na Onee-chan ni Shiboraretai - 01.mkv
 Video AR Mode: 4
-Video AR Value: 1.777083
-Video Zoom Percent: 1.000000
-Scroll Position: 159
-Active Line: 161
-Video Position: 4379
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 630
+Active Line: 652
+Video Position: 2851
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Qlassik Bold,36,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,83,100,0,0,1,1.6,0.5,2,105,105,28,1
-Style: Alternate,Lato,36,&H00FFFFFF,&H00FFFFFF,&H00333333,&H96000000,0,-1,0,0,84.408,100,0,0,1,1.5,1,2,15,15,25,1
-Style: Signs,Arial,36,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,84.408,100,0,0,1,0,0,7,0,0,0,1
-Style: Credits,Open Sans Semibold,24,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,84.408,100,0,0,1,0,0,2,0,0,0,1
-Style: Title,OakWood,44,&H00000000,&H00FFFFFF,&H00FFFFFF,&H96000000,0,0,0,0,84.408,100,0,0,1,0,0,8,0,0,0,1
-Style: Episode Title,FOT-Seurat Pro DB,36,&H00B88EEF,&H00FFFFFF,&H00FFFFFF,&H96000000,0,0,0,0,84.408,100,0,0,1,0,0,8,0,0,0,1
+Style: Title,OakWood,66,&H00000000,&H00FFFFFF,&H00FFFFFF,&H96000000,0,0,0,0,84.408,100,0,0,1,0,0,8,0,0,0,1
+Style: Episode Title,@DFMaruGothic_UMOD,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&H96000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,0,1
+Style: Default,Qlassik Bold,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,94,100,0,0,1,2.25,1.5,2,98,98,38,1
+Style: Title2,Melbourne-Bold,62,&H00B89AF7,&H00FFFFFF,&H00FFFFFF,&H96000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,0,1
+Style: Title3,Melbourne-Bold,77,&H00B89AF7,&H00FFFFFF,&H00FFFFFF,&H96000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,0,1
+Style: Title4,Melbourne-Bold,97,&H00B89AF7,&H00FFFFFF,&H00FFFFFF,&H96000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,0,1
+Style: Episode Title2,@DFMaruGothic_UMOD,50.5,&H00000000,&H00FFFFFF,&H00FFFFFF,&H96000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,0,1
+Style: Episode Title3,@DFMaruGothic_UMOD,60,&H00000000,&H00FFFFFF,&H00FFFFFF,&H96000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,0,1
+Style: Episode Title4,@DFMaruGothic_UMOD,75,&H00000000,&H00FFFFFF,&H00FFFFFF,&H96000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,0,1
+Style: Episode Title5,@DFMaruGothic_UMOD,85,&H00000000,&H00FFFFFF,&H00FFFFFF,&H96000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,0,1
+Style: Episode Title6,@DFMaruGothic_UMOD,115,&H00000000,&H00FFFFFF,&H00FFFFFF,&H96000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.78,0:00:04.72,Default,,0,0,0,,{\i1}Es el verano de mi primer año viviendo en el dormitorio de la escuela.
-Dialogue: 0,0:00:06.24,0:00:09.85,Default,,0,0,0,,{\i1}Quienes esperan mi regreso\N a la casa de nuestra familia
-Dialogue: 0,0:00:10.39,0:00:14.76,Default,,0,0,0,,{\i1}son mis amadas y pervertidas\N hermanas mayores.
-Dialogue: 0,0:00:16.12,0:00:18.33,Default,,0,0,0,,{\i1}Ella es Ayami, la mayor.
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,-35,1514,-30)\pos(663,-35)\1c&HFD60AB&\3c&HFD60AB&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,-30,1514,-25)\pos(663,-35)\1c&HFB61AE&\3c&HFB61AE&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,-25,1514,-20)\pos(663,-35)\1c&HF963B2&\3c&HF963B2&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,-20,1514,-15)\pos(663,-35)\1c&HF764B5&\3c&HF764B5&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,-15,1514,-10)\pos(663,-35)\1c&HF465B9&\3c&HF465B9&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,-10,1514,-5)\pos(663,-35)\1c&HEE67BF&\3c&HEE67BF&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,-5,1514,0)\pos(663,-35)\1c&HE968C6&\3c&HE968C6&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,0,1514,5)\pos(663,-35)\1c&HE36ACC&\3c&HE36ACC&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,5,1514,10)\pos(663,-35)\1c&HDE6BD0&\3c&HDE6BD0&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,10,1514,15)\pos(663,-35)\1c&HDA6CD4&\3c&HDA6CD4&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,15,1514,20)\pos(663,-35)\1c&HD66ED8&\3c&HD66ED8&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,20,1514,25)\pos(663,-35)\1c&HD16FDC&\3c&HD16FDC&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,25,1514,30)\pos(663,-35)\1c&HCA73E4&\3c&HCA73E4&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,30,1514,35)\pos(663,-35)\1c&HC278ED&\3c&HC278ED&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,35,1514,40)\pos(663,-35)\1c&HBA7CF5&\3c&HBA7CF5&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,40,1514,45)\pos(663,-35)\1c&HB57FFB&\3c&HB57FFB&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,45,1514,50)\pos(663,-35)\1c&HB581FC&\3c&HB581FC&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,50,1514,55)\pos(663,-35)\1c&HB582FD&\3c&HB582FD&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,55,1514,60)\pos(663,-35)\1c&HB583FF&\3c&HB583FF&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=116}{\q2\frz0.67\alpha&H70&\blur5\be0\bord0.1\clip(-187,60,1514,65)\pos(663,-35)\1c&HB584FF&\3c&HB584FF&}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 1,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=105}{\q2\frz0.67\bord6\blur0.75\1a&HFF&\alpha&H70&\blur5\pos(663.419,-35.06)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 0,0:01:55.30,0:01:55.34,Title4,,0,0,0,,{=104}{\q2\frz0.67\bord12\blur0.75\1a&HFF&\3c&H000000&\alpha&H70&\blur5\pos(663.419,-35.333)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=116}{\q2\frz0.67\be0\bord0.1\clip(-21,49,1330,54)\1c&HFD60AB&\3c&HFD60AB&\alpha&H70&\blur5\pos(654,45)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=116}{\q2\frz0.67\be0\bord0.1\clip(-21,54,1330,59)\1c&HFB62AF&\3c&HFB62AF&\alpha&H70&\blur5\pos(654,45)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=116}{\q2\frz0.67\be0\bord0.1\clip(-21,59,1330,64)\1c&HF863B3&\3c&HF863B3&\alpha&H70&\blur5\pos(654,45)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=116}{\q2\frz0.67\be0\bord0.1\clip(-21,64,1330,69)\1c&HF565B8&\3c&HF565B8&\alpha&H70&\blur5\pos(654,45)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=116}{\q2\frz0.67\be0\bord0.1\clip(-21,69,1330,74)\1c&HEE67C0&\3c&HEE67C0&\alpha&H70&\blur5\pos(654,45)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=116}{\q2\frz0.67\be0\bord0.1\clip(-21,74,1330,79)\1c&HE769C8&\3c&HE769C8&\alpha&H70&\blur5\pos(654,45)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=116}{\q2\frz0.67\be0\bord0.1\clip(-21,79,1330,84)\1c&HE06ACF&\3c&HE06ACF&\alpha&H70&\blur5\pos(654,45)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=116}{\q2\frz0.67\be0\bord0.1\clip(-21,84,1330,89)\1c&HDA6CD4&\3c&HDA6CD4&\alpha&H70&\blur5\pos(654,45)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=116}{\q2\frz0.67\be0\bord0.1\clip(-21,89,1330,94)\1c&HD56ED9&\3c&HD56ED9&\alpha&H70&\blur5\pos(654,45)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=116}{\q2\frz0.67\be0\bord0.1\clip(-21,94,1330,99)\1c&HCE71E0&\3c&HCE71E0&\alpha&H70&\blur5\pos(654,45)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=116}{\q2\frz0.67\be0\bord0.1\clip(-21,99,1330,104)\1c&HC477EB&\3c&HC477EB&\alpha&H70&\blur5\pos(654,45)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=116}{\q2\frz0.67\be0\bord0.1\clip(-21,104,1330,109)\1c&HBA7CF5&\3c&HBA7CF5&\alpha&H70&\blur5\pos(654,45)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=116}{\q2\frz0.67\be0\bord0.1\clip(-21,109,1330,114)\1c&HB580FC&\3c&HB580FC&\alpha&H70&\blur5\pos(654,45)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=116}{\q2\frz0.67\be0\bord0.1\clip(-21,114,1330,119)\1c&HB582FD&\3c&HB582FD&\alpha&H70&\blur5\pos(654,45)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=116}{\q2\frz0.67\be0\bord0.1\clip(-21,119,1330,124)\1c&HB583FE&\3c&HB583FE&\alpha&H70&\blur5\pos(654,45)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=116}{\q2\frz0.67\be0\bord0.1\clip(-21,124,1330,129)\1c&HB584FF&\3c&HB584FF&\alpha&H70&\blur5\pos(654,45)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 1,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=105}{\q2\frz0.67\bord6\blur0.75\1a&HFF&\alpha&H70&\blur5\pos(654.086,44.727)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 0,0:01:55.34,0:01:55.38,Title3,,0,0,0,,{=104}{\q2\frz0.67\bord12\blur0.75\1a&HFF&\3c&H000000&\alpha&H70&\blur5\pos(654.086,44.727)}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.38,0:01:55.42,Title2,,0,0,0,,{=116}{\frz0.67\be0\bord0.1\clip(104,90,1191,95)\pos(647,90)\1c&HFD60AB&\3c&HFD60AB&\alpha&H29&\blur5\alpha&H70&\blur5}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.38,0:01:55.42,Title2,,0,0,0,,{=116}{\frz0.67\be0\bord0.1\clip(104,95,1191,100)\pos(647,90)\1c&HFA62B0&\3c&HFA62B0&\alpha&H29&\blur5\alpha&H70&\blur5}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.38,0:01:55.42,Title2,,0,0,0,,{=116}{\frz0.67\be0\bord0.1\clip(104,100,1191,105)\pos(647,90)\1c&HF764B6&\3c&HF764B6&\alpha&H29&\blur5\alpha&H70&\blur5}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.38,0:01:55.42,Title2,,0,0,0,,{=116}{\frz0.67\be0\bord0.1\clip(104,105,1191,110)\pos(647,90)\1c&HEF67BE&\3c&HEF67BE&\alpha&H29&\blur5\alpha&H70&\blur5}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.38,0:01:55.42,Title2,,0,0,0,,{=116}{\frz0.67\be0\bord0.1\clip(104,110,1191,115)\pos(647,90)\1c&HE669C8&\3c&HE669C8&\alpha&H29&\blur5\alpha&H70&\blur5}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.38,0:01:55.42,Title2,,0,0,0,,{=116}{\frz0.67\be0\bord0.1\clip(104,115,1191,120)\pos(647,90)\1c&HDE6BD1&\3c&HDE6BD1&\alpha&H29&\blur5\alpha&H70&\blur5}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.38,0:01:55.42,Title2,,0,0,0,,{=116}{\frz0.67\be0\bord0.1\clip(104,120,1191,125)\pos(647,90)\1c&HD76DD7&\3c&HD76DD7&\alpha&H29&\blur5\alpha&H70&\blur5}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.38,0:01:55.42,Title2,,0,0,0,,{=116}{\frz0.67\be0\bord0.1\clip(104,125,1191,130)\pos(647,90)\1c&HCF70DE&\3c&HCF70DE&\alpha&H29&\blur5\alpha&H70&\blur5}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.38,0:01:55.42,Title2,,0,0,0,,{=116}{\frz0.67\be0\bord0.1\clip(104,130,1191,135)\pos(647,90)\1c&HC377EC&\3c&HC377EC&\alpha&H29&\blur5\alpha&H70&\blur5}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.38,0:01:55.42,Title2,,0,0,0,,{=116}{\frz0.67\be0\bord0.1\clip(104,135,1191,140)\pos(647,90)\1c&HB67EF9&\3c&HB67EF9&\alpha&H29&\blur5\alpha&H70&\blur5}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.38,0:01:55.42,Title2,,0,0,0,,{=116}{\frz0.67\be0\bord0.1\clip(104,140,1191,145)\pos(647,90)\1c&HB581FD&\3c&HB581FD&\alpha&H29&\blur5\alpha&H70&\blur5}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.38,0:01:55.42,Title2,,0,0,0,,{=116}{\frz0.67\be0\bord0.1\clip(104,145,1191,150)\pos(647,90)\1c&HB583FE&\3c&HB583FE&\alpha&H29&\blur5\alpha&H70&\blur5}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 1,0:01:55.38,0:01:55.42,Title2,,0,0,0,,{=105}{\frz0.67\bord6\1a&HFF&\pos(647.42,90.06)\alpha&H70&\blur5}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 0,0:01:55.38,0:01:55.42,Title2,,0,0,0,,{=104}{\frz0.67\bord12\1a&HFF&\3c&H000000&\pos(647.42,90.06)\alpha&H70&\blur5}Quiero que mis{\alpha&H50&} p{\alpha&H45&\blur3}er{\alpha&H15&\blur2}vertidas {\alpha&H45&\blur3}h{\alpha&H50&\blur5}er{\alpha&H70&\blur5}manas me expriman
+Dialogue: 2,0:01:55.42,0:01:55.46,Title,,0,0,0,,{=116}{\frz0.67\blur0.75\be0\bord0.1\clip(187.68,114.05,1107.68,119.05)\pos(647.42,114.06)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.46,0:01:55.51,Title,,0,0,0,,{=116}{\frz0.64\blur0.75\be0\bord0.1\clip(186.53,127.66,1106.53,132.66)\pos(646.4,127.67)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.51,0:01:55.55,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,120.28,1102.47,125.28)\pos(642.45,120.28)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.55,0:01:55.59,Title,,0,0,0,,{=116}{\frz0.61\blur0.75\be0\bord0.1\clip(185.38,111.17,1105.38,116.17)\pos(645.36,111.17)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.59,0:01:55.63,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(194.58,108.75,1114.58,113.75)\pos(654.57,108.75)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.63,0:01:55.67,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(194.15,109.43,1114.15,114.43)\pos(654.14,109.43)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.67,0:01:55.71,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(188.27,108.8,1108.27,113.8)\pos(648.27,108.8)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.71,0:01:55.76,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(192.53,107.61,1112.53,112.61)\pos(652.53,107.61)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.76,0:01:55.80,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(188.38,116.55,1108.39,121.55)\pos(648.38,116.55)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.80,0:01:55.84,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(180.05,116.85,1100.05,121.85)\pos(640.04,116.85)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.84,0:01:55.88,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(174.09,110.32,1094.09,115.32)\pos(634.08,110.32)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.88,0:01:55.92,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(179.9,107.61,1099.9,112.61)\pos(639.9,107.61)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.92,0:01:55.97,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(185.95,106.1,1105.95,111.1)\pos(645.94,106.1)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.97,0:01:56.01,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(184.95,107.33,1104.95,112.33)\pos(644.94,107.33)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.01,0:01:56.05,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(187.33,110.69,1107.33,115.68)\pos(647.32,110.69)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.05,0:01:56.09,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(192.72,113.21,1112.72,118.21)\pos(652.71,113.21)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.09,0:01:56.13,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(196.96,116.02,1116.96,121.02)\pos(656.96,116.02)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.13,0:01:56.17,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(190.8,121.4,1110.8,126.4)\pos(650.79,121.4)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.17,0:01:56.22,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(184.35,120.72,1104.35,125.72)\pos(644.35,120.72)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.22,0:01:56.26,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(180.26,113.49,1100.26,118.49)\pos(640.26,113.49)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.26,0:01:56.30,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(183.1,110.9,1103.1,115.9)\pos(643.1,110.9)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.30,0:01:56.34,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(190.73,118.69,1110.73,123.68)\pos(650.73,118.69)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.34,0:01:56.38,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(199.66,122.87,1119.66,127.86)\pos(659.66,122.87)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.38,0:01:56.42,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(188.22,129.47,1108.22,134.46)\pos(648.22,129.46)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.42,0:01:56.47,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(173.67,126.46,1093.67,131.46)\pos(633.67,126.46)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.47,0:01:56.51,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(173.65,117.41,1093.65,122.41)\pos(633.65,117.41)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.51,0:01:56.55,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(184.14,106.13,1104.14,111.13)\pos(644.14,106.13)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.55,0:01:56.59,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(188.6,114.73,1108.61,119.73)\pos(648.61,114.73)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.59,0:01:56.63,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(186.85,127.81,1106.85,132.81)\pos(646.85,127.81)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.63,0:01:56.67,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,119.98,1102.47,124.98)\pos(642.47,119.98)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.67,0:01:56.72,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(185.49,110.97,1105.49,115.97)\pos(645.5,110.97)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.72,0:01:56.76,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(194.82,108.86,1114.82,113.86)\pos(654.82,108.86)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.76,0:01:56.80,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(193.92,109.49,1113.92,114.49)\pos(653.92,109.49)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.80,0:01:56.84,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(188.2,108.75,1108.2,113.74)\pos(648.2,108.75)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.84,0:01:56.88,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(192.68,107.77,1112.68,112.77)\pos(652.68,107.77)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.88,0:01:56.92,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(188.13,116.76,1108.13,121.76)\pos(648.13,116.76)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.92,0:01:56.97,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(179.88,116.74,1099.88,121.74)\pos(639.88,116.74)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.97,0:01:57.01,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(174.07,110.25,1094.07,115.25)\pos(634.06,110.25)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.01,0:01:57.05,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(180.24,107.78,1100.24,112.78)\pos(640.24,107.78)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.05,0:01:57.09,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(185.73,108.28,1105.73,113.28)\pos(645.73,108.28)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.09,0:01:57.13,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(184.97,110.9,1104.97,115.9)\pos(644.98,110.9)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.13,0:01:57.17,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(185.53,113.27,1105.53,118.26)\pos(645.53,113.27)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.17,0:01:57.22,Title,,0,0,0,,{=116}{\frz0.6\blur0.75\be0\bord0.1\clip(185,114,1105,119)\pos(645,114)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.42,0:01:55.46,Title,,0,0,0,,{=115}{\frz0.67\blur0.75\be0\bord0.1\clip(187.68,119.05,1107.68,124.05)\pos(647.42,114.06)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.46,0:01:55.51,Title,,0,0,0,,{=115}{\frz0.64\blur0.75\be0\bord0.1\clip(186.53,132.66,1106.53,137.66)\pos(646.4,127.67)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.51,0:01:55.55,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,125.28,1102.47,130.28)\pos(642.45,120.28)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.55,0:01:55.59,Title,,0,0,0,,{=115}{\frz0.61\blur0.75\be0\bord0.1\clip(185.38,116.17,1105.38,121.17)\pos(645.36,111.17)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.59,0:01:55.63,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(194.58,113.75,1114.58,118.75)\pos(654.57,108.75)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.63,0:01:55.67,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(194.15,114.43,1114.15,119.43)\pos(654.14,109.43)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.67,0:01:55.71,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(188.27,113.8,1108.27,118.8)\pos(648.27,108.8)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.71,0:01:55.76,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(192.53,112.61,1112.53,117.61)\pos(652.53,107.61)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.76,0:01:55.80,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(188.39,121.55,1108.39,126.55)\pos(648.38,116.55)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.80,0:01:55.84,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(180.05,121.85,1100.05,126.85)\pos(640.04,116.85)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.84,0:01:55.88,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(174.09,115.32,1094.09,120.32)\pos(634.08,110.32)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.88,0:01:55.92,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(179.9,112.61,1099.9,117.61)\pos(639.9,107.61)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.92,0:01:55.97,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(185.95,111.1,1105.95,116.1)\pos(645.94,106.1)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.97,0:01:56.01,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(184.95,112.33,1104.95,117.33)\pos(644.94,107.33)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.01,0:01:56.05,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(187.33,115.68,1107.33,120.69)\pos(647.32,110.69)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.05,0:01:56.09,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(192.72,118.21,1112.72,123.21)\pos(652.71,113.21)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.09,0:01:56.13,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(196.96,121.02,1116.96,126.02)\pos(656.96,116.02)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.13,0:01:56.17,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(190.8,126.4,1110.8,131.4)\pos(650.79,121.4)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.17,0:01:56.22,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(184.35,125.72,1104.35,130.72)\pos(644.35,120.72)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.22,0:01:56.26,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(180.26,118.49,1100.26,123.49)\pos(640.26,113.49)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.26,0:01:56.30,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(183.1,115.9,1103.1,120.9)\pos(643.1,110.9)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.30,0:01:56.34,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(190.73,123.68,1110.73,128.69)\pos(650.73,118.69)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.34,0:01:56.38,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(199.66,127.86,1119.66,132.87)\pos(659.66,122.87)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.38,0:01:56.42,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(188.22,134.46,1108.22,139.46)\pos(648.22,129.46)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.42,0:01:56.47,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(173.67,131.46,1093.67,136.46)\pos(633.67,126.46)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.47,0:01:56.51,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(173.65,122.41,1093.65,127.41)\pos(633.65,117.41)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.51,0:01:56.55,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(184.14,111.13,1104.14,116.13)\pos(644.14,106.13)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.55,0:01:56.59,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(188.6,119.73,1108.61,124.73)\pos(648.61,114.73)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.59,0:01:56.63,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(186.85,132.81,1106.85,137.81)\pos(646.85,127.81)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.63,0:01:56.67,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,124.98,1102.47,129.98)\pos(642.47,119.98)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.67,0:01:56.72,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(185.49,115.97,1105.49,120.97)\pos(645.5,110.97)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.72,0:01:56.76,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(194.82,113.86,1114.82,118.86)\pos(654.82,108.86)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.76,0:01:56.80,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(193.92,114.49,1113.92,119.49)\pos(653.92,109.49)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.80,0:01:56.84,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(188.2,113.74,1108.2,118.75)\pos(648.2,108.75)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.84,0:01:56.88,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(192.68,112.77,1112.68,117.77)\pos(652.68,107.77)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.88,0:01:56.92,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(188.13,121.76,1108.13,126.76)\pos(648.13,116.76)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.92,0:01:56.97,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(179.88,121.74,1099.88,126.74)\pos(639.88,116.74)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.97,0:01:57.01,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(174.07,115.25,1094.07,120.25)\pos(634.06,110.25)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.01,0:01:57.05,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(180.24,112.78,1100.24,117.78)\pos(640.24,107.78)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.05,0:01:57.09,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(185.73,113.28,1105.73,118.28)\pos(645.73,108.28)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.09,0:01:57.13,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(184.97,115.9,1104.97,120.9)\pos(644.98,110.9)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.13,0:01:57.17,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(185.53,118.26,1105.53,123.26)\pos(645.53,113.27)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.17,0:01:57.22,Title,,0,0,0,,{=115}{\frz0.6\blur0.75\be0\bord0.1\clip(185,119,1105,124)\pos(645,114)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.42,0:01:55.46,Title,,0,0,0,,{=114}{\frz0.67\blur0.75\be0\bord0.1\clip(187.68,124.05,1107.68,129.05)\pos(647.42,114.06)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.46,0:01:55.51,Title,,0,0,0,,{=114}{\frz0.64\blur0.75\be0\bord0.1\clip(186.53,137.66,1106.53,142.66)\pos(646.4,127.67)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.51,0:01:55.55,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,130.28,1102.47,135.28)\pos(642.45,120.28)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.55,0:01:55.59,Title,,0,0,0,,{=114}{\frz0.61\blur0.75\be0\bord0.1\clip(185.38,121.17,1105.38,126.17)\pos(645.36,111.17)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.59,0:01:55.63,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(194.58,118.75,1114.58,123.75)\pos(654.57,108.75)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.63,0:01:55.67,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(194.15,119.43,1114.15,124.43)\pos(654.14,109.43)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.67,0:01:55.71,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(188.27,118.8,1108.27,123.8)\pos(648.27,108.8)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.71,0:01:55.76,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(192.53,117.61,1112.53,122.61)\pos(652.53,107.61)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.76,0:01:55.80,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(188.39,126.55,1108.39,131.55)\pos(648.38,116.55)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.80,0:01:55.84,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(180.05,126.85,1100.05,131.85)\pos(640.04,116.85)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.84,0:01:55.88,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(174.09,120.32,1094.09,125.32)\pos(634.08,110.32)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.88,0:01:55.92,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(179.9,117.61,1099.9,122.61)\pos(639.9,107.61)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.92,0:01:55.97,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(185.95,116.1,1105.95,121.1)\pos(645.94,106.1)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.97,0:01:56.01,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(184.95,117.33,1104.95,122.33)\pos(644.94,107.33)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.01,0:01:56.05,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(187.33,120.68,1107.33,125.69)\pos(647.32,110.69)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.05,0:01:56.09,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(192.72,123.21,1112.72,128.21)\pos(652.71,113.21)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.09,0:01:56.13,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(196.96,126.02,1116.96,131.02)\pos(656.96,116.02)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.13,0:01:56.17,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(190.8,131.4,1110.8,136.4)\pos(650.79,121.4)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.17,0:01:56.22,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(184.35,130.72,1104.35,135.72)\pos(644.35,120.72)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.22,0:01:56.26,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(180.26,123.49,1100.26,128.49)\pos(640.26,113.49)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.26,0:01:56.30,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(183.1,120.9,1103.1,125.9)\pos(643.1,110.9)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.30,0:01:56.34,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(190.73,128.68,1110.73,133.69)\pos(650.73,118.69)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.34,0:01:56.38,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(199.66,132.86,1119.66,137.87)\pos(659.66,122.87)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.38,0:01:56.42,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(188.22,139.46,1108.22,144.46)\pos(648.22,129.46)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.42,0:01:56.47,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(173.67,136.46,1093.67,141.46)\pos(633.67,126.46)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.47,0:01:56.51,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(173.65,127.41,1093.65,132.41)\pos(633.65,117.41)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.51,0:01:56.55,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(184.14,116.13,1104.14,121.13)\pos(644.14,106.13)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.55,0:01:56.59,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(188.6,124.73,1108.61,129.73)\pos(648.61,114.73)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.59,0:01:56.63,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(186.85,137.81,1106.85,142.81)\pos(646.85,127.81)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.63,0:01:56.67,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,129.98,1102.47,134.98)\pos(642.47,119.98)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.67,0:01:56.72,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(185.49,120.97,1105.49,125.97)\pos(645.5,110.97)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.72,0:01:56.76,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(194.82,118.86,1114.82,123.86)\pos(654.82,108.86)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.76,0:01:56.80,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(193.92,119.49,1113.92,124.49)\pos(653.92,109.49)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.80,0:01:56.84,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(188.2,118.74,1108.2,123.75)\pos(648.2,108.75)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.84,0:01:56.88,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(192.68,117.77,1112.68,122.77)\pos(652.68,107.77)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.88,0:01:56.92,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(188.13,126.76,1108.13,131.76)\pos(648.13,116.76)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.92,0:01:56.97,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(179.88,126.74,1099.88,131.74)\pos(639.88,116.74)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.97,0:01:57.01,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(174.07,120.25,1094.07,125.25)\pos(634.06,110.25)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.01,0:01:57.05,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(180.24,117.78,1100.24,122.78)\pos(640.24,107.78)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.05,0:01:57.09,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(185.73,118.28,1105.73,123.28)\pos(645.73,108.28)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.09,0:01:57.13,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(184.97,120.9,1104.97,125.9)\pos(644.98,110.9)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.13,0:01:57.17,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(185.53,123.26,1105.53,128.26)\pos(645.53,113.27)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.17,0:01:57.22,Title,,0,0,0,,{=114}{\frz0.6\blur0.75\be0\bord0.1\clip(185,124,1105,129)\pos(645,114)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.42,0:01:55.46,Title,,0,0,0,,{=113}{\frz0.67\blur0.75\be0\bord0.1\clip(187.68,129.05,1107.68,134.05)\pos(647.42,114.06)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.46,0:01:55.51,Title,,0,0,0,,{=113}{\frz0.64\blur0.75\be0\bord0.1\clip(186.53,142.66,1106.53,147.66)\pos(646.4,127.67)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.51,0:01:55.55,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,135.28,1102.47,140.28)\pos(642.45,120.28)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.55,0:01:55.59,Title,,0,0,0,,{=113}{\frz0.61\blur0.75\be0\bord0.1\clip(185.38,126.17,1105.38,131.17)\pos(645.36,111.17)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.59,0:01:55.63,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(194.58,123.75,1114.58,128.75)\pos(654.57,108.75)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.63,0:01:55.67,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(194.15,124.43,1114.15,129.43)\pos(654.14,109.43)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.67,0:01:55.71,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(188.27,123.8,1108.27,128.8)\pos(648.27,108.8)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.71,0:01:55.76,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(192.53,122.61,1112.53,127.61)\pos(652.53,107.61)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.76,0:01:55.80,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(188.39,131.55,1108.39,136.55)\pos(648.38,116.55)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.80,0:01:55.84,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(180.05,131.85,1100.05,136.85)\pos(640.04,116.85)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.84,0:01:55.88,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(174.09,125.32,1094.09,130.32)\pos(634.08,110.32)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.88,0:01:55.92,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(179.9,122.61,1099.9,127.61)\pos(639.9,107.61)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.92,0:01:55.97,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(185.95,121.1,1105.95,126.1)\pos(645.94,106.1)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.97,0:01:56.01,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(184.95,122.33,1104.95,127.33)\pos(644.94,107.33)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.01,0:01:56.05,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(187.33,125.68,1107.33,130.68)\pos(647.32,110.69)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.05,0:01:56.09,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(192.72,128.21,1112.72,133.21)\pos(652.71,113.21)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.09,0:01:56.13,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(196.96,131.02,1116.96,136.02)\pos(656.96,116.02)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.13,0:01:56.17,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(190.8,136.4,1110.8,141.4)\pos(650.79,121.4)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.17,0:01:56.22,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(184.35,135.72,1104.35,140.72)\pos(644.35,120.72)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.22,0:01:56.26,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(180.26,128.49,1100.26,133.49)\pos(640.26,113.49)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.26,0:01:56.30,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(183.1,125.9,1103.1,130.9)\pos(643.1,110.9)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.30,0:01:56.34,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(190.73,133.68,1110.73,138.68)\pos(650.73,118.69)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.34,0:01:56.38,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(199.66,137.86,1119.66,142.86)\pos(659.66,122.87)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.38,0:01:56.42,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(188.22,144.46,1108.22,149.46)\pos(648.22,129.46)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.42,0:01:56.47,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(173.67,141.46,1093.67,146.46)\pos(633.67,126.46)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.47,0:01:56.51,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(173.65,132.41,1093.65,137.41)\pos(633.65,117.41)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.51,0:01:56.55,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(184.14,121.13,1104.14,126.13)\pos(644.14,106.13)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.55,0:01:56.59,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(188.6,129.73,1108.61,134.73)\pos(648.61,114.73)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.59,0:01:56.63,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(186.85,142.81,1106.85,147.81)\pos(646.85,127.81)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.63,0:01:56.67,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,134.98,1102.47,139.98)\pos(642.47,119.98)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.67,0:01:56.72,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(185.49,125.97,1105.49,130.97)\pos(645.5,110.97)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.72,0:01:56.76,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(194.82,123.86,1114.82,128.86)\pos(654.82,108.86)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.76,0:01:56.80,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(193.92,124.49,1113.92,129.49)\pos(653.92,109.49)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.80,0:01:56.84,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(188.2,123.74,1108.2,128.74)\pos(648.2,108.75)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.84,0:01:56.88,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(192.68,122.77,1112.68,127.77)\pos(652.68,107.77)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.88,0:01:56.92,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(188.13,131.76,1108.13,136.76)\pos(648.13,116.76)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.92,0:01:56.97,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(179.88,131.74,1099.88,136.74)\pos(639.88,116.74)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.97,0:01:57.01,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(174.07,125.25,1094.07,130.25)\pos(634.06,110.25)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.01,0:01:57.05,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(180.24,122.78,1100.24,127.78)\pos(640.24,107.78)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.05,0:01:57.09,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(185.73,123.28,1105.73,128.28)\pos(645.73,108.28)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.09,0:01:57.13,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(184.97,125.9,1104.97,130.9)\pos(644.98,110.9)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.13,0:01:57.17,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(185.53,128.26,1105.53,133.26)\pos(645.53,113.27)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.17,0:01:57.22,Title,,0,0,0,,{=113}{\frz0.6\blur0.75\be0\bord0.1\clip(185,129,1105,134)\pos(645,114)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.42,0:01:55.46,Title,,0,0,0,,{=112}{\frz0.67\blur0.75\be0\bord0.1\clip(187.68,134.05,1107.68,139.05)\pos(647.42,114.06)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.46,0:01:55.51,Title,,0,0,0,,{=112}{\frz0.64\blur0.75\be0\bord0.1\clip(186.53,147.66,1106.53,152.66)\pos(646.4,127.67)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.51,0:01:55.55,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,140.28,1102.47,145.28)\pos(642.45,120.28)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.55,0:01:55.59,Title,,0,0,0,,{=112}{\frz0.61\blur0.75\be0\bord0.1\clip(185.38,131.17,1105.38,136.17)\pos(645.36,111.17)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.59,0:01:55.63,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(194.58,128.75,1114.58,133.75)\pos(654.57,108.75)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.63,0:01:55.67,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(194.15,129.43,1114.15,134.43)\pos(654.14,109.43)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.67,0:01:55.71,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(188.27,128.8,1108.27,133.8)\pos(648.27,108.8)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.71,0:01:55.76,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(192.53,127.61,1112.53,132.61)\pos(652.53,107.61)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.76,0:01:55.80,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(188.39,136.55,1108.39,141.55)\pos(648.38,116.55)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.80,0:01:55.84,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(180.05,136.85,1100.05,141.85)\pos(640.04,116.85)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.84,0:01:55.88,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(174.09,130.32,1094.09,135.32)\pos(634.08,110.32)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.88,0:01:55.92,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(179.9,127.61,1099.9,132.61)\pos(639.9,107.61)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.92,0:01:55.97,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(185.95,126.1,1105.95,131.1)\pos(645.94,106.1)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.97,0:01:56.01,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(184.95,127.33,1104.95,132.33)\pos(644.94,107.33)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.01,0:01:56.05,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(187.33,130.69,1107.33,135.69)\pos(647.32,110.69)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.05,0:01:56.09,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(192.72,133.21,1112.72,138.21)\pos(652.71,113.21)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.09,0:01:56.13,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(196.96,136.02,1116.96,141.02)\pos(656.96,116.02)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.13,0:01:56.17,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(190.8,141.4,1110.8,146.4)\pos(650.79,121.4)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.17,0:01:56.22,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(184.35,140.72,1104.35,145.72)\pos(644.35,120.72)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.22,0:01:56.26,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(180.26,133.49,1100.26,138.49)\pos(640.26,113.49)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.26,0:01:56.30,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(183.1,130.9,1103.1,135.9)\pos(643.1,110.9)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.30,0:01:56.34,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(190.73,138.69,1110.73,143.69)\pos(650.73,118.69)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.34,0:01:56.38,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(199.66,142.87,1119.66,147.87)\pos(659.66,122.87)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.38,0:01:56.42,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(188.22,149.47,1108.22,154.46)\pos(648.22,129.46)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.42,0:01:56.47,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(173.67,146.46,1093.67,151.46)\pos(633.67,126.46)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.47,0:01:56.51,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(173.65,137.41,1093.65,142.41)\pos(633.65,117.41)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.51,0:01:56.55,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(184.14,126.13,1104.14,131.13)\pos(644.14,106.13)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.55,0:01:56.59,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(188.6,134.73,1108.61,139.73)\pos(648.61,114.73)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.59,0:01:56.63,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(186.85,147.81,1106.85,152.81)\pos(646.85,127.81)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.63,0:01:56.67,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,139.98,1102.47,144.98)\pos(642.47,119.98)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.67,0:01:56.72,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(185.49,130.97,1105.49,135.97)\pos(645.5,110.97)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.72,0:01:56.76,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(194.82,128.86,1114.82,133.86)\pos(654.82,108.86)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.76,0:01:56.80,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(193.92,129.49,1113.92,134.49)\pos(653.92,109.49)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.80,0:01:56.84,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(188.2,128.75,1108.2,133.75)\pos(648.2,108.75)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.84,0:01:56.88,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(192.68,127.77,1112.68,132.77)\pos(652.68,107.77)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.88,0:01:56.92,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(188.13,136.76,1108.13,141.76)\pos(648.13,116.76)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.92,0:01:56.97,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(179.88,136.74,1099.88,141.74)\pos(639.88,116.74)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.97,0:01:57.01,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(174.07,130.25,1094.07,135.25)\pos(634.06,110.25)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.01,0:01:57.05,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(180.24,127.78,1100.24,132.78)\pos(640.24,107.78)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.05,0:01:57.09,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(185.73,128.28,1105.73,133.28)\pos(645.73,108.28)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.09,0:01:57.13,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(184.97,130.9,1104.97,135.9)\pos(644.98,110.9)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.13,0:01:57.17,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(185.53,133.27,1105.53,138.26)\pos(645.53,113.27)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.17,0:01:57.22,Title,,0,0,0,,{=112}{\frz0.6\blur0.75\be0\bord0.1\clip(185,134,1105,139)\pos(645,114)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.42,0:01:55.46,Title,,0,0,0,,{=111}{\frz0.67\blur0.75\be0\bord0.1\clip(187.68,139.05,1107.68,144.05)\pos(647.42,114.06)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.46,0:01:55.51,Title,,0,0,0,,{=111}{\frz0.64\blur0.75\be0\bord0.1\clip(186.53,152.66,1106.53,157.66)\pos(646.4,127.67)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.51,0:01:55.55,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,145.28,1102.47,150.28)\pos(642.45,120.28)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.55,0:01:55.59,Title,,0,0,0,,{=111}{\frz0.61\blur0.75\be0\bord0.1\clip(185.38,136.17,1105.38,141.17)\pos(645.36,111.17)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.59,0:01:55.63,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(194.58,133.75,1114.58,138.75)\pos(654.57,108.75)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.63,0:01:55.67,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(194.15,134.43,1114.15,139.43)\pos(654.14,109.43)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.67,0:01:55.71,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(188.27,133.8,1108.27,138.8)\pos(648.27,108.8)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.71,0:01:55.76,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(192.53,132.61,1112.53,137.61)\pos(652.53,107.61)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.76,0:01:55.80,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(188.39,141.55,1108.39,146.55)\pos(648.38,116.55)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.80,0:01:55.84,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(180.05,141.85,1100.05,146.85)\pos(640.04,116.85)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.84,0:01:55.88,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(174.09,135.32,1094.09,140.32)\pos(634.08,110.32)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.88,0:01:55.92,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(179.9,132.61,1099.9,137.61)\pos(639.9,107.61)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.92,0:01:55.97,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(185.95,131.1,1105.95,136.1)\pos(645.94,106.1)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.97,0:01:56.01,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(184.95,132.33,1104.95,137.33)\pos(644.94,107.33)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.01,0:01:56.05,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(187.33,135.69,1107.33,140.69)\pos(647.32,110.69)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.05,0:01:56.09,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(192.72,138.21,1112.72,143.21)\pos(652.71,113.21)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.09,0:01:56.13,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(196.96,141.02,1116.96,146.02)\pos(656.96,116.02)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.13,0:01:56.17,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(190.8,146.4,1110.8,151.4)\pos(650.79,121.4)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.17,0:01:56.22,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(184.35,145.72,1104.35,150.72)\pos(644.35,120.72)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.22,0:01:56.26,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(180.26,138.49,1100.26,143.49)\pos(640.26,113.49)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.26,0:01:56.30,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(183.1,135.9,1103.1,140.9)\pos(643.1,110.9)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.30,0:01:56.34,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(190.73,143.69,1110.73,148.69)\pos(650.73,118.69)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.34,0:01:56.38,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(199.66,147.87,1119.66,152.87)\pos(659.66,122.87)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.38,0:01:56.42,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(188.22,154.47,1108.22,159.46)\pos(648.22,129.46)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.42,0:01:56.47,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(173.67,151.46,1093.67,156.46)\pos(633.67,126.46)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.47,0:01:56.51,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(173.65,142.41,1093.65,147.41)\pos(633.65,117.41)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.51,0:01:56.55,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(184.14,131.13,1104.14,136.13)\pos(644.14,106.13)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.55,0:01:56.59,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(188.6,139.73,1108.61,144.73)\pos(648.61,114.73)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.59,0:01:56.63,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(186.85,152.81,1106.85,157.81)\pos(646.85,127.81)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.63,0:01:56.67,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,144.98,1102.47,149.98)\pos(642.47,119.98)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.67,0:01:56.72,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(185.49,135.97,1105.49,140.97)\pos(645.5,110.97)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.72,0:01:56.76,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(194.82,133.86,1114.82,138.86)\pos(654.82,108.86)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.76,0:01:56.80,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(193.92,134.49,1113.92,139.49)\pos(653.92,109.49)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.80,0:01:56.84,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(188.2,133.75,1108.2,138.75)\pos(648.2,108.75)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.84,0:01:56.88,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(192.68,132.77,1112.68,137.77)\pos(652.68,107.77)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.88,0:01:56.92,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(188.13,141.76,1108.13,146.76)\pos(648.13,116.76)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.92,0:01:56.97,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(179.88,141.74,1099.88,146.74)\pos(639.88,116.74)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.97,0:01:57.01,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(174.07,135.25,1094.07,140.25)\pos(634.06,110.25)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.01,0:01:57.05,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(180.24,132.78,1100.24,137.78)\pos(640.24,107.78)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.05,0:01:57.09,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(185.73,133.28,1105.73,138.28)\pos(645.73,108.28)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.09,0:01:57.13,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(184.97,135.9,1104.97,140.9)\pos(644.98,110.9)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.13,0:01:57.17,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(185.53,138.27,1105.53,143.26)\pos(645.53,113.27)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.17,0:01:57.22,Title,,0,0,0,,{=111}{\frz0.6\blur0.75\be0\bord0.1\clip(185,139,1105,144)\pos(645,114)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.42,0:01:55.46,Title,,0,0,0,,{=110}{\frz0.67\blur0.75\be0\bord0.1\clip(187.68,144.05,1107.68,149.05)\pos(647.42,114.06)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.46,0:01:55.51,Title,,0,0,0,,{=110}{\frz0.64\blur0.75\be0\bord0.1\clip(186.53,157.66,1106.53,162.66)\pos(646.4,127.67)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.51,0:01:55.55,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,150.28,1102.47,155.28)\pos(642.45,120.28)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.55,0:01:55.59,Title,,0,0,0,,{=110}{\frz0.61\blur0.75\be0\bord0.1\clip(185.38,141.17,1105.38,146.17)\pos(645.36,111.17)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.59,0:01:55.63,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(194.58,138.75,1114.58,143.75)\pos(654.57,108.75)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.63,0:01:55.67,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(194.15,139.43,1114.15,144.43)\pos(654.14,109.43)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.67,0:01:55.71,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(188.27,138.8,1108.27,143.8)\pos(648.27,108.8)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.71,0:01:55.76,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(192.53,137.61,1112.53,142.61)\pos(652.53,107.61)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.76,0:01:55.80,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(188.39,146.55,1108.39,151.55)\pos(648.38,116.55)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.80,0:01:55.84,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(180.05,146.85,1100.05,151.85)\pos(640.04,116.85)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.84,0:01:55.88,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(174.09,140.32,1094.09,145.32)\pos(634.08,110.32)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.88,0:01:55.92,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(179.9,137.61,1099.9,142.61)\pos(639.9,107.61)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.92,0:01:55.97,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(185.95,136.1,1105.95,141.1)\pos(645.94,106.1)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.97,0:01:56.01,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(184.95,137.33,1104.95,142.33)\pos(644.94,107.33)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.01,0:01:56.05,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(187.33,140.68,1107.33,145.69)\pos(647.32,110.69)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.05,0:01:56.09,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(192.72,143.21,1112.72,148.21)\pos(652.71,113.21)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.09,0:01:56.13,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(196.96,146.02,1116.96,151.02)\pos(656.96,116.02)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.13,0:01:56.17,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(190.8,151.4,1110.8,156.4)\pos(650.79,121.4)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.17,0:01:56.22,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(184.35,150.72,1104.35,155.72)\pos(644.35,120.72)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.22,0:01:56.26,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(180.26,143.49,1100.26,148.49)\pos(640.26,113.49)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.26,0:01:56.30,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(183.1,140.9,1103.1,145.9)\pos(643.1,110.9)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.30,0:01:56.34,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(190.73,148.68,1110.73,153.69)\pos(650.73,118.69)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.34,0:01:56.38,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(199.66,152.86,1119.66,157.87)\pos(659.66,122.87)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.38,0:01:56.42,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(188.22,159.46,1108.22,164.46)\pos(648.22,129.46)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.42,0:01:56.47,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(173.67,156.46,1093.67,161.46)\pos(633.67,126.46)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.47,0:01:56.51,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(173.65,147.41,1093.65,152.41)\pos(633.65,117.41)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.51,0:01:56.55,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(184.14,136.13,1104.14,141.13)\pos(644.14,106.13)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.55,0:01:56.59,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(188.6,144.73,1108.61,149.73)\pos(648.61,114.73)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.59,0:01:56.63,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(186.85,157.81,1106.85,162.81)\pos(646.85,127.81)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.63,0:01:56.67,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,149.98,1102.47,154.98)\pos(642.47,119.98)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.67,0:01:56.72,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(185.49,140.97,1105.49,145.97)\pos(645.5,110.97)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.72,0:01:56.76,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(194.82,138.86,1114.82,143.86)\pos(654.82,108.86)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.76,0:01:56.80,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(193.92,139.49,1113.92,144.49)\pos(653.92,109.49)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.80,0:01:56.84,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(188.2,138.74,1108.2,143.75)\pos(648.2,108.75)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.84,0:01:56.88,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(192.68,137.77,1112.68,142.77)\pos(652.68,107.77)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.88,0:01:56.92,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(188.13,146.76,1108.13,151.76)\pos(648.13,116.76)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.92,0:01:56.97,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(179.88,146.74,1099.88,151.74)\pos(639.88,116.74)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.97,0:01:57.01,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(174.07,140.25,1094.07,145.25)\pos(634.06,110.25)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.01,0:01:57.05,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(180.24,137.78,1100.24,142.78)\pos(640.24,107.78)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.05,0:01:57.09,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(185.73,138.28,1105.73,143.28)\pos(645.73,108.28)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.09,0:01:57.13,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(184.97,140.9,1104.97,145.9)\pos(644.98,110.9)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.13,0:01:57.17,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(185.53,143.26,1105.53,148.26)\pos(645.53,113.27)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.17,0:01:57.22,Title,,0,0,0,,{=110}{\frz0.6\blur0.75\be0\bord0.1\clip(185,144,1105,149)\pos(645,114)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.42,0:01:55.46,Title,,0,0,0,,{=109}{\frz0.67\blur0.75\be0\bord0.1\clip(187.68,149.05,1107.68,154.05)\pos(647.42,114.06)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.46,0:01:55.51,Title,,0,0,0,,{=109}{\frz0.64\blur0.75\be0\bord0.1\clip(186.53,162.66,1106.53,167.66)\pos(646.4,127.67)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.51,0:01:55.55,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,155.28,1102.47,160.28)\pos(642.45,120.28)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.55,0:01:55.59,Title,,0,0,0,,{=109}{\frz0.61\blur0.75\be0\bord0.1\clip(185.38,146.17,1105.38,151.17)\pos(645.36,111.17)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.59,0:01:55.63,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(194.58,143.75,1114.58,148.75)\pos(654.57,108.75)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.63,0:01:55.67,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(194.15,144.43,1114.15,149.43)\pos(654.14,109.43)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.67,0:01:55.71,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(188.27,143.8,1108.27,148.8)\pos(648.27,108.8)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.71,0:01:55.76,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(192.53,142.61,1112.53,147.61)\pos(652.53,107.61)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.76,0:01:55.80,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(188.38,151.55,1108.39,156.55)\pos(648.38,116.55)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.80,0:01:55.84,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(180.05,151.85,1100.05,156.85)\pos(640.04,116.85)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.84,0:01:55.88,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(174.09,145.32,1094.09,150.32)\pos(634.08,110.32)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.88,0:01:55.92,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(179.9,142.61,1099.9,147.61)\pos(639.9,107.61)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.92,0:01:55.97,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(185.95,141.1,1105.95,146.1)\pos(645.94,106.1)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.97,0:01:56.01,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(184.95,142.33,1104.95,147.33)\pos(644.94,107.33)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.01,0:01:56.05,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(187.33,145.69,1107.33,150.68)\pos(647.32,110.69)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.05,0:01:56.09,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(192.72,148.21,1112.72,153.21)\pos(652.71,113.21)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.09,0:01:56.13,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(196.96,151.02,1116.96,156.02)\pos(656.96,116.02)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.13,0:01:56.17,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(190.8,156.4,1110.8,161.4)\pos(650.79,121.4)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.17,0:01:56.22,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(184.35,155.72,1104.35,160.72)\pos(644.35,120.72)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.22,0:01:56.26,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(180.26,148.49,1100.26,153.49)\pos(640.26,113.49)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.26,0:01:56.30,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(183.1,145.9,1103.1,150.9)\pos(643.1,110.9)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.30,0:01:56.34,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(190.73,153.69,1110.73,158.68)\pos(650.73,118.69)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.34,0:01:56.38,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(199.66,157.87,1119.66,162.86)\pos(659.66,122.87)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.38,0:01:56.42,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(188.22,164.47,1108.22,169.46)\pos(648.22,129.46)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.42,0:01:56.47,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(173.67,161.46,1093.67,166.46)\pos(633.67,126.46)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.47,0:01:56.51,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(173.65,152.41,1093.65,157.41)\pos(633.65,117.41)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.51,0:01:56.55,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(184.14,141.13,1104.14,146.13)\pos(644.14,106.13)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.55,0:01:56.59,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(188.6,149.73,1108.61,154.73)\pos(648.61,114.73)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.59,0:01:56.63,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(186.85,162.81,1106.85,167.81)\pos(646.85,127.81)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.63,0:01:56.67,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,154.98,1102.47,159.98)\pos(642.47,119.98)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.67,0:01:56.72,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(185.49,145.97,1105.49,150.97)\pos(645.5,110.97)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.72,0:01:56.76,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(194.82,143.86,1114.82,148.86)\pos(654.82,108.86)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.76,0:01:56.80,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(193.92,144.49,1113.92,149.49)\pos(653.92,109.49)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.80,0:01:56.84,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(188.2,143.75,1108.2,148.74)\pos(648.2,108.75)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.84,0:01:56.88,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(192.68,142.77,1112.68,147.77)\pos(652.68,107.77)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.88,0:01:56.92,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(188.13,151.76,1108.13,156.76)\pos(648.13,116.76)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.92,0:01:56.97,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(179.88,151.74,1099.88,156.74)\pos(639.88,116.74)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.97,0:01:57.01,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(174.07,145.25,1094.07,150.25)\pos(634.06,110.25)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.01,0:01:57.05,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(180.24,142.78,1100.24,147.78)\pos(640.24,107.78)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.05,0:01:57.09,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(185.73,143.28,1105.73,148.28)\pos(645.73,108.28)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.09,0:01:57.13,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(184.97,145.9,1104.97,150.9)\pos(644.98,110.9)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.13,0:01:57.17,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(185.53,148.27,1105.53,153.26)\pos(645.53,113.27)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.17,0:01:57.22,Title,,0,0,0,,{=109}{\frz0.6\blur0.75\be0\bord0.1\clip(185,149,1105,154)\pos(645,114)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.42,0:01:55.46,Title,,0,0,0,,{=108}{\frz0.67\blur0.75\be0\bord0.1\clip(187.68,154.05,1107.68,159.05)\pos(647.42,114.06)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.46,0:01:55.51,Title,,0,0,0,,{=108}{\frz0.64\blur0.75\be0\bord0.1\clip(186.53,167.66,1106.53,172.66)\pos(646.4,127.67)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.51,0:01:55.55,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,160.28,1102.47,165.28)\pos(642.45,120.28)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.55,0:01:55.59,Title,,0,0,0,,{=108}{\frz0.61\blur0.75\be0\bord0.1\clip(185.38,151.17,1105.38,156.17)\pos(645.36,111.17)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.59,0:01:55.63,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(194.58,148.75,1114.58,153.75)\pos(654.57,108.75)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.63,0:01:55.67,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(194.15,149.43,1114.15,154.43)\pos(654.14,109.43)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.67,0:01:55.71,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(188.27,148.8,1108.27,153.8)\pos(648.27,108.8)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.71,0:01:55.76,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(192.53,147.61,1112.53,152.61)\pos(652.53,107.61)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.76,0:01:55.80,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(188.38,156.55,1108.39,161.55)\pos(648.38,116.55)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.80,0:01:55.84,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(180.05,156.85,1100.05,161.85)\pos(640.04,116.85)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.84,0:01:55.88,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(174.09,150.32,1094.09,155.32)\pos(634.08,110.32)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.88,0:01:55.92,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(179.9,147.61,1099.9,152.61)\pos(639.9,107.61)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.92,0:01:55.97,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(185.95,146.1,1105.95,151.1)\pos(645.94,106.1)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.97,0:01:56.01,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(184.95,147.33,1104.95,152.33)\pos(644.94,107.33)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.01,0:01:56.05,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(187.33,150.69,1107.33,155.68)\pos(647.32,110.69)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.05,0:01:56.09,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(192.72,153.21,1112.72,158.21)\pos(652.71,113.21)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.09,0:01:56.13,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(196.96,156.02,1116.96,161.02)\pos(656.96,116.02)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.13,0:01:56.17,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(190.8,161.4,1110.8,166.4)\pos(650.79,121.4)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.17,0:01:56.22,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(184.35,160.72,1104.35,165.72)\pos(644.35,120.72)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.22,0:01:56.26,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(180.26,153.49,1100.26,158.49)\pos(640.26,113.49)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.26,0:01:56.30,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(183.1,150.9,1103.1,155.9)\pos(643.1,110.9)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.30,0:01:56.34,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(190.73,158.69,1110.73,163.68)\pos(650.73,118.69)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.34,0:01:56.38,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(199.66,162.87,1119.66,167.86)\pos(659.66,122.87)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.38,0:01:56.42,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(188.22,169.47,1108.22,174.46)\pos(648.22,129.46)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.42,0:01:56.47,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(173.67,166.46,1093.67,171.46)\pos(633.67,126.46)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.47,0:01:56.51,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(173.65,157.41,1093.65,162.41)\pos(633.65,117.41)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.51,0:01:56.55,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(184.14,146.13,1104.14,151.13)\pos(644.14,106.13)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.55,0:01:56.59,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(188.6,154.73,1108.61,159.73)\pos(648.61,114.73)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.59,0:01:56.63,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(186.85,167.81,1106.85,172.81)\pos(646.85,127.81)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.63,0:01:56.67,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,159.98,1102.47,164.98)\pos(642.47,119.98)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.67,0:01:56.72,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(185.49,150.97,1105.49,155.97)\pos(645.5,110.97)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.72,0:01:56.76,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(194.82,148.86,1114.82,153.86)\pos(654.82,108.86)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.76,0:01:56.80,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(193.92,149.49,1113.92,154.49)\pos(653.92,109.49)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.80,0:01:56.84,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(188.2,148.75,1108.2,153.74)\pos(648.2,108.75)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.84,0:01:56.88,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(192.68,147.77,1112.68,152.77)\pos(652.68,107.77)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.88,0:01:56.92,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(188.13,156.76,1108.13,161.76)\pos(648.13,116.76)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.92,0:01:56.97,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(179.88,156.74,1099.88,161.74)\pos(639.88,116.74)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.97,0:01:57.01,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(174.07,150.25,1094.07,155.25)\pos(634.06,110.25)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.01,0:01:57.05,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(180.24,147.78,1100.24,152.78)\pos(640.24,107.78)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.05,0:01:57.09,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(185.73,148.28,1105.73,153.28)\pos(645.73,108.28)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.09,0:01:57.13,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(184.97,150.9,1104.97,155.9)\pos(644.98,110.9)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.13,0:01:57.17,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(185.53,153.27,1105.53,158.26)\pos(645.53,113.27)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.17,0:01:57.22,Title,,0,0,0,,{=108}{\frz0.6\blur0.75\be0\bord0.1\clip(185,154,1105,159)\pos(645,114)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.42,0:01:55.46,Title,,0,0,0,,{=107}{\frz0.67\blur0.75\be0\bord0.1\clip(187.68,159.05,1107.68,164.05)\pos(647.42,114.06)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.46,0:01:55.51,Title,,0,0,0,,{=107}{\frz0.64\blur0.75\be0\bord0.1\clip(186.53,172.66,1106.53,177.66)\pos(646.4,127.67)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.51,0:01:55.55,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,165.28,1102.47,170.28)\pos(642.45,120.28)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.55,0:01:55.59,Title,,0,0,0,,{=107}{\frz0.61\blur0.75\be0\bord0.1\clip(185.38,156.17,1105.38,161.17)\pos(645.36,111.17)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.59,0:01:55.63,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(194.58,153.75,1114.58,158.75)\pos(654.57,108.75)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.63,0:01:55.67,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(194.15,154.43,1114.15,159.43)\pos(654.14,109.43)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.67,0:01:55.71,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(188.27,153.8,1108.27,158.8)\pos(648.27,108.8)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.71,0:01:55.76,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(192.53,152.61,1112.53,157.61)\pos(652.53,107.61)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.76,0:01:55.80,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(188.38,161.55,1108.39,166.55)\pos(648.38,116.55)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.80,0:01:55.84,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(180.05,161.85,1100.05,166.85)\pos(640.04,116.85)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.84,0:01:55.88,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(174.09,155.32,1094.09,160.32)\pos(634.08,110.32)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.88,0:01:55.92,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(179.9,152.61,1099.9,157.61)\pos(639.9,107.61)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.92,0:01:55.97,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(185.95,151.1,1105.95,156.1)\pos(645.94,106.1)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.97,0:01:56.01,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(184.95,152.33,1104.95,157.33)\pos(644.94,107.33)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.01,0:01:56.05,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(187.33,155.69,1107.33,160.68)\pos(647.32,110.69)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.05,0:01:56.09,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(192.72,158.21,1112.72,163.21)\pos(652.71,113.21)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.09,0:01:56.13,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(196.96,161.02,1116.96,166.02)\pos(656.96,116.02)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.13,0:01:56.17,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(190.8,166.4,1110.8,171.4)\pos(650.79,121.4)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.17,0:01:56.22,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(184.35,165.72,1104.35,170.72)\pos(644.35,120.72)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.22,0:01:56.26,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(180.26,158.49,1100.26,163.49)\pos(640.26,113.49)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.26,0:01:56.30,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(183.1,155.9,1103.1,160.9)\pos(643.1,110.9)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.30,0:01:56.34,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(190.73,163.69,1110.73,168.68)\pos(650.73,118.69)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.34,0:01:56.38,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(199.66,167.87,1119.66,172.86)\pos(659.66,122.87)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.38,0:01:56.42,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(188.22,174.47,1108.22,179.46)\pos(648.22,129.46)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.42,0:01:56.47,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(173.67,171.46,1093.67,176.46)\pos(633.67,126.46)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.47,0:01:56.51,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(173.65,162.41,1093.65,167.41)\pos(633.65,117.41)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.51,0:01:56.55,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(184.14,151.13,1104.14,156.13)\pos(644.14,106.13)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.55,0:01:56.59,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(188.6,159.73,1108.61,164.73)\pos(648.61,114.73)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.59,0:01:56.63,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(186.85,172.81,1106.85,177.81)\pos(646.85,127.81)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.63,0:01:56.67,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,164.98,1102.47,169.98)\pos(642.47,119.98)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.67,0:01:56.72,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(185.49,155.97,1105.49,160.97)\pos(645.5,110.97)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.72,0:01:56.76,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(194.82,153.86,1114.82,158.86)\pos(654.82,108.86)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.76,0:01:56.80,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(193.92,154.49,1113.92,159.49)\pos(653.92,109.49)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.80,0:01:56.84,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(188.2,153.75,1108.2,158.74)\pos(648.2,108.75)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.84,0:01:56.88,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(192.68,152.77,1112.68,157.77)\pos(652.68,107.77)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.88,0:01:56.92,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(188.13,161.76,1108.13,166.76)\pos(648.13,116.76)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.92,0:01:56.97,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(179.88,161.74,1099.88,166.74)\pos(639.88,116.74)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.97,0:01:57.01,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(174.07,155.25,1094.07,160.25)\pos(634.06,110.25)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.01,0:01:57.05,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(180.24,152.78,1100.24,157.78)\pos(640.24,107.78)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.05,0:01:57.09,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(185.73,153.28,1105.73,158.28)\pos(645.73,108.28)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.09,0:01:57.13,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(184.97,155.9,1104.97,160.9)\pos(644.98,110.9)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.13,0:01:57.17,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(185.53,158.27,1105.53,163.26)\pos(645.53,113.27)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.17,0:01:57.22,Title,,0,0,0,,{=107}{\frz0.6\blur0.75\be0\bord0.1\clip(185,159,1105,164)\pos(645,114)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.42,0:01:55.46,Title,,0,0,0,,{=106}{\frz0.67\blur0.75\be0\bord0.1\clip(187.68,164.05,1107.68,169.05)\pos(647.42,114.06)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.46,0:01:55.51,Title,,0,0,0,,{=106}{\frz0.64\blur0.75\be0\bord0.1\clip(186.53,177.66,1106.53,182.66)\pos(646.4,127.67)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.51,0:01:55.55,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,170.28,1102.47,175.28)\pos(642.45,120.28)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.55,0:01:55.59,Title,,0,0,0,,{=106}{\frz0.61\blur0.75\be0\bord0.1\clip(185.38,161.17,1105.38,166.17)\pos(645.36,111.17)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.59,0:01:55.63,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(194.58,158.75,1114.58,163.75)\pos(654.57,108.75)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.63,0:01:55.67,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(194.15,159.43,1114.15,164.43)\pos(654.14,109.43)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.67,0:01:55.71,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(188.27,158.8,1108.27,163.8)\pos(648.27,108.8)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.71,0:01:55.76,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(192.53,157.61,1112.53,162.61)\pos(652.53,107.61)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.76,0:01:55.80,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(188.39,166.55,1108.39,171.55)\pos(648.38,116.55)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.80,0:01:55.84,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(180.05,166.85,1100.05,171.85)\pos(640.04,116.85)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.84,0:01:55.88,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(174.09,160.32,1094.09,165.32)\pos(634.08,110.32)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.88,0:01:55.92,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(179.9,157.61,1099.9,162.61)\pos(639.9,107.61)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.92,0:01:55.97,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(185.95,156.1,1105.95,161.1)\pos(645.94,106.1)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:55.97,0:01:56.01,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(184.95,157.33,1104.95,162.33)\pos(644.94,107.33)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.01,0:01:56.05,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(187.33,160.68,1107.33,165.69)\pos(647.32,110.69)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.05,0:01:56.09,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(192.72,163.21,1112.72,168.21)\pos(652.71,113.21)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.09,0:01:56.13,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(196.96,166.02,1116.96,171.02)\pos(656.96,116.02)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.13,0:01:56.17,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(190.8,171.4,1110.8,176.4)\pos(650.79,121.4)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.17,0:01:56.22,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(184.35,170.72,1104.35,175.72)\pos(644.35,120.72)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.22,0:01:56.26,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(180.26,163.49,1100.26,168.49)\pos(640.26,113.49)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.26,0:01:56.30,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(183.1,160.9,1103.1,165.9)\pos(643.1,110.9)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.30,0:01:56.34,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(190.73,168.68,1110.73,173.69)\pos(650.73,118.69)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.34,0:01:56.38,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(199.66,172.86,1119.66,177.87)\pos(659.66,122.87)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.38,0:01:56.42,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(188.22,179.46,1108.22,184.46)\pos(648.22,129.46)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.42,0:01:56.47,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(173.67,176.46,1093.67,181.46)\pos(633.67,126.46)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.47,0:01:56.51,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(173.65,167.41,1093.65,172.41)\pos(633.65,117.41)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.51,0:01:56.55,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(184.14,156.13,1104.14,161.13)\pos(644.14,106.13)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.55,0:01:56.59,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(188.6,164.73,1108.61,169.73)\pos(648.61,114.73)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.59,0:01:56.63,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(186.85,177.81,1106.85,182.81)\pos(646.85,127.81)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.63,0:01:56.67,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(182.47,169.98,1102.47,174.98)\pos(642.47,119.98)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.67,0:01:56.72,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(185.49,160.97,1105.49,165.97)\pos(645.5,110.97)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.72,0:01:56.76,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(194.82,158.86,1114.82,163.86)\pos(654.82,108.86)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.76,0:01:56.80,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(193.92,159.49,1113.92,164.49)\pos(653.92,109.49)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.80,0:01:56.84,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(188.2,158.74,1108.2,163.75)\pos(648.2,108.75)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.84,0:01:56.88,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(192.68,157.77,1112.68,162.77)\pos(652.68,107.77)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.88,0:01:56.92,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(188.13,166.76,1108.13,171.76)\pos(648.13,116.76)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.92,0:01:56.97,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(179.88,166.74,1099.88,171.74)\pos(639.88,116.74)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:56.97,0:01:57.01,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(174.07,160.25,1094.07,165.25)\pos(634.06,110.25)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.01,0:01:57.05,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(180.24,157.78,1100.24,162.78)\pos(640.24,107.78)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.05,0:01:57.09,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(185.73,158.28,1105.73,163.28)\pos(645.73,108.28)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.09,0:01:57.13,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(184.97,160.9,1104.97,165.9)\pos(644.98,110.9)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.13,0:01:57.17,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(185.53,163.26,1105.53,168.27)\pos(645.53,113.27)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.17,0:01:57.22,Title,,0,0,0,,{=106}{\frz0.6\blur0.75\be0\bord0.1\clip(185,164,1105,169)\pos(645,114)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:55.42,0:01:55.46,Title,,0,0,0,,{=105}{\frz0.67\bord6\blur0.75\1a&HFF&\pos(647.42,114.06)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:55.46,0:01:55.51,Title,,0,0,0,,{=105}{\frz0.64\bord6\blur0.75\1a&HFF&\pos(646.4,127.67)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:55.51,0:01:55.55,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(642.45,120.28)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:55.55,0:01:55.59,Title,,0,0,0,,{=105}{\frz0.61\bord6\blur0.75\1a&HFF&\pos(645.36,111.17)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:55.59,0:01:55.63,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(654.57,108.75)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:55.63,0:01:55.67,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(654.14,109.43)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:55.67,0:01:55.71,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(648.27,108.8)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:55.71,0:01:55.76,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(652.53,107.61)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:55.76,0:01:55.80,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(648.38,116.55)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:55.80,0:01:55.84,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(640.04,116.85)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:55.84,0:01:55.88,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(634.08,110.32)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:55.88,0:01:55.92,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(639.9,107.61)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:55.92,0:01:55.97,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(645.94,106.1)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:55.97,0:01:56.01,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(644.94,107.33)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.01,0:01:56.05,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(647.32,110.69)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.05,0:01:56.09,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(652.71,113.21)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.09,0:01:56.13,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(656.96,116.02)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.13,0:01:56.17,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(650.79,121.4)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.17,0:01:56.22,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(644.35,120.72)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.22,0:01:56.26,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(640.26,113.49)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.26,0:01:56.30,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(643.1,110.9)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.30,0:01:56.34,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(650.73,118.69)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.34,0:01:56.38,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(659.66,122.87)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.38,0:01:56.42,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(648.22,129.46)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.42,0:01:56.47,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(633.67,126.46)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.47,0:01:56.51,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(633.65,117.41)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.51,0:01:56.55,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(644.14,106.13)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.55,0:01:56.59,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(648.61,114.73)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.59,0:01:56.63,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(646.85,127.81)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.63,0:01:56.67,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(642.47,119.98)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.67,0:01:56.72,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(645.5,110.97)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.72,0:01:56.76,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(654.82,108.86)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.76,0:01:56.80,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(653.92,109.49)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.80,0:01:56.84,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(648.2,108.75)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.84,0:01:56.88,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(652.68,107.77)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.88,0:01:56.92,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(648.13,116.76)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.92,0:01:56.97,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(639.88,116.74)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:56.97,0:01:57.01,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(634.06,110.25)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:57.01,0:01:57.05,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(640.24,107.78)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:57.05,0:01:57.09,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(645.73,108.28)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:57.09,0:01:57.13,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(644.98,110.9)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:57.13,0:01:57.17,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(645.53,113.27)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:57.17,0:01:57.22,Title,,0,0,0,,{=105}{\frz0.6\bord6\blur0.75\1a&HFF&\pos(645,114)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:55.42,0:01:55.46,Title,,0,0,0,,{=104}{\frz0.67\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(647.42,114.06)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:55.46,0:01:55.51,Title,,0,0,0,,{=104}{\frz0.64\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(646.4,127.67)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:55.51,0:01:55.55,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(642.45,120.28)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:55.55,0:01:55.59,Title,,0,0,0,,{=104}{\frz0.61\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(645.36,111.17)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:55.59,0:01:55.63,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(654.57,108.75)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:55.63,0:01:55.67,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(654.14,109.43)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:55.67,0:01:55.71,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(648.27,108.8)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:55.71,0:01:55.76,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(652.53,107.61)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:55.76,0:01:55.80,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(648.38,116.55)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:55.80,0:01:55.84,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(640.04,116.85)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:55.84,0:01:55.88,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(634.08,110.32)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:55.88,0:01:55.92,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(639.9,107.61)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:55.92,0:01:55.97,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(645.94,106.1)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:55.97,0:01:56.01,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(644.94,107.33)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.01,0:01:56.05,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(647.32,110.69)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.05,0:01:56.09,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(652.71,113.21)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.09,0:01:56.13,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(656.96,116.02)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.13,0:01:56.17,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(650.79,121.4)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.17,0:01:56.22,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(644.35,120.72)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.22,0:01:56.26,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(640.26,113.49)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.26,0:01:56.30,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(643.1,110.9)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.30,0:01:56.34,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(650.73,118.69)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.34,0:01:56.38,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(659.66,122.87)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.38,0:01:56.42,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(648.22,129.46)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.42,0:01:56.47,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(633.67,126.46)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.47,0:01:56.51,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(633.65,117.41)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.51,0:01:56.55,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(644.14,106.13)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.55,0:01:56.59,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(648.61,114.73)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.59,0:01:56.63,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(646.85,127.81)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.63,0:01:56.67,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(642.47,119.98)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.67,0:01:56.72,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(645.5,110.97)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.72,0:01:56.76,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(654.82,108.86)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.76,0:01:56.80,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(653.92,109.49)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.80,0:01:56.84,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(648.2,108.75)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.84,0:01:56.88,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(652.68,107.77)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.88,0:01:56.92,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(648.13,116.76)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.92,0:01:56.97,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(639.88,116.74)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:56.97,0:01:57.01,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(634.06,110.25)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:57.01,0:01:57.05,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(640.24,107.78)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:57.05,0:01:57.09,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(645.73,108.28)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:57.09,0:01:57.13,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(644.98,110.9)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:57.13,0:01:57.17,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(645.53,113.27)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:57.17,0:01:57.22,Title,,0,0,0,,{=104}{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(645,114)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.22,0:02:02.22,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,114,1105,119)\pos(645,114)\1c&HFF5FAF&\3c&HFF5FAF&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.22,0:02:02.22,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,119,1105,124)\pos(645,114)\1c&HF85EB1&\3c&HF85EB1&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.22,0:02:02.22,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,124,1105,129)\pos(645,114)\1c&HF15FB3&\3c&HF15FB3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.22,0:02:02.22,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,129,1105,134)\pos(645,114)\1c&HE666C2&\3c&HE666C2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.22,0:02:02.22,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,134,1105,139)\pos(645,114)\1c&HDB6CD2&\3c&HDB6CD2&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.22,0:02:02.22,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,139,1105,144)\pos(645,114)\1c&HCA74E4&\3c&HCA74E4&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.22,0:02:02.22,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,144,1105,149)\pos(645,114)\1c&HBC7AF3&\3c&HBC7AF3&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.22,0:02:02.22,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,149,1105,154)\pos(645,114)\1c&HB57CF9&\3c&HB57CF9&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.22,0:02:02.22,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,154,1105,159)\pos(645,114)\1c&HB280FD&\3c&HB280FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.22,0:02:02.22,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,159,1105,164)\pos(645,114)\1c&HB687FD&\3c&HB687FD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:57.22,0:02:02.22,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,164,1105,169)\pos(645,114)\1c&HB88BFD&\3c&HB88BFD&}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:01:57.22,0:02:02.22,Title,,0,0,0,,{\frz0.6\bord6\blur0.75\1a&HFF&\pos(645,114)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:01:57.22,0:02:02.22,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(645,114)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:02:02.22,0:02:03.18,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,114,1105,119)\pos(645,114)\1c&HFF5FAF&\3c&HFF5FAF&\t(\1c&HFFFFFF&\3c&HFFFFFF&)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:02:02.22,0:02:03.18,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,119,1105,124)\pos(645,114)\1c&HF85EB1&\3c&HF85EB1&\t(\1c&HFFFFFF&\3c&HFFFFFF&)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:02:02.22,0:02:03.18,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,124,1105,129)\pos(645,114)\1c&HF15FB3&\3c&HF15FB3&\t(\1c&HFFFFFF&\3c&HFFFFFF&)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:02:02.22,0:02:03.18,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,129,1105,134)\pos(645,114)\1c&HE666C2&\3c&HE666C2&\t(\1c&HFFFFFF&\3c&HFFFFFF&)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:02:02.22,0:02:03.18,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,134,1105,139)\pos(645,114)\1c&HDB6CD2&\3c&HDB6CD2&\t(\1c&HFFFFFF&\3c&HFFFFFF&)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:02:02.22,0:02:03.18,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,139,1105,144)\pos(645,114)\1c&HCA74E4&\3c&HCA74E4&\t(\1c&HFFFFFF&\3c&HFFFFFF&)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:02:02.22,0:02:03.18,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,144,1105,149)\pos(645,114)\1c&HBC7AF3&\3c&HBC7AF3&\t(\1c&HFFFFFF&\3c&HFFFFFF&)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:02:02.22,0:02:03.18,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,149,1105,154)\pos(645,114)\1c&HB57CF9&\3c&HB57CF9&\t(\1c&HFFFFFF&\3c&HFFFFFF&)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:02:02.22,0:02:03.18,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,154,1105,159)\pos(645,114)\1c&HB280FD&\3c&HB280FD&\t(\1c&HFFFFFF&\3c&HFFFFFF&)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:02:02.22,0:02:03.18,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,159,1105,164)\pos(645,114)\1c&HB687FD&\3c&HB687FD&\t(\1c&HFFFFFF&\3c&HFFFFFF&)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:02:02.22,0:02:03.18,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\be0\bord0.1\clip(185,164,1105,169)\pos(645,114)\1c&HB88BFD&\3c&HB88BFD&\t(\1c&HFFFFFF&\3c&HFFFFFF&)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 1,0:02:02.22,0:02:03.18,Title,,0,0,0,,{\frz0.6\bord6\blur0.75\1a&HFF&\pos(645,114)\t(\1c&HFFFFFF&\3c&HFFFFFF&)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 0,0:02:02.22,0:02:03.18,Title,,0,0,0,,{\frz0.6\bord12\blur0.75\1a&HFF&\3c&H000000&\pos(645,114)\t(\1c&HFFFFFF&\3c&HFFFFFF&)}Quiero que mis pervertidas hermanas me expriman
+Dialogue: 2,0:01:58.22,0:01:58.26,Episode Title6,,0,0,0,,{=168}{\q2\blur1\be\c&HAD83F3&\3c&HAD83F3&\bord0.1\alpha&H06&\pos(645.25,666)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.22,0:01:58.26,Episode Title6,,0,0,0,,{=167}{\q2\blur1\bord3.6\1a&HFF&\alpha&H45&\pos(645.25,666)\blur5}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.22,0:01:58.26,Episode Title6,,0,0,0,,{=166}{\q2\blur1\bord8.1\1a&HFF&\3c&H000000&\alpha&H45&\pos(645.25,666)\blur5}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.26,0:01:58.30,Episode Title5,,0,0,0,,{=168}{\q2\blur1\be\c&HAD83F3&\3c&HAD83F3&\bord0.1\alpha&H06&\pos(645.25,636)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.26,0:01:58.30,Episode Title5,,0,0,0,,{=167}{\q2\blur1\bord3.6\1a&HFF&\alpha&H45&\pos(645.25,636)\blur4}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.26,0:01:58.30,Episode Title5,,0,0,0,,{=166}{\q2\blur1\bord8.1\1a&HFF&\3c&H000000&\alpha&H45&\pos(645.25,636)\blur4}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.30,0:01:58.34,Episode Title4,,0,0,0,,{=168}{\q2\blur1\be\c&HAD83F3&\3c&HAD83F3&\bord0.1\alpha&H06&\pos(645.25,617.5)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.30,0:01:58.34,Episode Title4,,0,0,0,,{=167}{\q2\blur1\bord3.6\1a&HFF&\alpha&H45&\pos(645.25,617.5)\blur3}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.30,0:01:58.34,Episode Title4,,0,0,0,,{=166}{\q2\blur1\bord8.1\1a&HFF&\3c&H000000&\alpha&H45&\pos(645.25,617.5)\blur3}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.34,0:01:58.38,Episode Title3,,0,0,0,,{=168}{\q2\blur1\be\c&HAD83F3&\3c&HAD83F3&\bord0.1\alpha&H06&\pos(645.25,608.353)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.34,0:01:58.38,Episode Title3,,0,0,0,,{=167}{\q2\blur1\bord3.6\1a&HFF&\alpha&H45&\blur3\pos(645.25,608.353)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.34,0:01:58.38,Episode Title3,,0,0,0,,{=166}{\q2\blur1\bord8.1\1a&HFF&\3c&H000000&\alpha&H45&\blur3\pos(645.25,608.353)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.38,0:01:58.43,Episode Title2,,0,0,0,,{=168}{\q2\blur1\be\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(645.25,600.353)\alpha&H06&}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.38,0:01:58.43,Episode Title2,,0,0,0,,{\q2\blur1\bord3.6\1a&HFF&\pos(645.25,600.353)\alpha&H45&}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.38,0:01:58.43,Episode Title2,,0,0,0,,{=166}{\q2\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(645.25,600.353)\alpha&H45&}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.43,0:01:58.47,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(645.25,603.02)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.47,0:01:58.51,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(641.24,595.7)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.51,0:01:58.55,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(644.45,593.6)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.55,0:01:58.59,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(652.38,601.61)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.59,0:01:58.63,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(660.52,605.38)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.63,0:01:58.68,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(648.22,612.01)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.68,0:01:58.72,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(634.04,608.22)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.72,0:01:58.76,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(635.15,598.89)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.76,0:01:58.80,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(645.41,587.97)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.80,0:01:58.84,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(649.52,597.73)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.84,0:01:58.88,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(647.4,609.74)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.88,0:01:58.93,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(643.28,601.21)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.93,0:01:58.97,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(646.53,592.33)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:58.97,0:01:59.01,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(655.98,590.73)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.01,0:01:59.05,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(654.13,591.21)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.05,0:01:59.09,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(648.82,590.2)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.09,0:01:59.14,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(653.57,589.64)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.14,0:01:59.18,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(648.12,598.7)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.18,0:01:59.22,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(640.11,597.82)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.22,0:01:59.26,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(634.63,591.35)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.26,0:01:59.30,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(641.08,588.92)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.30,0:01:59.34,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(646.58,587.36)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.34,0:01:59.39,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(645.37,588.84)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.39,0:01:59.43,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(648.09,592)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.43,0:01:59.47,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(653.59,594.48)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.47,0:01:59.51,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(657.29,597.36)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.51,0:01:59.55,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(650.38,602.74)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.55,0:01:59.59,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(644.38,601.1)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.59,0:01:59.64,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(640.54,593.81)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.64,0:01:59.68,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(643.86,591.95)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.68,0:01:59.72,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(651.95,600.12)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.72,0:01:59.76,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(659.69,603.78)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.76,0:01:59.80,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(647.06,610.43)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.80,0:01:59.84,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(633.07,606.36)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.84,0:01:59.89,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(634.73,596.93)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.89,0:01:59.93,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(644.89,586.29)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.93,0:01:59.97,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(648.86,596.57)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:01:59.97,0:02:00.01,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(646.57,608.1)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:02:00.01,0:02:00.05,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(642.7,599.07)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:02:00.05,0:02:00.09,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(645.74,591.6)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:02:00.09,0:02:00.14,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(649.81,591.86)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:02:00.14,0:02:00.18,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(646.68,593.14)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:02:00.18,0:02:00.22,Episode Title,,0,0,0,,{=168}{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(645,594)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.43,0:01:58.47,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(645.25,603.02)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.47,0:01:58.51,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(641.24,595.7)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.51,0:01:58.55,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(644.45,593.6)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.55,0:01:58.59,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(652.38,601.61)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.59,0:01:58.63,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(660.52,605.38)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.63,0:01:58.68,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(648.22,612.01)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.68,0:01:58.72,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(634.04,608.22)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.72,0:01:58.76,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(635.15,598.89)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.76,0:01:58.80,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(645.41,587.97)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.80,0:01:58.84,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(649.52,597.73)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.84,0:01:58.88,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(647.4,609.74)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.88,0:01:58.93,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(643.28,601.21)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.93,0:01:58.97,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(646.53,592.33)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:58.97,0:01:59.01,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(655.98,590.73)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.01,0:01:59.05,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(654.13,591.21)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.05,0:01:59.09,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(648.82,590.2)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.09,0:01:59.14,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(653.57,589.64)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.14,0:01:59.18,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(648.12,598.7)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.18,0:01:59.22,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(640.11,597.82)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.22,0:01:59.26,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(634.63,591.35)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.26,0:01:59.30,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(641.08,588.92)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.30,0:01:59.34,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(646.58,587.36)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.34,0:01:59.39,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(645.37,588.84)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.39,0:01:59.43,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(648.09,592)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.43,0:01:59.47,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(653.59,594.48)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.47,0:01:59.51,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(657.29,597.36)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.51,0:01:59.55,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(650.38,602.74)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.55,0:01:59.59,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(644.38,601.1)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.59,0:01:59.64,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(640.54,593.81)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.64,0:01:59.68,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(643.86,591.95)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.68,0:01:59.72,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(651.95,600.12)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.72,0:01:59.76,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(659.69,603.78)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.76,0:01:59.80,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(647.06,610.43)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.80,0:01:59.84,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(633.07,606.36)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.84,0:01:59.89,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(634.73,596.93)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.89,0:01:59.93,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(644.89,586.29)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.93,0:01:59.97,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(648.86,596.57)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:01:59.97,0:02:00.01,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(646.57,608.1)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:02:00.01,0:02:00.05,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(642.7,599.07)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:02:00.05,0:02:00.09,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(645.74,591.6)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:02:00.09,0:02:00.14,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(649.81,591.86)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:02:00.14,0:02:00.18,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(646.68,593.14)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:02:00.18,0:02:00.22,Episode Title,,0,0,0,,{=167}{\blur1\bord3.6\1a&HFF&\pos(645,594)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.43,0:01:58.47,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(645.25,603.02)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.47,0:01:58.51,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(641.24,595.7)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.51,0:01:58.55,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(644.45,593.6)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.55,0:01:58.59,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(652.38,601.61)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.59,0:01:58.63,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(660.52,605.38)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.63,0:01:58.68,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(648.22,612.01)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.68,0:01:58.72,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(634.04,608.22)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.72,0:01:58.76,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(635.15,598.89)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.76,0:01:58.80,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(645.41,587.97)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.80,0:01:58.84,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(649.52,597.73)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.84,0:01:58.88,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(647.4,609.74)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.88,0:01:58.93,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(643.28,601.21)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.93,0:01:58.97,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(646.53,592.33)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:58.97,0:01:59.01,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(655.98,590.73)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.01,0:01:59.05,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(654.13,591.21)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.05,0:01:59.09,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(648.82,590.2)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.09,0:01:59.14,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(653.57,589.64)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.14,0:01:59.18,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(648.12,598.7)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.18,0:01:59.22,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(640.11,597.82)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.22,0:01:59.26,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(634.63,591.35)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.26,0:01:59.30,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(641.08,588.92)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.30,0:01:59.34,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(646.58,587.36)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.34,0:01:59.39,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(645.37,588.84)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.39,0:01:59.43,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(648.09,592)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.43,0:01:59.47,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(653.59,594.48)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.47,0:01:59.51,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(657.29,597.36)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.51,0:01:59.55,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(650.38,602.74)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.55,0:01:59.59,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(644.38,601.1)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.59,0:01:59.64,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(640.54,593.81)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.64,0:01:59.68,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(643.86,591.95)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.68,0:01:59.72,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(651.95,600.12)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.72,0:01:59.76,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(659.69,603.78)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.76,0:01:59.80,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(647.06,610.43)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.80,0:01:59.84,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(633.07,606.36)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.84,0:01:59.89,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(634.73,596.93)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.89,0:01:59.93,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(644.89,586.29)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.93,0:01:59.97,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(648.86,596.57)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:01:59.97,0:02:00.01,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(646.57,608.1)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:02:00.01,0:02:00.05,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(642.7,599.07)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:02:00.05,0:02:00.09,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(645.74,591.6)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:02:00.09,0:02:00.14,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(649.81,591.86)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:02:00.14,0:02:00.18,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(646.68,593.14)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:02:00.18,0:02:00.22,Episode Title,,0,0,0,,{=166}{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(645,594)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:02:00.22,0:02:02.22,Episode Title,,0,0,0,,{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(645,594)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:02:00.22,0:02:02.22,Episode Title,,0,0,0,,{\blur1\bord3.6\1a&HFF&\pos(645,594)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:02:00.22,0:02:02.22,Episode Title,,0,0,0,,{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(645,594)}Exprimiendo a las hermanas con amor
+Dialogue: 2,0:02:02.22,0:02:03.18,Episode Title,,0,0,0,,{\blur1\c&HAD83F3&\3c&HAD83F3&\bord0.1\pos(645,594)\t(\1c&HFFFFFF&\3c&HFFFFFF&)}Exprimiendo a las hermanas con amor
+Dialogue: 1,0:02:02.22,0:02:03.18,Episode Title,,0,0,0,,{\blur1\bord3.6\1a&HFF&\pos(645,594)\t(\1c&HFFFFFF&\3c&HFFFFFF&)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:02:02.22,0:02:03.18,Episode Title,,0,0,0,,{\blur1\bord8.1\1a&HFF&\3c&H000000&\pos(645,594)\t(\1c&HFFFFFF&\3c&HFFFFFF&)}Exprimiendo a las hermanas con amor
+Dialogue: 0,0:00:01.76,0:00:04.74,Default,,0,0,0,,{\i1}Es el verano de mi primer año viviendo en el dormitorio de la escuela.
+Dialogue: 0,0:00:06.22,0:00:09.94,Default,,0,0,0,,{\i1}Quienes esperan mi regreso\N a la casa de nuestra familia
+Dialogue: 0,0:00:10.37,0:00:14.78,Default,,0,0,0,,{\i1}son mis amadas y pervertidas\N hermanas mayores.
+Dialogue: 0,0:00:16.10,0:00:18.33,Default,,0,0,0,,{\i1}Ella es Ayami, la mayor.
 Dialogue: 0,0:00:18.33,0:00:20.47,Default,,0,0,0,,{\i1}Es una chica relajada y agradable,
 Dialogue: 0,0:00:20.47,0:00:24.82,Default,,0,0,0,,{\i1}pero tiene una feromona tan potente que le provoca una erección a cualquier hombre.
-Dialogue: 0,0:00:24.82,0:00:27.37,Default,,0,0,0,,¡Bienvenido a casa, Boku!
-Dialogue: 0,0:00:28.71,0:00:30.28,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:00:24.82,0:00:27.46,Default,,0,0,0,,¡Bienvenido a casa, Boku!
+Dialogue: 0,0:00:28.69,0:00:30.28,Default,,0,0,0,,¿Qué pasa?
 Dialogue: 0,0:00:30.28,0:00:32.55,Default,,0,0,0,,¿Estás cansado por el viaje?
-Dialogue: 0,0:00:32.55,0:00:35.98,Default,,0,0,0,,E-Estoy bien. \NPondré mi equipaje en mi habitación.
-Dialogue: 0,0:00:38.35,0:00:39.60,Default,,0,0,0,,¿Eh?
-Dialogue: 0,0:00:39.60,0:00:41.39,Default,,0,0,0,,Conque volviste.
-Dialogue: 0,0:00:42.42,0:00:44.66,Default,,0,0,0,,{\i1}Ella es Megumi, la menor.
+Dialogue: 0,0:00:32.55,0:00:36.00,Default,,0,0,0,,E-Estoy bien. \NPondré mi equipaje en mi habitación.
+Dialogue: 0,0:00:38.33,0:00:39.60,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:00:39.60,0:00:41.47,Default,,0,0,0,,Conque volviste.
+Dialogue: 0,0:00:42.40,0:00:44.66,Default,,0,0,0,,{\i1}Ella es Megumi, la menor.
 Dialogue: 0,0:00:44.66,0:00:46.76,Default,,0,0,0,,{\i1}Es una zorrita, tal y como luce.
 Dialogue: 0,0:00:46.76,0:00:49.52,Default,,0,0,0,,{\i1}Tengo a estas dos \Ncomo hermanas mayores.
-Dialogue: 0,0:00:49.52,0:00:53.39,Default,,0,0,0,,{\i1}Para un virgen como yo, la\N verdad son como... tentaciones.
-Dialogue: 0,0:00:54.19,0:00:57.93,Default,,0,0,0,,Oye, ¿qué miras?
-Dialogue: 0,0:00:57.93,0:00:59.40,Default,,0,0,0,,¡N-Nada!
-Dialogue: 0,0:00:59.40,0:01:01.44,Default,,0,0,0,,¡Qué gracioso!
+Dialogue: 0,0:00:49.52,0:00:53.49,Default,,0,0,0,,{\i1}Para un virgen como yo, \Nla verdad son como... tentaciones.
+Dialogue: 0,0:00:54.17,0:00:57.93,Default,,0,0,0,,Oye, ¿qué miras?
+Dialogue: 0,0:00:57.93,0:00:59.49,Default,,0,0,0,,¡N-Nada!
+Dialogue: 0,0:00:59.49,0:01:01.44,Default,,0,0,0,,¡Qué gracioso!
 Dialogue: 0,0:01:01.44,0:01:05.63,Default,,0,0,0,,¿Estás mirando los pantis de tu hermana mayor solo porque eres virgen?
-Dialogue: 0,0:01:05.63,0:01:07.41,Default,,0,0,0,,¡N-N-No soy virgen!
-Dialogue: 0,0:01:09.51,0:01:11.92,Default,,0,0,0,,Si tanto quieres verlos...
-Dialogue: 0,0:01:12.74,0:01:14.76,Default,,0,0,0,,¡Te los mostraré!
+Dialogue: 0,0:01:05.63,0:01:07.50,Default,,0,0,0,,¡N-N-No soy virgen!
+Dialogue: 0,0:01:09.49,0:01:12.00,Default,,0,0,0,,Si tanto quieres verlos...
+Dialogue: 0,0:01:12.72,0:01:14.76,Default,,0,0,0,,¡Te los mostraré!
 Dialogue: 0,0:01:14.76,0:01:17.00,Default,,0,0,0,,Qué remedio...
-Dialogue: 0,0:01:17.00,0:01:18.42,Default,,0,0,0,,¡¿Eh?!
-Dialogue: 0,0:01:18.73,0:01:21.56,Default,,0,0,0,,¿Qué te parece? \N¿Te estás excitando?
+Dialogue: 0,0:01:17.00,0:01:18.51,Default,,0,0,0,,¡¿Eh?!
+Dialogue: 0,0:01:18.68,0:01:21.56,Default,,0,0,0,,¿Qué te parece? \N¿Te estás excitando?
 Dialogue: 0,0:01:21.56,0:01:25.19,Default,,0,0,0,,¡Mira, esta parte es blanda!
-Dialogue: 0,0:01:25.19,0:01:27.83,Default,,0,0,0,,{\i1}Así que esa es la...
-Dialogue: 0,0:01:29.11,0:01:32.61,Default,,0,0,0,,{\i1}Vaya... ¡se quedó boquiabierto!
-Dialogue: 0,0:01:32.61,0:01:35.14,Default,,0,0,0,,{\i1}Podría correrme un poco por esto...
-Dialogue: 0,0:01:36.75,0:01:38.44,Default,,0,0,0,,¡Boku!
-Dialogue: 0,0:01:38.78,0:01:41.80,Default,,0,0,0,,{\i1}¡Alguien se interpone en mi camino!
-Dialogue: 0,0:01:41.80,0:01:45.02,Default,,0,0,0,,¡Ven aquí después de\N guardar tu equipaje!
-Dialogue: 0,0:01:46.97,0:01:50.93,Default,,0,0,0,,Me pregunto si podré resistir...
-Dialogue: 0,0:01:50.93,0:01:52.95,Default,,0,0,0,,los avances de mis hermanas.
-Dialogue: 2,0:01:57.08,0:02:03.09,Title,,0,0,0,,{\fad(300,976)\frz1.5\blur0.5\c&HF34E97&\pos(368.064,61)}Quiero que mis pervertidas hermanas me expriman{\fnArial}♥
-Dialogue: 1,0:01:57.08,0:02:03.09,Title,,0,0,0,,{\fad(300,976)\frz1.5\bord4\blur0.5\1a&HFF&\pos(368.064,61)}Quiero que mis pervertidas hermanas me expriman{\fnArial}♥
-Dialogue: 0,0:01:57.08,0:02:03.09,Title,,0,0,0,,{\fad(300,976)\frz1.5\bord8\blur0.5\1a&HFF&\3c&H000000&\pos(368.064,61)}Quiero que mis pervertidas hermanas me expriman{\fnArial}♥
-Dialogue: 2,0:02:00.09,0:02:03.09,Episode Title,,0,0,0,,{\fad(300,976)\pos(360,406)\blur0.5}Exprimiendo a las hermanas con amor
-Dialogue: 1,0:02:00.09,0:02:03.09,Episode Title,,0,0,0,,{\fad(300,976)\pos(360,406)\bord2.5\blur0.5\1a&HFF&}Exprimiendo a las hermanas con amor
-Dialogue: 0,0:02:00.09,0:02:03.09,Episode Title,,0,0,0,,{\fad(300,976)\pos(360,406)\bord5.5\blur0.5\1a&HFF&\3c&H000000&}Exprimiendo a las hermanas con amor
-Dialogue: 0,0:02:04.51,0:02:06.85,Default,,0,0,0,,¿Qué pasa, Boku?
+Dialogue: 0,0:01:25.19,0:01:27.85,Default,,0,0,0,,{\i1}Así que esa es la...
+Dialogue: 0,0:01:29.02,0:01:32.61,Default,,0,0,0,,{\i1}Vaya... ¡se quedó boquiabierto!
+Dialogue: 0,0:01:32.61,0:01:35.16,Default,,0,0,0,,{\i1}Podría correrme un poco por esto...
+Dialogue: 0,0:01:36.73,0:01:38.53,Default,,0,0,0,,¡Boku!
+Dialogue: 0,0:01:38.73,0:01:41.80,Default,,0,0,0,,{\i1}¡Alguien se interpone en mi camino!
+Dialogue: 0,0:01:41.80,0:01:45.04,Default,,0,0,0,,¡Ven aquí después de\N guardar tu equipaje!
+Dialogue: 0,0:01:46.95,0:01:50.93,Default,,0,0,0,,Me pregunto si podré resistir...
+Dialogue: 0,0:01:50.93,0:01:53.05,Default,,0,0,0,,los avances de mis hermanas.
+Dialogue: 0,0:02:04.49,0:02:06.85,Default,,0,0,0,,¿Qué pasa, Boku?
 Dialogue: 0,0:02:06.85,0:02:09.93,Default,,0,0,0,,¿Megu te andaba molestando de nuevo?
-Dialogue: 0,0:02:09.93,0:02:12.59,Default,,0,0,0,,Uh... bueno...
-Dialogue: 0,0:02:13.41,0:02:16.28,Default,,0,0,0,,¿Eh? ¿Pantis?
-Dialogue: 0,0:02:17.85,0:02:20.11,Default,,0,0,0,,Conque Megu hizo eso...
-Dialogue: 0,0:02:20.85,0:02:22.05,Default,,0,0,0,,Oye...
+Dialogue: 0,0:02:09.93,0:02:12.69,Default,,0,0,0,,Uh... bueno...
+Dialogue: 0,0:02:13.39,0:02:16.30,Default,,0,0,0,,¿Eh? ¿Pantis?
+Dialogue: 0,0:02:17.83,0:02:20.20,Default,,0,0,0,,Conque Megu hizo eso...
+Dialogue: 0,0:02:20.83,0:02:22.05,Default,,0,0,0,,Oye...
 Dialogue: 0,0:02:22.05,0:02:25.77,Default,,0,0,0,,¿quieres ver mis pantis también?
-Dialogue: 0,0:02:25.77,0:02:27.61,Default,,0,0,0,,¿Eh? ¿Puedo?
-Dialogue: 0,0:02:27.61,0:02:29.70,Default,,0,0,0,,¡Pero lo siento!
+Dialogue: 0,0:02:25.77,0:02:27.71,Default,,0,0,0,,¿Eh? ¿Puedo?
+Dialogue: 0,0:02:27.71,0:02:29.70,Default,,0,0,0,,¡Pero lo siento!
 Dialogue: 0,0:02:29.70,0:02:33.37,Default,,0,0,0,,¡No estoy usando!
-Dialogue: 0,0:02:33.37,0:02:34.98,Default,,0,0,0,,¡¿Eh?!
-Dialogue: 0,0:02:36.54,0:02:39.55,Default,,0,0,0,,C-Conque esta es una vagina...
-Dialogue: 0,0:02:41.20,0:02:43.88,Default,,0,0,0,,¿Y bien? ¿Te sorprendió?
-Dialogue: 0,0:02:44.71,0:02:49.60,Default,,0,0,0,,{\i1}Oh... ¡Boku se excitó al verme!
-Dialogue: 0,0:02:50.89,0:02:53.97,Default,,0,0,0,,Hoy es un día especial, así que...
-Dialogue: 0,0:02:55.77,0:03:00.53,Default,,0,0,0,,¡Ven, puedes tocar mis pechos!
-Dialogue: 0,0:03:01.45,0:03:04.39,Default,,0,0,0,,Los pechos de Aya...
-Dialogue: 0,0:03:12.18,0:03:16.26,Default,,0,0,0,,¿Se sienten bien al tacto?
-Dialogue: 0,0:03:16.26,0:03:19.84,Default,,0,0,0,,Son geniales...\N Es la primera vez que los toco...
-Dialogue: 0,0:03:20.45,0:03:21.38,Default,,0,0,0,,Oh, vaya...
-Dialogue: 0,0:03:22.38,0:03:26.32,Default,,0,0,0,,Boku, también estás duro aquí...
-Dialogue: 0,0:03:26.32,0:03:29.38,Default,,0,0,0,,¡Desprende un olor muy lascivo!
-Dialogue: 0,0:03:29.86,0:03:32.30,Default,,0,0,0,,Si no se lo dices a Megu,
+Dialogue: 0,0:02:33.37,0:02:35.00,Default,,0,0,0,,¡¿Eh?!
+Dialogue: 0,0:02:36.52,0:02:39.57,Default,,0,0,0,,C-Conque esta es una vagina...
+Dialogue: 0,0:02:41.18,0:02:43.97,Default,,0,0,0,,¿Y bien? ¿Te sorprendió?
+Dialogue: 0,0:02:44.69,0:02:49.62,Default,,0,0,0,,{\i1}Oh... ¡Boku se excitó al verme!
+Dialogue: 0,0:02:50.87,0:02:53.99,Default,,0,0,0,,Hoy es un día especial, así que...
+Dialogue: 0,0:02:55.75,0:03:00.55,Default,,0,0,0,,¡Ven, puedes tocar mis pechos!
+Dialogue: 0,0:03:01.43,0:03:04.49,Default,,0,0,0,,Los pechos de Aya...
+Dialogue: 0,0:03:12.16,0:03:16.26,Default,,0,0,0,,¿Se sienten bien al tacto?
+Dialogue: 0,0:03:16.26,0:03:19.86,Default,,0,0,0,,Son geniales...\N Es la primera vez que los toco...
+Dialogue: 0,0:03:20.43,0:03:21.47,Default,,0,0,0,,Oh, vaya...
+Dialogue: 0,0:03:22.36,0:03:26.32,Default,,0,0,0,,Boku, también estás duro aquí...
+Dialogue: 0,0:03:26.32,0:03:29.48,Default,,0,0,0,,¡Desprende un olor muy lascivo!
+Dialogue: 0,0:03:29.84,0:03:32.30,Default,,0,0,0,,Si no se lo dices a Megu,
 Dialogue: 0,0:03:32.30,0:03:34.64,Default,,0,0,0,,haré algo más sorprendente para ti.
-Dialogue: 0,0:03:34.64,0:03:36.06,Default,,0,0,0,,B-Bien...
-Dialogue: 0,0:03:37.56,0:03:38.90,Default,,0,0,0,,¡Buen chico!
-Dialogue: 0,0:03:44.93,0:03:47.54,Default,,0,0,0,,¡Vaya, es asombroso!
-Dialogue: 0,0:03:47.54,0:03:49.36,Default,,0,0,0,,¡Estás espléndido aquí abajo!
-Dialogue: 0,0:03:50.65,0:03:53.28,Default,,0,0,0,,Emana un fuerte olor masculino.
-Dialogue: 0,0:03:53.28,0:03:55.65,Default,,0,0,0,,Me hace sentir mareada...
-Dialogue: 0,0:03:57.81,0:03:59.24,Default,,0,0,0,,Muy bien...
-Dialogue: 0,0:03:59.24,0:04:02.38,Default,,0,0,0,,Voy a frotarlo con las manos.
-Dialogue: 0,0:04:03.22,0:04:06.89,Default,,0,0,0,,¡Vaya, se puso muy caliente!
+Dialogue: 0,0:03:34.64,0:03:36.08,Default,,0,0,0,,B-Bien...
+Dialogue: 0,0:03:37.54,0:03:39.03,Default,,0,0,0,,¡Buen chico!
+Dialogue: 0,0:03:44.91,0:03:47.54,Default,,0,0,0,,¡Vaya, es asombroso!
+Dialogue: 0,0:03:47.54,0:03:49.45,Default,,0,0,0,,¡Estás espléndido aquí abajo!
+Dialogue: 0,0:03:50.63,0:03:53.28,Default,,0,0,0,,Emana un fuerte olor masculino.
+Dialogue: 0,0:03:53.28,0:03:55.67,Default,,0,0,0,,Me hace sentir mareada...
+Dialogue: 0,0:03:57.79,0:03:59.24,Default,,0,0,0,,Muy bien...
+Dialogue: 0,0:03:59.24,0:04:02.47,Default,,0,0,0,,Voy a frotarlo con las manos.
+Dialogue: 0,0:04:03.20,0:04:06.89,Default,,0,0,0,,¡Vaya, se puso muy caliente!
 Dialogue: 0,0:04:06.89,0:04:09.57,Default,,0,0,0,,¡Es tan duro y genial!
 Dialogue: 0,0:04:09.57,0:04:12.23,Default,,0,0,0,,Me pregunto si hubo \Nocasiones en que me usaste
-Dialogue: 0,0:04:12.23,0:04:15.80,Default,,0,0,0,,como material para masturbarte.
-Dialogue: 0,0:04:15.80,0:04:18.96,Default,,0,0,0,,Lo siento, sí lo hice...
-Dialogue: 0,0:04:19.87,0:04:21.50,Default,,0,0,0,,¡Ya veo!
-Dialogue: 0,0:04:21.50,0:04:24.77,Default,,0,0,0,,Fantasear está bien, \N¿pero no es genial en la vida real?
-Dialogue: 0,0:04:27.45,0:04:30.48,Default,,0,0,0,,Lamerlo y tocarte así...
-Dialogue: 0,0:04:31.28,0:04:34.40,Default,,0,0,0,,El olor y también el sabor...
-Dialogue: 0,0:04:37.32,0:04:39.33,Default,,0,0,0,,Oye, besémonos.
-Dialogue: 0,0:04:39.33,0:04:40.71,Default,,0,0,0,,Aya...
-Dialogue: 0,0:04:53.08,0:04:57.09,Default,,0,0,0,,¿Está por salir? ¿Ya vas a liberarlo?
-Dialogue: 0,0:04:58.62,0:05:01.54,Default,,0,0,0,,¡Está bien! ¡Vamos, Boku!
+Dialogue: 0,0:04:12.23,0:04:15.90,Default,,0,0,0,,como material para masturbarte.
+Dialogue: 0,0:04:15.90,0:04:18.98,Default,,0,0,0,,Lo siento, sí lo hice...
+Dialogue: 0,0:04:19.85,0:04:21.50,Default,,0,0,0,,¡Ya veo!
+Dialogue: 0,0:04:21.50,0:04:24.91,Default,,0,0,0,,Fantasear está bien, \N¿pero no es genial en la vida real?
+Dialogue: 0,0:04:27.43,0:04:30.50,Default,,0,0,0,,Lamerlo y tocarte así...
+Dialogue: 0,0:04:31.41,0:04:34.42,Default,,0,0,0,,El olor y también el sabor...
+Dialogue: 0,0:04:37.30,0:04:39.33,Default,,0,0,0,,Oye, besémonos.
+Dialogue: 0,0:04:39.33,0:04:40.73,Default,,0,0,0,,Aya...
+Dialogue: 0,0:04:53.06,0:04:57.11,Default,,0,0,0,,¿Está por salir? ¿Ya vas a liberarlo?
+Dialogue: 0,0:04:58.60,0:05:01.54,Default,,0,0,0,,¡Está bien! ¡Vamos, Boku!
 Dialogue: 0,0:05:01.54,0:05:04.18,Default,,0,0,0,,¡Libéralo con todas tus fuerzas!
-Dialogue: 0,0:05:04.18,0:05:05.27,Default,,0,0,0,,¡Me corro!
-Dialogue: 0,0:05:09.59,0:05:11.93,Default,,0,0,0,,¡Salió mucha de tu cosa espesa!
-Dialogue: 0,0:05:13.22,0:05:16.40,Default,,0,0,0,,Si no se lo dices a \NMegu tal y como te dije,
-Dialogue: 0,0:05:16.40,0:05:20.83,Default,,0,0,0,,{\fad(0,977)}haré algo aún más\N increíble, ¿de acuerdo?
-Dialogue: 0,0:05:22.51,0:05:26.13,Default,,0,0,0,,Oye, ¿qué hacías con Aya?
-Dialogue: 0,0:05:26.13,0:05:27.84,Default,,0,0,0,,N-Nada en particular...
-Dialogue: 0,0:05:31.34,0:05:32.84,Default,,0,0,0,,Oh, da igual...
-Dialogue: 0,0:05:33.19,0:05:37.52,Default,,0,0,0,,Por cierto, ¿has visto una vagina antes?
-Dialogue: 0,0:05:37.52,0:05:40.31,Default,,0,0,0,,¡¿Eh?! N-N-No...
-Dialogue: 0,0:05:42.74,0:05:44.27,Default,,0,0,0,,¡Por supuesto, era obvio!
-Dialogue: 0,0:05:44.27,0:05:46.73,Default,,0,0,0,,Entonces, como regalo especial...
-Dialogue: 0,0:05:47.51,0:05:52.09,Default,,0,0,0,,Si te masturbas aquí y ahora, \Nte mostraré mi vagina.
-Dialogue: 0,0:05:52.09,0:05:53.23,Default,,0,0,0,,¡¿En serio?!
-Dialogue: 0,0:05:54.66,0:05:57.65,Default,,0,0,0,,¡Ya tienes una erección!\N ¡Qué gracioso!
-Dialogue: 0,0:05:57.65,0:06:00.16,Default,,0,0,0,,E-Entonces... ¡tú también, Megu!
-Dialogue: 0,0:06:00.87,0:06:03.46,Default,,0,0,0,,No te impacientes tanto.
-Dialogue: 0,0:06:04.69,0:06:06.00,Default,,0,0,0,,¡Aquí está!
-Dialogue: 0,0:06:06.00,0:06:07.55,Default,,0,0,0,,¡Vaya!
-Dialogue: 0,0:06:07.92,0:06:10.65,Default,,0,0,0,,La vagina de Megu...
-Dialogue: 0,0:06:10.65,0:06:14.92,Default,,0,0,0,,¿Qué te parece? \N¿No es bonita a pesar de que estoy jugando?
-Dialogue: 0,0:06:15.29,0:06:16.77,Default,,0,0,0,,¡Aquí también!
-Dialogue: 0,0:06:16.77,0:06:18.72,Default,,0,0,0,,M-Megu...
-Dialogue: 0,0:06:21.38,0:06:26.43,Default,,0,0,0,,¡Hacer algo tan sucio\N me está excitando!
-Dialogue: 0,0:06:27.03,0:06:28.90,Default,,0,0,0,,Estás viendo mi cuerpo,
-Dialogue: 0,0:06:28.90,0:06:32.69,Default,,0,0,0,,y salen fluidos mientras lo frotas.
-Dialogue: 0,0:06:35.66,0:06:40.20,Default,,0,0,0,,¡Creo que ya siento ganas!
-Dialogue: 0,0:06:40.84,0:06:42.79,Default,,0,0,0,,Yo ya...
-Dialogue: 0,0:06:43.82,0:06:45.16,Default,,0,0,0,,¡Sí!
-Dialogue: 0,0:06:52.44,0:06:55.00,Default,,0,0,0,,Megu, todavía estoy...
-Dialogue: 0,0:06:57.09,0:06:59.09,Default,,0,0,0,,Pues ni modo...
-Dialogue: 0,0:06:59.09,0:07:01.63,Default,,0,0,0,,No le cuentes a Aya de esto.
-Dialogue: 0,0:07:03.26,0:07:05.22,Default,,0,0,0,,{\i1}Es el pene de mi hermano...
-Dialogue: 0,0:07:05.22,0:07:08.81,Default,,0,0,0,,{\i1}¡Esto podría ser peligroso!
-Dialogue: 0,0:07:13.40,0:07:16.92,Default,,0,0,0,,Megu, ¡se siente asombroso \Ndentro de tu boca!
-Dialogue: 0,0:07:16.92,0:07:19.28,Default,,0,0,0,,¡Oh, esto es realmente increíble!
-Dialogue: 0,0:07:19.72,0:07:21.71,Default,,0,0,0,,{\i1}Este erótico aroma...
-Dialogue: 0,0:07:21.71,0:07:25.58,Default,,0,0,0,,{\i1}Lo sabía, este chico \Nrealmente hizo algo con Aya...
-Dialogue: 0,0:07:26.97,0:07:30.97,Default,,0,0,0,,{\i1}Es mi querido hermano que\N no he visto en mucho tiempo.
-Dialogue: 0,0:07:32.59,0:07:36.55,Default,,0,0,0,,{\i1}¡Por eso nunca se lo entregaré a Aya!
-Dialogue: 0,0:07:38.24,0:07:42.22,Default,,0,0,0,,{\i1}Aya me ordeñó, y ahora Megu...
-Dialogue: 0,0:07:44.97,0:07:47.18,Default,,0,0,0,,Megu, yo ya...
-Dialogue: 0,0:07:48.70,0:07:51.18,Default,,0,0,0,,¡Puedes liberarlo!
-Dialogue: 0,0:07:53.31,0:07:54.40,Default,,0,0,0,,¡Ahí viene!
-Dialogue: 0,0:07:58.07,0:08:01.83,Default,,0,0,0,,{\i1}Megu está cubierta de mi semen.
-Dialogue: 0,0:08:03.22,0:08:07.19,Default,,0,0,0,,¡Tu semen es tan espeso!
-Dialogue: 0,0:08:13.36,0:08:17.01,Default,,0,0,0,,¿Se sienten bien mis pechos vagina? {khe}
-Dialogue: 0,0:08:17.01,0:08:19.17,Default,,0,0,0,,Puedo seguir haciéndolo tanto como quieras.
-Dialogue: 0,0:08:21.06,0:08:23.92,Default,,0,0,0,,No voy a perder contra Aya...
-Dialogue: 0,0:08:23.92,0:08:24.64,Default,,0,0,0,,¿Eh?
-Dialogue: 0,0:08:25.00,0:08:26.64,Default,,0,0,0,,¡Nada!
-Dialogue: 0,0:08:26.64,0:08:29.77,Default,,0,0,0,,¡Vamos, empuja más fuerte!
-Dialogue: 0,0:08:31.63,0:08:34.78,Default,,0,0,0,,¡Tu pene se siente tan caliente!
+Dialogue: 0,0:05:04.18,0:05:05.36,Default,,0,0,0,,¡Me corro!
+Dialogue: 0,0:05:09.57,0:05:11.95,Default,,0,0,0,,¡Salió mucha de tu cosa espesa!
+Dialogue: 0,0:05:13.20,0:05:16.40,Default,,0,0,0,,Si no se lo dices a \NMegu tal y como te dije,
+Dialogue: 0,0:05:16.40,0:05:20.79,Default,,0,0,0,,{\fad(0,977)}haré algo aún más\N increíble, ¿de acuerdo?
+Dialogue: 0,0:05:22.49,0:05:26.13,Default,,0,0,0,,Oye, ¿qué hacías con Aya?
+Dialogue: 0,0:05:26.13,0:05:27.93,Default,,0,0,0,,N-Nada en particular...
+Dialogue: 0,0:05:31.32,0:05:32.93,Default,,0,0,0,,Oh, da igual...
+Dialogue: 0,0:05:33.17,0:05:37.52,Default,,0,0,0,,Por cierto, ¿has visto una vagina antes?
+Dialogue: 0,0:05:37.52,0:05:40.40,Default,,0,0,0,,¡¿Eh?! N-N-No...
+Dialogue: 0,0:05:42.72,0:05:44.27,Default,,0,0,0,,¡Por supuesto, era obvio!
+Dialogue: 0,0:05:44.27,0:05:46.82,Default,,0,0,0,,Entonces, como regalo especial...
+Dialogue: 0,0:05:47.49,0:05:52.09,Default,,0,0,0,,Si te masturbas aquí y ahora, \Nte mostraré mi vagina.
+Dialogue: 0,0:05:52.09,0:05:53.33,Default,,0,0,0,,¡¿En serio?!
+Dialogue: 0,0:05:54.64,0:05:57.65,Default,,0,0,0,,¡Ya tienes una erección!\N ¡Qué gracioso!
+Dialogue: 0,0:05:57.65,0:06:00.18,Default,,0,0,0,,E-Entonces... ¡tú también, Megu!
+Dialogue: 0,0:06:00.96,0:06:03.48,Default,,0,0,0,,No te impacientes tanto.
+Dialogue: 0,0:06:04.67,0:06:06.00,Default,,0,0,0,,¡Aquí está!
+Dialogue: 0,0:06:06.00,0:06:07.68,Default,,0,0,0,,¡Vaya!
+Dialogue: 0,0:06:07.90,0:06:10.65,Default,,0,0,0,,La vagina de Megu...
+Dialogue: 0,0:06:10.65,0:06:15.02,Default,,0,0,0,,¿Qué te parece? \N¿No es bonita a pesar de que estoy jugando?
+Dialogue: 0,0:06:15.27,0:06:16.77,Default,,0,0,0,,¡Aquí también!
+Dialogue: 0,0:06:16.77,0:06:18.74,Default,,0,0,0,,M-Megu...
+Dialogue: 0,0:06:21.36,0:06:26.53,Default,,0,0,0,,¡Hacer algo tan sucio\N me está excitando!
+Dialogue: 0,0:06:27.01,0:06:28.90,Default,,0,0,0,,Estás viendo mi cuerpo,
+Dialogue: 0,0:06:28.90,0:06:32.71,Default,,0,0,0,,y salen fluidos mientras lo frotas.
+Dialogue: 0,0:06:35.64,0:06:40.29,Default,,0,0,0,,¡Creo que ya siento ganas!
+Dialogue: 0,0:06:40.82,0:06:42.81,Default,,0,0,0,,Yo ya...
+Dialogue: 0,0:06:43.80,0:06:45.25,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:06:52.42,0:06:55.02,Default,,0,0,0,,Megu, todavía estoy...
+Dialogue: 0,0:06:57.07,0:06:59.09,Default,,0,0,0,,Pues ni modo...
+Dialogue: 0,0:06:59.09,0:07:01.73,Default,,0,0,0,,No le cuentes a Aya de esto.
+Dialogue: 0,0:07:03.24,0:07:05.22,Default,,0,0,0,,{\i1}Es el pene de mi hermano...
+Dialogue: 0,0:07:05.22,0:07:08.94,Default,,0,0,0,,{\i1}¡Esto podría ser peligroso!
+Dialogue: 0,0:07:13.38,0:07:16.92,Default,,0,0,0,,Megu, ¡se siente asombroso \Ndentro de tu boca!
+Dialogue: 0,0:07:16.92,0:07:19.41,Default,,0,0,0,,¡Oh, esto es realmente increíble!
+Dialogue: 0,0:07:19.70,0:07:21.71,Default,,0,0,0,,{\i1}Este erótico aroma...
+Dialogue: 0,0:07:21.71,0:07:25.67,Default,,0,0,0,,{\i1}Lo sabía, este chico \Nrealmente hizo algo con Aya...
+Dialogue: 0,0:07:26.95,0:07:30.99,Default,,0,0,0,,{\i1}Es mi querido hermano que\N no he visto en mucho tiempo.
+Dialogue: 0,0:07:32.57,0:07:36.64,Default,,0,0,0,,{\i1}¡Por eso nunca se lo entregaré a Aya!
+Dialogue: 0,0:07:38.22,0:07:42.24,Default,,0,0,0,,{\i1}Aya me ordeñó, y ahora Megu...
+Dialogue: 0,0:07:44.95,0:07:47.27,Default,,0,0,0,,Megu, yo ya...
+Dialogue: 0,0:07:48.68,0:07:51.20,Default,,0,0,0,,¡Puedes liberarlo!
+Dialogue: 0,0:07:53.29,0:07:54.53,Default,,0,0,0,,¡Ahí viene!
+Dialogue: 0,0:07:58.05,0:08:01.85,Default,,0,0,0,,{\i1}Megu está cubierta de mi semen.
+Dialogue: 0,0:08:03.20,0:08:07.34,Default,,0,0,0,,¡Tu semen es tan espeso!
+Dialogue: 0,0:08:13.34,0:08:17.01,Default,,0,0,0,,¿Se sienten bien mis pechos vagina? {khe}
+Dialogue: 0,0:08:17.01,0:08:19.31,Default,,0,0,0,,Puedo seguir haciéndolo \Ntanto como quieras.
+Dialogue: 0,0:08:21.04,0:08:23.92,Default,,0,0,0,,No voy a perder contra Aya...
+Dialogue: 0,0:08:23.92,0:08:24.73,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:08:24.98,0:08:26.64,Default,,0,0,0,,¡Nada!
+Dialogue: 0,0:08:26.64,0:08:29.86,Default,,0,0,0,,¡Vamos, empuja más fuerte!
+Dialogue: 0,0:08:31.61,0:08:34.78,Default,,0,0,0,,¡Tu pene se siente tan caliente!
 Dialogue: 0,0:08:34.78,0:08:36.70,Default,,0,0,0,,No me va a quemar, ¿o sí?
 Dialogue: 0,0:08:36.70,0:08:39.91,Default,,0,0,0,,¡En realidad se siente como si \Nestuvieras violándome el pecho!
-Dialogue: 0,0:08:39.91,0:08:43.48,Default,,0,0,0,,¡Estás absorto moviendo la cadera! ¡Qué lindo! 
-Dialogue: 0,0:08:43.48,0:08:46.12,Default,,0,0,0,,¡Esto se siente tan bien!
-Dialogue: 0,0:08:47.74,0:08:49.57,Default,,0,0,0,,{\fad(0,967)}¡Está saliendo!
-Dialogue: 0,0:08:51.44,0:08:56.13,Default,,0,0,0,,Definitivamente querrías\N metérmelo luego de eso, ¿eh?
-Dialogue: 0,0:08:56.13,0:09:01.05,Default,,0,0,0,,Vamos, ¡mete ese duro\N pene virgen dentro de mí!
-Dialogue: 0,0:09:02.83,0:09:04.96,Default,,0,0,0,,¡Rápido!
-Dialogue: 0,0:09:04.96,0:09:07.56,Default,,0,0,0,,¡Finalmente perderé la virginidad!
-Dialogue: 0,0:09:07.56,0:09:09.64,Default,,0,0,0,,¡Boku!
-Dialogue: 0,0:09:10.02,0:09:12.36,Default,,0,0,0,,¿Puedes venir aquí?
-Dialogue: 0,0:09:12.36,0:09:13.40,Default,,0,0,0,,¿Eh?
-Dialogue: 0,0:09:13.40,0:09:15.76,Default,,0,0,0,,No vayas.
-Dialogue: 0,0:09:15.76,0:09:17.03,Default,,0,0,0,,Megu...
-Dialogue: 0,0:09:17.80,0:09:20.41,Default,,0,0,0,,¡Te estoy diciendo que \Nno vayas con Aya!
-Dialogue: 0,0:09:20.41,0:09:25.91,Default,,0,0,0,,¡Porque yo tomaré tu virginidad!
-Dialogue: 0,0:09:29.27,0:09:33.91,Default,,0,0,0,,Y con esto, ¡finalmente ya no eres virgen!
-Dialogue: 0,0:09:38.18,0:09:40.38,Default,,0,0,0,,Dios, Megu...
-Dialogue: 0,0:09:41.21,0:09:44.40,Default,,0,0,0,,Me pregunto si ella lo sedujo antes.
-Dialogue: 0,0:09:46.23,0:09:47.99,Default,,0,0,0,,¡Qué profundo!
+Dialogue: 0,0:08:39.91,0:08:43.48,Default,,0,0,0,,¡Estás absorto moviendo la cadera! ¡Qué lindo!
+Dialogue: 0,0:08:43.48,0:08:46.17,Default,,0,0,0,,¡Esto se siente tan bien!
+Dialogue: 0,0:08:47.72,0:08:49.55,Default,,0,0,0,,{\fad(0,967)}¡Está saliendo!
+Dialogue: 0,0:08:51.42,0:08:56.13,Default,,0,0,0,,Definitivamente querrías\N metérmelo luego de eso, ¿eh?
+Dialogue: 0,0:08:56.13,0:09:01.18,Default,,0,0,0,,Vamos, ¡mete ese duro\N pene virgen dentro de mí!
+Dialogue: 0,0:09:02.81,0:09:04.96,Default,,0,0,0,,¡Rápido!
+Dialogue: 0,0:09:04.96,0:09:07.65,Default,,0,0,0,,¡Finalmente perderé la virginidad!
+Dialogue: 0,0:09:07.65,0:09:09.73,Default,,0,0,0,,¡Boku!
+Dialogue: 0,0:09:10.00,0:09:12.36,Default,,0,0,0,,¿Puedes venir aquí?
+Dialogue: 0,0:09:12.36,0:09:13.49,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:09:13.49,0:09:15.76,Default,,0,0,0,,No vayas.
+Dialogue: 0,0:09:15.76,0:09:17.05,Default,,0,0,0,,Megu...
+Dialogue: 0,0:09:17.78,0:09:20.53,Default,,0,0,0,,¡Te estoy diciendo que \Nno vayas con Aya!
+Dialogue: 0,0:09:20.53,0:09:26.00,Default,,0,0,0,,¡Porque yo tomaré tu virginidad!
+Dialogue: 0,0:09:29.25,0:09:34.01,Default,,0,0,0,,Y con esto, ¡finalmente ya no eres virgen!
+Dialogue: 0,0:09:38.16,0:09:40.47,Default,,0,0,0,,Dios, Megu...
+Dialogue: 0,0:09:41.19,0:09:44.42,Default,,0,0,0,,Me pregunto si ella lo sedujo antes.
+Dialogue: 0,0:09:46.21,0:09:47.99,Default,,0,0,0,,¡Qué profundo!
 Dialogue: 0,0:09:47.99,0:09:51.82,Default,,0,0,0,,¿No estás contento de que\N tu primera vez sea conmigo?
 Dialogue: 0,0:09:51.82,0:09:53.86,Default,,0,0,0,,¡Tu pene es demasiado excitante!
-Dialogue: 0,0:09:53.86,0:09:57.65,Default,,0,0,0,,¡Ninguna mujer ordinaria\N podría soportarlo!
-Dialogue: 0,0:09:58.89,0:10:01.87,Default,,0,0,0,,¡¿Qué está sucediendo?! \N¡Me está haciendo sentir muy bien!
-Dialogue: 0,0:10:01.87,0:10:04.82,Default,,0,0,0,,¡¿Tan increíble es el pene de mi hermano?!
-Dialogue: 0,0:10:07.00,0:10:09.31,Default,,0,0,0,,¡Se siente tan bien!
-Dialogue: 0,0:10:10.09,0:10:14.66,Default,,0,0,0,,¡Estás siendo muy engreído para alguien que era virgen hasta hace un momento!
+Dialogue: 0,0:09:53.86,0:09:57.74,Default,,0,0,0,,¡Ninguna mujer ordinaria\N podría soportarlo!
+Dialogue: 0,0:09:58.87,0:10:01.87,Default,,0,0,0,,¡¿Qué está sucediendo?! \N¡Me está haciendo sentir muy bien!
+Dialogue: 0,0:10:01.87,0:10:04.84,Default,,0,0,0,,¡¿Tan increíble es el pene de mi hermano?!
+Dialogue: 0,0:10:06.98,0:10:09.33,Default,,0,0,0,,¡Se siente tan bien!
+Dialogue: 0,0:10:10.07,0:10:14.66,Default,,0,0,0,,¡Estás siendo muy engreído para alguien que era virgen hasta hace un momento!
 Dialogue: 0,0:10:14.66,0:10:17.01,Default,,0,0,0,,¡Siento que todo está \Nsiendo aplastado dentro de mí!
-Dialogue: 0,0:10:17.01,0:10:20.09,Default,,0,0,0,,¡Lo estás convirtiendo \Nen tu agujero personal!
-Dialogue: 0,0:10:20.91,0:10:24.65,Default,,0,0,0,,¡No, esto es malo! \NSi te corres dentro ahora mismo,
+Dialogue: 0,0:10:17.01,0:10:20.18,Default,,0,0,0,,¡Lo estás convirtiendo \Nen tu agujero personal!
+Dialogue: 0,0:10:20.89,0:10:24.65,Default,,0,0,0,,¡No, esto es malo! \NSi te corres dentro ahora mismo,
 Dialogue: 0,0:10:24.65,0:10:27.29,Default,,0,0,0,,¡definitivamente terminarás embarazándome!
-Dialogue: 0,0:10:27.29,0:10:29.55,Default,,0,0,0,,Megu, ¡voy a liberarlo dentro!
-Dialogue: 0,0:10:30.10,0:10:32.30,Default,,0,0,0,,No... ¡No, no lo hagas!
-Dialogue: 0,0:10:32.30,0:10:34.88,Default,,0,0,0,,¡Dentro es peligroso!
-Dialogue: 0,0:10:40.68,0:10:42.69,Default,,0,0,0,,El semen de mi hermano...
-Dialogue: 0,0:10:42.69,0:10:46.07,Default,,0,0,0,,está fluyendo dentro de mí...
-Dialogue: 0,0:10:46.82,0:10:49.57,Default,,0,0,0,,Megu, gracias...
-Dialogue: 0,0:10:50.13,0:10:53.65,Default,,0,0,0,,{\i1}¡Tener sexo con mi \Nhermano es de lo mejor!
+Dialogue: 0,0:10:27.29,0:10:29.65,Default,,0,0,0,,Megu, ¡voy a liberarlo dentro!
+Dialogue: 0,0:10:30.08,0:10:32.30,Default,,0,0,0,,No... ¡No, no lo hagas!
+Dialogue: 0,0:10:32.30,0:10:34.90,Default,,0,0,0,,¡Dentro es peligroso!
+Dialogue: 0,0:10:40.66,0:10:42.69,Default,,0,0,0,,El semen de mi hermano...
+Dialogue: 0,0:10:42.69,0:10:46.16,Default,,0,0,0,,está fluyendo dentro de mí...
+Dialogue: 0,0:10:46.80,0:10:49.67,Default,,0,0,0,,Megu, gracias...
+Dialogue: 0,0:10:50.11,0:10:53.65,Default,,0,0,0,,{\i1}¡Tener sexo con mi \Nhermano es de lo mejor!
 Dialogue: 0,0:10:53.65,0:10:57.24,Default,,0,0,0,,{\i1}¡Es mucho mejor que todos los \Nhombres que he tenido hasta ahora!
-Dialogue: 0,0:10:57.24,0:10:59.53,Default,,0,0,0,,¡Ay no! ¡Aya me estaba llamando!
-Dialogue: 0,0:11:07.93,0:11:10.19,Default,,0,0,0,,{\i1}¡Finalmente me deshice de mi virginidad!
-Dialogue: 0,0:11:10.19,0:11:13.05,Default,,0,0,0,,{\i1}Aunque mi compañera \Nfue mi hermana de sangre.
-Dialogue: 0,0:11:13.43,0:11:16.06,Default,,0,0,0,,Aya, lamento haber tardado tanto.
-Dialogue: 0,0:11:16.42,0:11:17.93,Default,,0,0,0,,¡¿Eh?!
+Dialogue: 0,0:10:57.24,0:10:59.68,Default,,0,0,0,,¡Ay, no! ¡Aya me estaba llamando!
+Dialogue: 0,0:11:07.91,0:11:10.19,Default,,0,0,0,,{\i1}¡Finalmente me deshice de mi virginidad!
+Dialogue: 0,0:11:10.19,0:11:13.15,Default,,0,0,0,,{\i1}Aunque mi compañera \Nfue mi hermana de sangre.
+Dialogue: 0,0:11:13.41,0:11:16.08,Default,,0,0,0,,Aya, lamento haber tardado tanto.
+Dialogue: 0,0:11:16.40,0:11:17.93,Default,,0,0,0,,¡¿Eh?!
 Dialogue: 0,0:11:17.93,0:11:19.94,Default,,0,0,0,,Boku...
-Dialogue: 0,0:11:19.94,0:11:23.56,Default,,0,0,0,,Me cansé de esperar...
-Dialogue: 0,0:11:24.92,0:11:29.82,Default,,0,0,0,,Me excité al escucharte a \Nti y a Megu teniendo sexo.
-Dialogue: 0,0:11:30.51,0:11:34.83,Default,,0,0,0,,{\fad(0,979)}Lo he estado haciendo sola, ¿sabes?
-Dialogue: 0,0:11:37.07,0:11:41.16,Default,,0,0,0,,La verdad es que quería ser tu primera mujer.
+Dialogue: 0,0:11:19.94,0:11:23.66,Default,,0,0,0,,Me cansé de esperar...
+Dialogue: 0,0:11:24.90,0:11:29.91,Default,,0,0,0,,Me excité al escucharte a \Nti y a Megu teniendo sexo.
+Dialogue: 0,0:11:30.49,0:11:34.63,Default,,0,0,0,,{\fad(0,979)}Me he estado tocando yo sola.
+Dialogue: 0,0:11:37.05,0:11:41.16,Default,,0,0,0,,La verdad es que quería\N ser tu primera mujer.
 Dialogue: 0,0:11:41.16,0:11:43.80,Default,,0,0,0,,Pero ahora te llevas \Nmuy bien con Megu.
-Dialogue: 0,0:11:43.80,0:11:44.83,Default,,0,0,0,,Aya...
-Dialogue: 0,0:11:46.83,0:11:50.05,Default,,0,0,0,,Parece que Megu y yo hemos \Nestado compitiendo por ti.
-Dialogue: 0,0:11:50.05,0:11:52.34,Default,,0,0,0,,¡De alguna manera me entusiasma!
-Dialogue: 0,0:11:52.92,0:11:55.99,Default,,0,0,0,,Creo que Megu todavía \Nestá en medio de un orgasmo.
+Dialogue: 0,0:11:43.80,0:11:44.93,Default,,0,0,0,,Aya...
+Dialogue: 0,0:11:46.81,0:11:50.05,Default,,0,0,0,,Parece que Megu y yo hemos \Nestado compitiendo por ti.
+Dialogue: 0,0:11:50.05,0:11:52.44,Default,,0,0,0,,¡De alguna manera me entusiasma!
+Dialogue: 0,0:11:52.90,0:11:55.99,Default,,0,0,0,,Creo que Megu todavía \Nestá en medio de un orgasmo.
 Dialogue: 0,0:11:55.99,0:11:59.04,Default,,0,0,0,,¿Qué te gustaría hacer?
-Dialogue: 0,0:11:59.04,0:12:01.35,Default,,0,0,0,,¡Quiero hacerlo!\N ¡Quiero tener sexo contigo, Aya!
-Dialogue: 0,0:12:01.94,0:12:04.21,Default,,0,0,0,,¡Esa es una muy buena respuesta!
-Dialogue: 0,0:12:04.21,0:12:07.04,Default,,0,0,0,,¡Aquí está mi vagina como recompensa!
-Dialogue: 0,0:12:07.04,0:12:11.36,Default,,0,0,0,,Voy a engullir tu pene, ¿de acuerdo?
-Dialogue: 0,0:12:11.72,0:12:15.52,Default,,0,0,0,,Aya, tu vagina ya está empapada.
-Dialogue: 0,0:12:17.86,0:12:21.87,Default,,0,0,0,,Boku, ¡tu pene está dentro de mí!
-Dialogue: 0,0:12:21.87,0:12:25.19,Default,,0,0,0,,¡Estoy teniendo sexo con Aya!
-Dialogue: 0,0:12:25.39,0:12:28.53,Default,,0,0,0,,Finalmente somos uno.
-Dialogue: 0,0:12:28.53,0:12:31.06,Default,,0,0,0,,¡Estoy tan feliz!
-Dialogue: 0,0:12:36.66,0:12:40.83,Default,,0,0,0,,¡Tu pene se siente tan bien!
-Dialogue: 0,0:12:40.83,0:12:44.13,Default,,0,0,0,,¡Perdónanos por ser hermanas tan sucias!
-Dialogue: 0,0:12:44.13,0:12:47.62,Default,,0,0,0,,¡Nunca creí que fueras tan indecente, Aya!
-Dialogue: 0,0:12:50.15,0:12:54.08,Default,,0,0,0,,¡Es que tu pene es increíble!
-Dialogue: 0,0:12:55.35,0:12:58.08,Default,,0,0,0,,¡Megu podría oírme!
-Dialogue: 0,0:13:03.51,0:13:06.69,Default,,0,0,0,,¡Quiero darte más placer, Aya!
-Dialogue: 0,0:13:10.93,0:13:13.37,Default,,0,0,0,,¡Adoro esto!
-Dialogue: 0,0:13:13.37,0:13:16.22,Default,,0,0,0,,¡Es como si me estuvieras violando!
-Dialogue: 0,0:13:16.62,0:13:19.04,Default,,0,0,0,,¡Sé mi mujer de ahora en adelante!
-Dialogue: 0,0:13:19.96,0:13:21.25,Default,,0,0,0,,¡Estoy feliz!
+Dialogue: 0,0:11:59.04,0:12:01.37,Default,,0,0,0,,¡Quiero hacerlo!\N ¡Quiero tener sexo contigo, Aya!
+Dialogue: 0,0:12:01.92,0:12:04.21,Default,,0,0,0,,¡Esa es una muy buena respuesta!
+Dialogue: 0,0:12:04.21,0:12:07.04,Default,,0,0,0,,¡Aquí está mi vagina \Ncomo recompensa!
+Dialogue: 0,0:12:07.04,0:12:11.46,Default,,0,0,0,,Voy a engullir tu pene, ¿de acuerdo?
+Dialogue: 0,0:12:11.70,0:12:15.54,Default,,0,0,0,,Aya, tu vagina ya está empapada.
+Dialogue: 0,0:12:17.84,0:12:21.97,Default,,0,0,0,,Boku, ¡tu pene está dentro de mí!
+Dialogue: 0,0:12:21.97,0:12:25.35,Default,,0,0,0,,¡Estoy teniendo sexo con Aya!
+Dialogue: 0,0:12:25.35,0:12:28.53,Default,,0,0,0,,Finalmente somos uno.
+Dialogue: 0,0:12:28.53,0:12:31.08,Default,,0,0,0,,¡Estoy tan feliz!
+Dialogue: 0,0:12:36.64,0:12:40.83,Default,,0,0,0,,¡Tu pene se siente tan bien!
+Dialogue: 0,0:12:40.83,0:12:44.13,Default,,0,0,0,,¡Perdónanos por ser \Nhermanas tan sucias!
+Dialogue: 0,0:12:44.13,0:12:47.64,Default,,0,0,0,,¡Nunca pensé que fueras\Ntan indecente, Aya!
+Dialogue: 0,0:12:50.13,0:12:54.10,Default,,0,0,0,,¡Es que tu pene es increíble!
+Dialogue: 0,0:12:55.33,0:12:58.17,Default,,0,0,0,,¡Megu podría oírme!
+Dialogue: 0,0:13:03.49,0:13:06.71,Default,,0,0,0,,¡Quiero darte más placer, Aya!
+Dialogue: 0,0:13:10.91,0:13:13.37,Default,,0,0,0,,¡Adoro esto!
+Dialogue: 0,0:13:13.37,0:13:16.31,Default,,0,0,0,,¡Es como si me estuvieras violando!
+Dialogue: 0,0:13:16.60,0:13:19.06,Default,,0,0,0,,¡Sé mi mujer de ahora en adelante!
+Dialogue: 0,0:13:19.94,0:13:21.25,Default,,0,0,0,,¡Estoy feliz!
 Dialogue: 0,0:13:21.25,0:13:24.22,Default,,0,0,0,,¡Lo haré! ¡Seré tu mujer!
-Dialogue: 0,0:13:24.22,0:13:26.69,Default,,0,0,0,,¡Así que libéralo dentro! ¡Lléname!
-Dialogue: 0,0:13:27.88,0:13:30.70,Default,,0,0,0,,Me corro... ¡Me corro!
-Dialogue: 0,0:13:30.70,0:13:33.95,Default,,0,0,0,,¡Estoy a punto de \Nconvertirme en tu mujer!
-Dialogue: 0,0:13:34.45,0:13:38.56,Default,,0,0,0,,¡Lléname completamente! \N¡Quiero tu semen!
-Dialogue: 0,0:13:38.56,0:13:40.45,Default,,0,0,0,,¡Voy a correrme, Aya!
-Dialogue: 0,0:13:41.90,0:13:45.62,Default,,0,0,0,,¡Libera tu semen en\N lo más profundo de mí!
-Dialogue: 0,0:13:47.84,0:13:52.51,Default,,0,0,0,,{\i1}¡Se sintió mucho mejor que cualquier cosa que haya hecho hasta ahora!
-Dialogue: 0,0:13:53.25,0:13:55.24,Default,,0,0,0,,{\i1}Dios, Boku...
-Dialogue: 0,0:13:55.24,0:14:00.01,Default,,0,0,0,,{\fad(0,1472)\i1}¡Te has vuelto todo un hombre\N sin que me diera cuenta!
+Dialogue: 0,0:13:24.22,0:13:26.78,Default,,0,0,0,,¡Así que libéralo dentro! ¡Lléname!
+Dialogue: 0,0:13:27.86,0:13:30.70,Default,,0,0,0,,Me corro... ¡Me corro!
+Dialogue: 0,0:13:30.70,0:13:33.97,Default,,0,0,0,,¡Estoy a punto de \Nconvertirme en tu mujer!
+Dialogue: 0,0:13:34.43,0:13:38.56,Default,,0,0,0,,¡Lléname completamente! \N¡Quiero tu semen!
+Dialogue: 0,0:13:38.56,0:13:40.54,Default,,0,0,0,,¡Voy a correrme, Aya!
+Dialogue: 0,0:13:41.88,0:13:45.64,Default,,0,0,0,,¡Libera tu semen en\N lo más profundo de mí!
+Dialogue: 0,0:13:47.82,0:13:52.60,Default,,0,0,0,,{\i1}¡Se sintió mucho mejor que cualquier cosa que haya hecho hasta ahora!
+Dialogue: 0,0:13:53.23,0:13:55.24,Default,,0,0,0,,{\i1}Dios, Boku...
+Dialogue: 0,0:13:55.24,0:14:00.04,Default,,0,0,0,,{\fad(0,1472)\i1}¡Te has vuelto todo un hombre\N sin que me diera cuenta!
